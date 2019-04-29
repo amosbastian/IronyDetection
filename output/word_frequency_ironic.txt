@@ -1,27 +1,28 @@
 love, 167
 im, 118
-day, 106
+day, 107
 like, 97
 great, 97
 get, 83
-fun, 66
+fun, 68
 people, 66
 good, 63
 dont, 61
 one, 61
+christmas, 59
 cant, 59
 work, 59
 time, 58
-christmas, 58
 oh, 58
 really, 55
-today, 54
+today, 55
 well, 53
 know, 50
 going, 50
 see, 48
 thanks, 48
 thats, 43
+:face_with_tears_of_joy:, 42
 way, 40
 much, 39
 go, 39
@@ -55,15 +56,16 @@ us, 26
 yay, 26
 yeah, 26
 someone, 26
+:unamused_face:, 26
 nothing, 25
 better, 25
 even, 25
 never, 24
 best, 24
+night, 24
 last, 24
 working, 24
 big, 23
-night, 23
 school, 23
 happy, 22
 funny, 22
@@ -96,6 +98,7 @@ feeling, 17
 take, 17
 talk, 17
 rt, 17
+hour, 17
 family, 17
 theres, 17
 trying, 16
@@ -105,10 +108,8 @@ tell, 16
 service, 16
 u, 16
 news, 16
-hour, 16
 say, 16
 world, 16
-unamusedface, 16
 ready, 16
 first, 15
 early, 15
@@ -150,9 +151,10 @@ media, 12
 guess, 12
 cold, 12
 free, 12
+:flushed_face:, 12
 hard, 12
 gonna, 12
-facewithtearsofjoy, 12
+tomorrow, 12
 sounds, 12
 black, 12
 using, 12
@@ -170,7 +172,6 @@ find, 11
 please, 11
 already, 11
 joke, 11
-tomorrow, 11
 write, 11
 enough, 11
 also, 11
@@ -180,6 +181,7 @@ tweet, 11
 pretty, 11
 everyone, 11
 gets, 11
+:see-no-evil_monkey:, 11
 drive, 11
 favorite, 11
 totally, 11
@@ -201,6 +203,7 @@ shit, 10
 little, 10
 hope, 10
 bed, 10
+:expressionless_face:, 10
 name, 10
 saying, 10
 end, 10
@@ -216,6 +219,7 @@ give, 10
 able, 10
 must, 10
 face, 10
+rain, 10
 since, 10
 finally, 10
 wake, 10
@@ -238,15 +242,17 @@ saturday, 9
 taking, 9
 mom, 9
 old, 9
+:weary_face:, 9
+:pistol:, 9
 top, 9
 book, 9
 fan, 9
 hear, 9
 fix, 9
+:loudly_crying_face:, 9
 exam, 9
 pm, 9
 cause, 9
-rain, 9
 wearing, 9
 team, 9
 wanted, 9
@@ -254,6 +260,7 @@ person, 9
 truth, 9
 use, 9
 girls, 9
+:smiling_face_with_heart-eyes:, 9
 watch, 9
 miss, 9
 point, 9
@@ -286,6 +293,7 @@ xbox, 8
 country, 8
 went, 8
 law, 8
+:thumbs_up:, 8
 song, 8
 weeks, 8
 ok, 8
@@ -321,7 +329,7 @@ used, 7
 group, 7
 ask, 7
 anything, 7
-️, 7
+:face_with_medical_mask:, 7
 body, 7
 cuba, 7
 waiting, 7
@@ -386,6 +394,7 @@ math, 6
 parents, 6
 least, 6
 justice, 6
+:smiling_face_with_smiling_eyes:, 6
 yup, 6
 frozen, 6
 blessed, 6
@@ -409,6 +418,7 @@ caught, 6
 stay, 6
 ur, 6
 games, 6
+:smiling_face:, 6
 woke, 6
 later, 6
 win, 6
@@ -460,7 +470,6 @@ leave, 5
 whats, 5
 photo, 5
 gamergate, 5
-seenoevilmonkey, 5
 society, 5
 teachers, 5
 mother, 5
@@ -478,7 +487,6 @@ head, 5
 food, 5
 side, 5
 crap, 5
-thumbsupsign, 5
 everyday, 5
 r, 5
 government, 5
@@ -501,12 +509,12 @@ ignored, 5
 yrs, 5
 leaving, 5
 hands, 5
+perfectly, 5
 twice, 5
 small, 5
 eye, 5
 shocked, 5
 luck, 5
-flushedface, 5
 exactly, 5
 student, 5
 mls, 5
@@ -547,6 +555,7 @@ died, 4
 learned, 4
 starting, 4
 sucks, 4
+:face_screaming_in_fear:, 4
 hahahaha, 4
 sell, 4
 hmmm, 4
@@ -581,6 +590,9 @@ offer, 4
 exciting, 4
 shot, 4
 december, 4
+:thumbs_down:, 4
+:grinning_face_with_big_eyes:, 4
+:tired_face:, 4
 cia, 4
 shocking, 4
 calling, 4
@@ -595,6 +607,7 @@ tried, 4
 cup, 4
 vote, 4
 cannot, 4
+, 4
 record, 4
 kill, 4
 children, 4
@@ -608,17 +621,18 @@ clearly, 4
 football, 4
 plan, 4
 strong, 4
+:pouting_face:, 4
 cops, 4
 party, 4
 hindu, 4
 kashmir, 4
+room, 4
 direction, 4
 london, 4
 crime, 4
 okay, 4
 couldnt, 4
 came, 4
-expressionlessface, 4
 episode, 4
 five, 4
 especially, 4
@@ -631,6 +645,7 @@ full, 4
 price, 4
 water, 4
 public, 4
+:winking_face_with_tongue:, 4
 lives, 4
 stomach, 4
 reply, 4
@@ -650,7 +665,6 @@ sends, 4
 poor, 4
 wrote, 4
 city, 4
-perfectly, 4
 sit, 4
 plus, 4
 cancelled, 4
@@ -700,7 +714,6 @@ straight, 4
 selfie, 4
 insurance, 4
 torture, 4
-whitesmilingface, 4
 others, 4
 search, 4
 ericgarner, 4
@@ -725,6 +738,7 @@ hypocrites, 4
 folks, 4
 birthday, 4
 supporting, 4
+:speak-no-evil_monkey:, 4
 hr, 4
 cover, 4
 proud, 4
@@ -792,6 +806,7 @@ private, 3
 nose, 3
 pop, 3
 todays, 3
+:grinning_face:, 3
 sun, 3
 argument, 3
 except, 3
@@ -802,10 +817,8 @@ style, 3
 torturereport, 3
 bye, 3
 bills, 3
-thumbsdownsign, 3
 shoes, 3
 smell, 3
-smilingfacewithopenmouth, 3
 porn, 3
 annoying, 3
 attend, 3
@@ -825,7 +838,7 @@ care, 3
 abt, 3
 case, 3
 sentence, 3
-victoryhand, 3
+:victory_hand:, 3
 bbc, 3
 killed, 3
 seat, 3
@@ -839,6 +852,8 @@ deep, 3
 tolerant, 3
 faith, 3
 muslims, 3
+:smirking_face:, 3
+:sleeping_face:, 3
 earlier, 3
 future, 3
 drinking, 3
@@ -848,7 +863,6 @@ forget, 3
 pain, 3
 walk, 3
 doubt, 3
-room, 3
 speaking, 3
 mtvstars, 3
 feeding, 3
@@ -889,6 +903,7 @@ caring, 3
 ending, 3
 sitting, 3
 knee, 3
+:grinning_face_with_smiling_eyes:, 3
 france, 3
 walmart, 3
 nypd, 3
@@ -904,6 +919,8 @@ tesco, 3
 online, 3
 standing, 3
 superman, 3
+:red_heart:, 3
+:person_tipping_hand:, 3
 living, 3
 middle, 3
 climate, 3
@@ -922,6 +939,7 @@ quiet, 3
 damn, 3
 seen, 3
 amazingly, 3
+rn, 3
 c, 3
 x, 3
 blocked, 3
@@ -944,6 +962,7 @@ sneezing, 3
 sexy, 3
 easy, 3
 lots, 3
+:beaming_face_with_smiling_eyes:, 3
 adults, 3
 thatll, 3
 yep, 3
@@ -954,7 +973,10 @@ disorder, 3
 needs, 3
 finnish, 3
 past, 3
+:confused_face:, 3
 studied, 3
+:persevering_face:, 3
+:confounded_face:, 3
 ooh, 3
 liberal, 3
 positive, 3
@@ -970,7 +992,9 @@ sorrynotsorry, 3
 cycle, 3
 link, 3
 alert, 3
+:face_with_steam_from_nose:, 3
 burger, 3
+:weary_cat_face:, 3
 bringing, 3
 normal, 3
 science, 3
@@ -984,7 +1008,7 @@ accidentally, 3
 hearing, 3
 taliban, 3
 problems, 3
-okhandsign, 3
+:OK_hand:, 3
 arguing, 3
 biggest, 3
 received, 3
@@ -1023,9 +1047,11 @@ spending, 3
 crew, 3
 comcast, 3
 skin, 3
+:skull:, 3
 qb, 3
 grow, 3
 note, 3
+:crying_face:, 3
 move, 3
 sooooo, 3
 clever, 3
@@ -1057,6 +1083,7 @@ usual, 3
 drunk, 3
 bank, 3
 explain, 3
+:woman_dancing:, 3
 writing, 3
 killing, 3
 sometimes, 3
@@ -1073,6 +1100,7 @@ knew, 2
 brain, 2
 —, 2
 sec, 2
+:neutral_face:, 2
 physical, 2
 therapy, 2
 town, 2
@@ -1105,7 +1133,7 @@ cocaine, 2
 sd, 2
 bein, 2
 feet, 2
-pileofpoo, 2
+:pile_of_poo:, 2
 date, 2
 chances, 2
 dentist, 2
@@ -1143,7 +1171,6 @@ article, 2
 daily, 2
 schools, 2
 played, 2
-wearyfacewearyfacewearyface, 2
 logical, 2
 sorkin, 2
 todayshow, 2
@@ -1199,7 +1226,6 @@ complaining, 2
 spill, 2
 bidu, 2
 market, 2
-tiredface, 2
 timeline, 2
 seriously, 2
 gear, 2
@@ -1238,10 +1264,8 @@ swamp, 2
 bust, 2
 helping, 2
 lecture, 2
-smirkingface, 2
 lunch, 2
 giraffe, 2
-facewithtearsofjoyfacewithtearsofjoy, 2
 newyearnewme, 2
 communal, 2
 fanatic, 2
@@ -1329,7 +1353,6 @@ patrick, 2
 hosting, 2
 comedy, 2
 awards, 2
-facewithstuckouttongueandwinkingeye, 2
 texting, 2
 skills, 2
 mature, 2
@@ -1344,7 +1367,6 @@ pass, 2
 obesity, 2
 breakfast, 2
 upset, 2
-smilingfacewithopenmouthandsmilingeyes, 2
 huffingtonpost, 2
 capitalism, 2
 extended, 2
@@ -1373,7 +1395,6 @@ younger, 2
 punch, 2
 decides, 2
 complain, 2
-informationdeskperson, 2
 experience, 2
 psych, 2
 chocolate, 2
@@ -1386,6 +1407,7 @@ hoes, 2
 handle, 2
 rollingstone, 2
 nothanks, 2
+:face_blowing_a_kiss:, 2
 lectures, 2
 shirt, 2
 crowd, 2
@@ -1396,7 +1418,6 @@ dan, 2
 scream, 2
 animals, 2
 students, 2
-rn, 2
 min, 2
 essays, 2
 moral, 2
@@ -1416,7 +1437,6 @@ replace, 2
 nobody, 2
 legend, 2
 posting, 2
-smilingfacewithsmilingeyes, 2
 garden, 2
 john, 2
 types, 2
@@ -1449,6 +1469,7 @@ anticonversionlaw, 2
 af, 2
 eyes, 2
 package, 2
+:hot_beverage:, 2
 dm, 2
 broke, 2
 cus, 2
@@ -1473,7 +1494,6 @@ bbn, 2
 gotten, 2
 pregnant, 2
 migraines, 2
-loudlycryingface, 2
 youtube, 2
 channels, 2
 mufflerman, 2
@@ -1483,7 +1503,9 @@ celebs, 2
 professor, 2
 slow, 2
 decide, 2
+:grinning_face_with_sweat:, 2
 hallway, 2
+:oncoming_fist:, 2
 potential, 2
 yadav, 2
 words, 2
@@ -1523,6 +1545,7 @@ sausage, 2
 king, 2
 boxing, 2
 laws, 2
+:Santa_Claus:, 2
 funniest, 2
 department, 2
 advice, 2
@@ -1544,12 +1567,13 @@ art, 2
 run, 2
 fave, 2
 mta, 2
+diet, 2
 happyholidays, 2
 j, 2
 virgin, 2
 innovation, 2
-grinningface, 2
 close, 2
+elfs, 2
 biting, 2
 dogs, 2
 shared, 2
@@ -1664,6 +1688,8 @@ land, 2
 patriots, 2
 controlled, 2
 status, 2
+:pensive_face:, 2
+:smiling_face_with_sunglasses:, 2
 offices, 2
 options, 2
 third, 2
@@ -1673,7 +1699,6 @@ degree, 2
 rise, 2
 gulping, 2
 relevant, 2
-wearyface, 2
 kick, 2
 sink, 2
 laboureoin, 2
@@ -1752,6 +1777,7 @@ falling, 2
 committed, 2
 ironic, 2
 pair, 2
+:disappointed_face:, 2
 outs, 2
 moving, 2
 mansion, 2
@@ -1795,6 +1821,8 @@ mens, 2
 westbrook, 2
 attacking, 2
 written, 2
+:books:, 2
+:people_with_bunny_ears:, 2
 box, 2
 bowl, 2
 cheap, 2
@@ -1824,6 +1852,7 @@ ny, 2
 delhi, 2
 latest, 2
 pushes, 2
+:clinking_beer_mugs:, 2
 ottawa, 2
 fiber, 2
 per, 2
@@ -1834,7 +1863,6 @@ pursue, 2
 info, 2
 movements, 2
 religions, 2
-facewithtearsofjoyfacewithtearsofjoyfacewithtearsofjoy, 2
 tx, 2
 murder, 2
 fell, 2
@@ -1854,6 +1882,7 @@ notification, 2
 todd, 2
 bungie, 2
 destinythegame, 2
+:party_popper:, 2
 ten, 2
 destruction, 2
 eddiehearn, 2
@@ -1916,7 +1945,7 @@ doi, 1
 embarrassment, 1
 desperatly, 1
 ywtorres, 1
-grimacingface, 1
+:grimacing_face:, 1
 everrrrrrr, 1
 halalbeen, 1
 muslim, 1
@@ -1935,11 +1964,9 @@ editorspick, 1
 sillyvine, 1
 tr, 1
 httpstcodmkcxpyzq, 1
-neutralface, 1
 iwanttosleep, 1
 floptimuscrime, 1
 giantfootyguy, 1
-facescreaminginfear, 1
 truefriend, 1
 coz, 1
 fixed, 1
@@ -1976,7 +2003,7 @@ httptcovfpehxyl, 1
 guano, 1
 apes, 1
 shortly, 1
-flushedfacehundredpointssymbol, 1
+:hundred_points:, 1
 dominiqueansel, 1
 cronuts, 1
 bouchonbakeryrc, 1
@@ -2025,7 +2052,6 @@ reeeaaalll, 1
 imgoingtostruggle, 1
 vsfs, 1
 meeting, 1
-expressionlessfaceexpressionlessfaceexpressionlessface, 1
 httptcohrysvylpbi, 1
 bike, 1
 streets, 1
@@ -2124,7 +2150,9 @@ waarmedia, 1
 ycot, 1
 naples, 1
 emma, 1
-palmtreeblacksunwithrayssoeasytotakeapicwithatoddler, 1
+:palm_tree:, 1
+:sun:, 1
+soeasytotakeapicwithatoddler, 1
 wksandcounting, 1
 httptcoxbrmsxaj, 1
 bigclub, 1
@@ -2140,7 +2168,6 @@ wales, 1
 confirms, 1
 judicial, 1
 review, 1
-grinningfacepistol, 1
 matthewwrossi, 1
 wind, 1
 outdated, 1
@@ -2221,7 +2248,9 @@ filters, 1
 infection, 1
 miserable, 1
 jeez, 1
-dashsymboldropletsplashingsweatsymbol, 1
+:dashing_away:, 1
+:droplet:, 1
+:sweat_droplets:, 1
 ireland, 1
 smelly, 1
 sportstalksc, 1
@@ -2251,7 +2280,6 @@ jimhumbert, 1
 gotnewsdotcom, 1
 unbelievable, 1
 thug, 1
-tiredfacefacewithmedicalmask, 1
 nelsonicolee, 1
 informed, 1
 httptcoqrvvpvrjvh, 1
@@ -2387,7 +2415,8 @@ empty, 1
 street, 1
 screaming, 1
 phonesuch, 1
-gracewhitefrowningface, 1
+grace, 1
+:frowning_face:, 1
 djnoreenkhan, 1
 iharoonrashid, 1
 bhootnaath, 1
@@ -2412,7 +2441,6 @@ investments, 1
 shareholder, 1
 value, 1
 sleepy, 1
-sleepingface, 1
 betarocks, 1
 swansea, 1
 canteen, 1
@@ -2431,7 +2459,6 @@ chipped, 1
 windshield, 1
 gonnahaveagoodday, 1
 swollen, 1
-poutingfaceloudlycryingface, 1
 skysportsnewshq, 1
 errors, 1
 slightly, 1
@@ -2504,7 +2531,7 @@ ssarcasm, 1
 thesun, 1
 thingsthatarewrong, 1
 bliss, 1
-nicelysmilingfacewithsmilingeyes, 1
+nicely, 1
 jumper, 1
 missguided, 1
 shaunrmcgregor, 1
@@ -2515,7 +2542,7 @@ substring, 1
 fourier, 1
 transform, 1
 shakespeare, 1
-facewithnogoodgesturepistol, 1
+:person_gesturing_NO:, 1
 shamiwitness, 1
 dannymakkisyria, 1
 gunman, 1
@@ -2586,7 +2613,6 @@ unknowns, 1
 scared, 1
 kindergarten, 1
 dressed, 1
-todayfacewithtearsofjoyfacewithtearsofjoy, 1
 degrassi, 1
 eventually, 1
 melleegee, 1
@@ -2718,7 +2744,6 @@ streetart, 1
 httptcotkvgtdbo, 1
 shotsfired, 1
 braaanchy, 1
-unamusedfaceunamusedface, 1
 hrs, 1
 racialprofiling, 1
 holding, 1
@@ -2782,7 +2807,6 @@ yippee, 1
 happiness, 1
 makeit, 1
 breakit, 1
-expressionlessfacethumbsdownsign, 1
 pediatric, 1
 rounds, 1
 statin, 1
@@ -2793,7 +2817,6 @@ siege, 1
 fxmasparty, 1
 httptcoaxolftub, 1
 hall, 1
-fununamusedface, 1
 nervous, 1
 hyperventilating, 1
 clicks, 1
@@ -2831,7 +2854,8 @@ reengaged, 1
 soexcited, 1
 goshen, 1
 concert, 1
-nightumbrellawithraindropsviolin, 1
+:umbrella_with_rain_drops:, 1
+:violin:, 1
 hundred, 1
 kejriwal, 1
 declare, 1
@@ -2857,7 +2881,6 @@ cdlord, 1
 ccwilson, 1
 carnoustie, 1
 soggybreeks, 1
-flushedfaceflushedfaceflushedfaceflushedface, 1
 httptcodcnwttapn, 1
 waterstonesmk, 1
 servicewithasmile, 1
@@ -2889,7 +2912,6 @@ bec, 1
 cudnt, 1
 humid, 1
 uggs, 1
-smilingfacewithheartshapedeyesheavyblackheart, 1
 tis, 1
 leads, 1
 dobetter, 1
@@ -2959,8 +2981,8 @@ um, 1
 httptcoardgpl, 1
 heyingridnilsen, 1
 trex, 1
-vlogmasloudlycryingfacefacethrowingakiss, 1
-rexemojiseenoevilmonkey, 1
+vlogmas, 1
+rexemoji, 1
 gawd, 1
 bribrows, 1
 flipping, 1
@@ -2976,7 +2998,7 @@ donchathink, 1
 imnotsure, 1
 httptcoykcxmwdvx, 1
 jordan, 1
-facewithstuckouttongue, 1
+:face_with_tongue:, 1
 hater, 1
 httptcodanzveuucm, 1
 radhikamukherji, 1
@@ -3063,7 +3085,8 @@ chopped, 1
 tiny, 1
 pieces, 1
 killmenow, 1
-loudlycryingfacehochofire, 1
+:kitchen_knife:, 1
+:fire:, 1
 darhino, 1
 joystiq, 1
 nintendo, 1
@@ -3161,7 +3184,7 @@ michaeladair, 1
 celticliam, 1
 queen, 1
 destroy, 1
-papersneutralface, 1
+papers, 1
 protestors, 1
 heavyamountsofsarcasm, 1
 nbcsportsroc, 1
@@ -3188,7 +3211,6 @@ malikzminaj, 1
 nicki, 1
 zealand, 1
 httptcooimuznqr, 1
-grinningfacewithsmilingeyes, 1
 eyeroll, 1
 faint, 1
 chasing, 1
@@ -3227,7 +3249,7 @@ ye, 1
 oot, 1
 workin, 1
 accie, 1
-manwithturban, 1
+:person_wearing_turban:, 1
 lifes, 1
 craps, 1
 hoursofcrazy, 1
@@ -3267,7 +3289,7 @@ notreally, 1
 counterproductive, 1
 wage, 1
 givemeabrew, 1
-personwithfoldedhandsloudlycryingfacehotbeverage, 1
+:folded_hands:, 1
 ttc, 1
 champpayne, 1
 receiving, 1
@@ -3310,14 +3332,14 @@ honking, 1
 trace, 1
 forever, 1
 needmoresleep, 1
-sleepingfacesleepingsymbolconfusedface, 1
+:zzz:, 1
 unappreciated, 1
 georgeely, 1
 todaydue, 1
 butseriouslytheroadsarebad, 1
 amped, 1
 ibeendoingintegralssincethethgrade, 1
-smilingfacewithopenmouthandsmilingeyesfacewithstuckouttongueandwinkingeyefacewithtearsofjoyperseveringfacefacewithopenmouthandcoldsweattiredfaceconfoundedface, 1
+:anxious_face_with_sweat:, 1
 thestalwart, 1
 mcklein, 1
 mattlevine, 1
@@ -3337,7 +3359,6 @@ indias, 1
 rohtak, 1
 orgabeh, 1
 soulmate, 1
-smilingfacewithheartshapedeyes, 1
 zzzzzzz, 1
 icequeenerika, 1
 dalailamaquots, 1
@@ -3376,9 +3397,7 @@ jhb, 1
 volleyball, 1
 httptcoyswkgvty, 1
 known, 1
-smilingfacewithopenmouthandcoldsweat, 1
 ijustwannasleep, 1
-confusedface, 1
 responses, 1
 imma, 1
 sobs, 1
@@ -3388,7 +3407,6 @@ vscocam, 1
 httptcojqrlxvz, 1
 httptcohnwycjp, 1
 ignore, 1
-unamusedfacefistedhandsign, 1
 sleet, 1
 hun, 1
 iwannagobacktobed, 1
@@ -3425,7 +3443,7 @@ manworld, 1
 isabelle, 1
 nicest, 1
 texts, 1
-perseveringfaceconfoundedfacebrokenheart, 1
+:broken_heart:, 1
 swag, 1
 fanningmyself, 1
 simonorourke, 1
@@ -3438,7 +3456,6 @@ deficiency, 1
 foxy, 1
 ladywaynesworld, 1
 excellent, 1
-grinningfacewithsmilingeyeswhitesmilingfacesmilingfacewithsmilingeyes, 1
 redsteeze, 1
 touched, 1
 fucktherain, 1
@@ -3556,7 +3573,6 @@ persuasive, 1
 allergy, 1
 skip, 1
 erase, 1
-facewithlookoftriumph, 1
 johnnyebs, 1
 putyourtoysaway, 1
 badboyfriend, 1
@@ -3575,9 +3591,7 @@ markcoker, 1
 gun, 1
 bengals, 1
 sucking, 1
-wearycatfacefacescreaminginfearwearycatfacefacescreaminginfearwearycatfacefacescreaminginfear, 1
 popcorn, 1
-facewithtearsofjoyfatherchristmasfacewithtearsofjoyfatherchristmasfacewithtearsofjoypistolpistol, 1
 httptcoucmggw, 1
 trainer, 1
 dunckin, 1
@@ -3672,10 +3686,9 @@ misogynistic, 1
 toad, 1
 bigot, 1
 lucasharriss, 1
-confoundedface, 1
 hike, 1
 httptcodqmsbjvhg, 1
-dietsliceofpizza, 1
+:pizza:, 1
 httptcorfgzvzubc, 1
 offended, 1
 refer, 1
@@ -3690,9 +3703,8 @@ httptcojwulbpvm, 1
 danisnotonfire, 1
 disturbing, 1
 tickling, 1
-elfsaubergine, 1
+:eggplant:, 1
 philisinnocent, 1
-grinningfacewithsmilingeyespistol, 1
 httptcoctcrhdw, 1
 jimspellmantv, 1
 rtcom, 1
@@ -3737,7 +3749,7 @@ honestly, 1
 martinfreeman, 1
 loooong, 1
 yolo, 1
-smilingfacewithopenmouthandtightlyclosedeyes, 1
+:grinning_squinting_face:, 1
 meanwhile, 1
 zimbabwe, 1
 south, 1
@@ -3749,7 +3761,8 @@ corruption, 1
 ducking, 1
 bandage, 1
 techsupport, 1
-personalcomputerfloppydiskpistol, 1
+:laptop_computer:, 1
+:floppy_disk:, 1
 blanket, 1
 statements, 1
 root, 1
@@ -3806,7 +3819,7 @@ gunned, 1
 malala, 1
 scotland, 1
 gales, 1
-facesavouringdeliciousfood, 1
+:face_savoring_food:, 1
 alpemiel, 1
 whaddddddup, 1
 burst, 1
@@ -3866,7 +3879,7 @@ pe, 1
 saving, 1
 justkiddingilovethem, 1
 httptcouwqfzjdlkv, 1
-hourangryfacepoutingfacefacewithlookoftriumph, 1
+:angry_face:, 1
 orafa, 1
 slimdandymufc, 1
 coaches, 1
@@ -3959,10 +3972,9 @@ httptcoqdescaifsk, 1
 ddelafebre, 1
 illridewithyou, 1
 conquer, 1
-dayfacewithstuckouttongueandwinkingeye, 1
 ynhtna, 1
 leavemealonemom, 1
-myfaveheavyblackheart, 1
+myfave, 1
 bahhumbug, 1
 httptcojqajbisbw, 1
 transactions, 1
@@ -4012,7 +4024,6 @@ entrance, 1
 leftovers, 1
 cuzididntwantgoodfood, 1
 hungry, 1
-unamusedfacethumbsupsign, 1
 laundrymatfunlolyesisaidnotspincycleyouspinmeroundrecordplayerthatsmykidsmusicteachingth, 1
 httptcojhijrzrgl, 1
 selling, 1
@@ -4220,11 +4231,9 @@ yikes, 1
 ga, 1
 crush, 1
 emailed, 1
-smilingfacewithheartshapedeyesheavyblackheartfacethrowingakiss, 1
 loves, 1
 accepting, 1
 nonjudgmental, 1
-informationdeskpersonfacewithtearsofjoyloudlycryingfaceloudlycryingfaceloudlycryingface, 1
 vapours, 1
 cleansing, 1
 solvents, 1
@@ -4275,7 +4284,6 @@ tooth, 1
 throw, 1
 kegger, 1
 survivors, 1
-skullskullskull, 1
 motivating, 1
 lib, 1
 econ, 1
@@ -4315,7 +4323,6 @@ vibes, 1
 lizardpatrol, 1
 arnt, 1
 scandal, 1
-cryingfacecryingface, 1
 sanisanko, 1
 significant, 1
 witter, 1
@@ -4349,7 +4356,7 @@ jwalmsley, 1
 nogo, 1
 youareagenius, 1
 gasp, 1
-frogfacehotbeverage, 1
+:frog_face:, 1
 mix, 1
 drumsticks, 1
 grandpa, 1
@@ -4466,10 +4473,8 @@ sorts, 1
 mensfashion, 1
 httptcooxvqmobzsb, 1
 cjcarson, 1
-fununamusedfacepensiveface, 1
 havingi, 1
 sunscreen, 1
-smilingfacewithsunglasses, 1
 󾍁, 1
 grocery, 1
 store, 1
@@ -4481,7 +4486,6 @@ monroe, 1
 avenue, 1
 ponder, 1
 tan, 1
-flushedfacefacewithtearsofjoy, 1
 pale, 1
 beauty, 1
 manitibaprobs, 1
@@ -4553,7 +4557,7 @@ socially, 1
 klingons, 1
 httptcorksidvfkc, 1
 bitching, 1
-smilingfacewithsmilingeyeschristmastreefacewithlookoftriumph, 1
+:Christmas_tree:, 1
 stillalive, 1
 httptcoqckaqnqz, 1
 overnight, 1
@@ -4565,7 +4569,6 @@ capable, 1
 cpfc, 1
 butt, 1
 shape, 1
-seenoevilmonkeyfacewithtearsofjoy, 1
 dylanjohannink, 1
 challah, 1
 toast, 1
@@ -4589,7 +4592,6 @@ zen, 1
 deadhenry, 1
 bouncebackannie, 1
 silly, 1
-perfectlyfacewithtearsofjoy, 1
 deblasio, 1
 postfunerals, 1
 httptcoinzfxqcjgu, 1
@@ -4687,7 +4689,7 @@ ref, 1
 thompson, 1
 improved, 1
 hawt, 1
-kissmark, 1
+:kiss_mark:, 1
 evens, 1
 worksheet, 1
 leannrimes, 1
@@ -4725,7 +4727,6 @@ httptcouuyeqdfv, 1
 deanbcfc, 1
 wasalrahman, 1
 serjeyms, 1
-fistedhandsign, 1
 coworker, 1
 flurries, 1
 dejanlovrenlfc, 1
@@ -4855,7 +4856,7 @@ gorgeous, 1
 contradiction, 1
 dissecting, 1
 rat, 1
-mouse, 1
+:mouse:, 1
 buzzing, 1
 jamaicavaper, 1
 hifistud, 1
@@ -4900,7 +4901,6 @@ orion, 1
 launch, 1
 smells, 1
 sewer, 1
-facewithmedicalmaskfacewithmedicalmaskfacewithmedicalmaskfacewithmedicalmask, 1
 jeremynortham, 1
 insulting, 1
 pianos, 1
@@ -4965,7 +4965,7 @@ removing, 1
 starters, 1
 spray, 1
 perfume, 1
-facewithokgesture, 1
+:person_gesturing_OK:, 1
 richardjuan, 1
 malay, 1
 bagong, 1
@@ -5044,7 +5044,6 @@ apologised, 1
 stuism, 1
 assign, 1
 againwhat, 1
-unamusedfacefacewithmedicalmask, 1
 kinda, 1
 licked, 1
 puppy, 1
@@ -5055,12 +5054,10 @@ yodelonline, 1
 parcel, 1
 travelling, 1
 shadoyaosman, 1
-seenoevilmonkeyspeaknoevilmonkeyspeaknoevilmonkeyfacewithtearsofjoy, 1
 httptcobhiwoejm, 1
 erhotter, 1
 colleagues, 1
 httptcoellkapfh, 1
-pensivefacedisappointedface, 1
 thenewdeal, 1
 onetoo, 1
 socialist, 1
@@ -5101,7 +5098,6 @@ httptcoevdeheqpsj, 1
 listened, 1
 gimme, 1
 shelter, 1
-rainfacewithtearsofjoy, 1
 mexicans, 1
 mikeyglander, 1
 haleymae, 1
@@ -5226,7 +5222,6 @@ poop, 1
 hopefully, 1
 whatdoiexpect, 1
 nmucomputersarethebest, 1
-expressionlessfaceunamusedface, 1
 twitching, 1
 sofun, 1
 greatcustomerrelations, 1
@@ -5282,7 +5277,7 @@ mrbelzer, 1
 detective, 1
 ortypecast, 1
 wheels, 1
-downsmilingfacewithsmilingeyesmultiplemusicalnotes, 1
+:musical_notes:, 1
 omwtothemet, 1
 darth, 1
 vader, 1
@@ -5433,7 +5428,7 @@ cringe, 1
 mailman, 1
 jbrew, 1
 talkingabout, 1
-theteacherspoutingfacepoutingface, 1
+theteachers, 1
 historyreading, 1
 gameofthrones, 1
 asongoficefire, 1
@@ -5446,7 +5441,7 @@ miners, 1
 grozny, 1
 httptcoozlnycmg, 1
 thisisadisaster, 1
-whitesmilingfacepistolcocktailglass, 1
+:cocktail_glass:, 1
 annoyed, 1
 relieved, 1
 pre, 1
@@ -5470,7 +5465,6 @@ curious, 1
 benrhodes, 1
 warm, 1
 shorts, 1
-flushedfacesmirkingface, 1
 chicken, 1
 cuppa, 1
 soup, 1
@@ -5508,7 +5502,7 @@ doinitright, 1
 maybenextyear, 1
 newyearsresolution, 1
 performances, 1
-tomorrowbooksopenbookdancerdancerwomanwithbunnyears, 1
+:open_book:, 1
 easyday, 1
 lesters, 1
 deals, 1
@@ -5518,10 +5512,11 @@ involved, 1
 coherent, 1
 notsarcasm, 1
 artwork, 1
-sparklingheartsmilingfacewithhalo, 1
+:sparkling_heart:, 1
+:smiling_face_with_halo:, 1
 httptcokndyeayoa, 1
 loveeee, 1
-astonishedfacepistol, 1
+:astonished_face:, 1
 slavetothemic, 1
 sharing, 1
 mike, 1
@@ -5550,7 +5545,8 @@ truthinsider, 1
 uegaming, 1
 jvb, 1
 danielsmile, 1
-thumbsupsignpersonraisingbothhandsincelebrationclappinghandssign, 1
+:raising_hands:, 1
+:clapping_hands:, 1
 shouting, 1
 instructions, 1
 repeatedly, 1
@@ -5623,7 +5619,7 @@ snapchats, 1
 everybodys, 1
 yaaaayyy, 1
 valentines, 1
-twohearts, 1
+:two_hearts:, 1
 ally, 1
 mccoist, 1
 risehe, 1
@@ -5745,7 +5741,6 @@ httptcohcbnlzut, 1
 tyquorshaaa, 1
 jackie, 1
 awhile, 1
-facewithtearsofjoywearyfaceseenoevilmonkeyseenoevilmonkeyseenoevilmonkey, 1
 e, 1
 rulesweremadetobebroken, 1
 httptcocfguuq, 1
@@ -5772,7 +5767,6 @@ skynonexistent, 1
 aaaaaaandi, 1
 bestdayever, 1
 headache, 1
-unamusedfacechristmas, 1
 sarci, 1
 wit, 1
 low, 1
@@ -5787,7 +5781,8 @@ emwatson, 1
 elleuk, 1
 magazine, 1
 lorraineelle, 1
-worriedfaceconfusedfacecryingfacesleepyfacedisappointedface, 1
+:worried_face:, 1
+:sleepy_face:, 1
 nypdmutiny, 1
 citizens, 1
 meter, 1
@@ -5856,9 +5851,8 @@ ideal, 1
 adavies, 1
 arnie, 1
 seing, 1
-winkingface, 1
-clinkingbeermugsclinkingbeermugsdry, 1
-facewithtearsofjoyfacewithtearsofjoyfacewithtearsofjoyfacewithtearsofjoyfacewithtearsofjoy, 1
+:winking_face:, 1
+dry, 1
 toledo, 1
 lakeside, 1
 scavengers, 1
@@ -5878,7 +5872,6 @@ astlei, 1
 lcfc, 1
 ifyouknowwhatimean, 1
 antayit, 1
-againfacewithtearsofjoy, 1
 funnyguy, 1
 jihadi, 1
 killers, 1
@@ -5909,7 +5902,6 @@ prone, 1
 universal, 1
 racial, 1
 adooley, 1
-rnsmilingfacewithopenmouthandcoldsweat, 1
 fitbit, 1
 ihop, 1
 belgian, 1
@@ -6009,7 +6001,7 @@ gareths, 1
 opposite, 1
 chickenloving, 1
 vegetarian, 1
-facewithtearsofjoyhatchingchick, 1
+:hatching_chick:, 1
 bones, 1
 andjwest, 1
 reza, 1
@@ -6020,7 +6012,6 @@ mexico, 1
 daughter, 1
 topmum, 1
 httptcolfxhilkzev, 1
-smilingfacewithheartshapedeyessmilingfacewithheartshapedeyessmilingfacewithheartshapedeyessmilingfacewithheartshapedeyessmilingfacewithheartshapedeyessmilingfacewithheartshapedeyes, 1
 doctoratlarge, 1
 tones, 1
 flattire, 1
@@ -6086,7 +6077,7 @@ atheisteh, 1
 hannah, 1
 shots, 1
 indoor, 1
-runnerexpressionlessface, 1
+:person_running:, 1
 picky, 1
 twitterlesstrod, 1
 pickup, 1
@@ -6143,7 +6134,7 @@ rank, 1
 goodguy, 1
 httptcoxzbxmzihd, 1
 supaaa, 1
-openhandssign, 1
+:open_hands:, 1
 themullinator, 1
 jumaanewilliams, 1
 largely, 1
@@ -6155,7 +6146,7 @@ sir, 1
 historicalpics, 1
 stars, 1
 anatomy, 1
-beatingheart, 1
+:beating_heart:, 1
 chunk, 1
 dryer, 1
 jccfcanada, 1
@@ -6266,7 +6257,7 @@ classiest, 1
 pearl, 1
 necklaces, 1
 pulled, 1
-greenheart, 1
+:green_heart:, 1
 httptcofbtnei, 1
 shake, 1
 someones, 1
@@ -6395,7 +6386,6 @@ tait, 1
 cart, 1
 todaygonna, 1
 golfers, 1
-unamusedfacepistol, 1
 aegis, 1
 scholar, 1
 copy, 1
@@ -6414,8 +6404,6 @@ bbcnormans, 1
 edballsmp, 1
 stead, 1
 chancellor, 1
-partypopperits, 1
-partypopper, 1
 ice, 1
 palace, 1
 invisible, 1
@@ -6436,10 +6424,9 @@ burnout, 1
 victorias, 1
 recap, 1
 fries, 1
-frenchfries, 1
+:french_fries:, 1
 araancheta, 1
 ara, 1
-speaknoevilmonkey, 1
 davidfarrellfaz, 1
 aye, 1
 fecker, 1
@@ -6526,7 +6513,7 @@ maddenthetwiggy, 1
 trinity, 1
 laban, 1
 greenwich, 1
-dancerraisedhand, 1
+:raised_hand:, 1
 vision, 1
 peep, 1
 hole, 1
@@ -6597,12 +6584,9 @@ moronsput, 1
 nintendoamerica, 1
 waittheres, 1
 wii, 1
-diet, 1
 httptcouslzogymex, 1
 annamarierxoxo, 1
-booksspeaknoevilmonkey, 1
 procrastinators, 1
-womanwithbunnyears, 1
 hyper, 1
 mode, 1
 twirra, 1
@@ -6625,10 +6609,10 @@ ovechkins, 1
 corsi, 1
 firetrucks, 1
 blaring, 1
-sleepingfacefireengineambulance, 1
+:fire_engine:, 1
+:ambulance:, 1
 nosleepdecember, 1
 appreciating, 1
-roomsmilingfacewithopenmouththumbsupsign, 1
 irrationalfan, 1
 ukvslou, 1
 louisville, 1
@@ -6747,7 +6731,6 @@ greatscheduling, 1
 incaseyoucanttell, 1
 band, 1
 callslove, 1
-elfs, 1
 dreamjob, 1
 splitshift, 1
 friendzoned, 1
@@ -6821,7 +6804,6 @@ skyrockets, 1
 httptcolfnohjljx, 1
 nowhere, 1
 nit, 1
-perseveringfacefacewithmedicalmask, 1
 ccriadoperez, 1
 tit, 1
 eyed, 1
@@ -6870,7 +6852,7 @@ rave, 1
 edm, 1
 httptcoqkvjjkxq, 1
 tryna, 1
-smilingfacewithsunglassespennyboard, 1
+pennyboard, 1
 httptcoypktqslad, 1
 mickstaxis, 1
 httptcofqobkvzvrc, 1
@@ -6917,7 +6899,7 @@ carried, 1
 crank, 1
 amongst, 1
 pmt, 1
-nailpolish, 1
+:nail_polish:, 1
 angles, 1
 duck, 1
 wrinkles, 1
