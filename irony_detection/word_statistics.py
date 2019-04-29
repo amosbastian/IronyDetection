@@ -1,5 +1,6 @@
 import os
 import string
+import re
 
 from ekphrasis.classes.preprocessor import TextPreProcessor
 from ekphrasis.classes.tokenizer import SocialTokenizer
@@ -43,17 +44,25 @@ def parse_dataset(training_set):
     return labels, corpus
 
 
-def word_frequency(corpus):
+def word_frequency(corpus, filename="word_frequency", split_set=False):
+    if split_set:
+        pass
+
     words = []
     for sentence in corpus:
         # Remove punctuation
         sentence = sentence.translate(str.maketrans("", "", string.punctuation))
 
+        # Remove numbers
+        sentence = re.sub(r"\d+", "", sentence)
+
         # Extend words list while removing stop words
         words.extend([word for word in text_processor.pre_process_doc(sentence)
                       if word not in stopwords.words("english")])
 
-    print(FreqDist(words).most_common(20))
+    with open(f"{DIR_PATH}/../output/{filename}.txt", "w") as f:
+        for word, frequency in FreqDist(words).most_common():
+            f.write(f"{word}, {frequency}\n")
 
 if __name__ == "__main__":
     labels, corpus = parse_dataset("SemEval2018-T3-train-taskA")
