@@ -141,8 +141,41 @@ def relative_word_frequency_handler():
             relative_word_frequency(filename, word_frequencies)
 
 
-if __name__ == "__main__":
-    labels, corpus = parse_dataset("SemEval2018-T3-train-taskA_emoji")
+def word_removal(dataset_filename, frequency_filename, number_of_words):
+    """Takes the top `number_of_words` words from the given word frequency
+    file, removes these from the given dataset, and creates a new dataset from
+    this.
 
-    word_frequency_handler(labels, corpus)
-    relative_word_frequency_handler()
+    :param dataset_filename: Name of the dataset file.
+    :param frequency_filename: Name of the word frequency file.
+    :param number_of_words: The number of words that should be used from the
+        word frequency file.
+    """
+    training_directory = f"{DIR_PATH}/../datasets/train/"
+    output_directory = f"{DIR_PATH}/../output/"
+
+    with open(f"{output_directory}{frequency_filename}.txt") as f:
+        head = [next(f) for x in range(number_of_words)]
+        words = [x.split(",")[0] for x in head]
+
+    frequency_type = "relative" if "relative" in frequency_filename else "normal"
+    out_filename = f"{dataset_filename}_{frequency_type}_{number_of_words}"
+
+    fout = open(f"{training_directory}{out_filename}.txt", "w+")
+    fout.write("Tweet index	Label	Tweet text\n")
+    with open(f"{training_directory}{dataset_filename}.txt") as f:
+        for line in f.readlines():
+            if line.lower().startswith("tweet index"):
+                continue
+
+            for word in words:
+                line = line.replace(word, "")
+
+            fout.write(line)
+
+if __name__ == "__main__":
+    # labels, corpus = parse_dataset("SemEval2018-T3-train-taskA_emoji")
+
+    # word_frequency_handler(labels, corpus)
+    # relative_word_frequency_handler()
+    word_removal("SemEval2018-T3-train-taskA", "word_frequency", 20)
