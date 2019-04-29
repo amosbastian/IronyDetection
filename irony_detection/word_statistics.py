@@ -44,10 +44,7 @@ def parse_dataset(training_set):
     return labels, corpus
 
 
-def word_frequency(corpus, filename="word_frequency", split_set=False):
-    if split_set:
-        pass
-
+def word_frequency(corpus, filename="word_frequency"):
     words = []
     for sentence in corpus:
         # Remove punctuation
@@ -66,4 +63,16 @@ def word_frequency(corpus, filename="word_frequency", split_set=False):
 
 if __name__ == "__main__":
     labels, corpus = parse_dataset("SemEval2018-T3-train-taskA")
+
+    ironic = []
+    non_ironic = []
+
+    for label, sentence in zip(labels, corpus):
+        if label:
+            ironic.append(sentence)
+        else:
+            non_ironic.append(sentence)
+
     word_frequency(corpus)
+    word_frequency(ironic, "word_frequency_ironic")
+    word_frequency(non_ironic, "word_frequency_non_ironic")
