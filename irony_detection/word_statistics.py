@@ -27,6 +27,11 @@ DIR_PATH = os.path.dirname(os.path.realpath(__file__))
 
 
 def parse_dataset(training_set):
+    """Parses the SemEval dataset, and separates labels and tweets.
+
+    :param training_set: A SemEval dataset containing labels and tweets.
+    :return: A list of labels and a list of tweets.
+    """
     training_directory = f"{DIR_PATH}/../datasets/train/"
     labels = []
     corpus = []
@@ -47,6 +52,12 @@ def parse_dataset(training_set):
 
 
 def word_frequency(corpus, filename="word_frequency"):
+    """Creates a word frequency file, with a word and its frequency on each
+    line, from the given corpus.
+
+    :param corpus: A list of tweets.
+    :param filename: Name of the file, defaults to "word_frequency".
+    """
     words = []
     for sentence in corpus:
         # Remove punctuation
@@ -66,6 +77,14 @@ def word_frequency(corpus, filename="word_frequency"):
 
 
 def word_frequency_handler(labels, corpus):
+    """Creates three separate word frequency files:
+        1. For the entire corpus.
+        2. For all the ironic tweets.
+        3. For all the non-ironic tweets.
+
+    :param labels: List of labels (ironic or non-ironic) for the given tweets.
+    :param corpus: List of tokenised tweets.
+    """
     ironic = []
     non_ironic = []
 
@@ -92,10 +111,12 @@ def relative_word_frequency(filename, word_frequencies):
     relative_frequencies = []
 
     for word, frequency in word_frequencies:
+        # Calculate relative frequency per 1,000 words
         relative_frequency = int(frequency) * 1000.0 / total_words
         relative_frequencies.append((word, relative_frequency))
 
     with open(f"{DIR_PATH}/../output/relative_{filename}", "w") as f:
+        # Sort words by relative frequency (descending)
         for word, frequency in sorted(relative_frequencies,
                                       key=lambda x: x[1],
                                       reverse=True):
@@ -112,9 +133,11 @@ def relative_word_frequency_handler():
 
         with open(os.path.join(f"{DIR_PATH}/../output/", filename)) as f:
             word_frequencies = []
+
             for line in f.read().splitlines():
                 word, frequency = line.split(", ")
                 word_frequencies.append((word, frequency))
+
             relative_word_frequency(filename, word_frequencies)
 
 
