@@ -61,9 +61,8 @@ def word_frequency(corpus, filename="word_frequency"):
         for word, frequency in FreqDist(words).most_common():
             f.write(f"{word}, {frequency}\n")
 
-if __name__ == "__main__":
-    labels, corpus = parse_dataset("SemEval2018-T3-train-taskA")
 
+def word_frequency_handler(labels, corpus):
     ironic = []
     non_ironic = []
 
@@ -76,3 +75,9 @@ if __name__ == "__main__":
     word_frequency(corpus)
     word_frequency(ironic, "word_frequency_ironic")
     word_frequency(non_ironic, "word_frequency_non_ironic")
+
+
+if __name__ == "__main__":
+    labels, corpus = parse_dataset("SemEval2018-T3-train-taskA")
+
+    word_frequency_handler(labels, corpus)
