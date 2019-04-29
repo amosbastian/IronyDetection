@@ -3,7 +3,7 @@ import re
 import string
 
 import emoji
-
+import numpy as np
 from ekphrasis.classes.preprocessor import TextPreProcessor
 from ekphrasis.classes.tokenizer import SocialTokenizer
 from ekphrasis.dicts.emoticons import emoticons
@@ -56,7 +56,8 @@ def word_frequency(corpus, filename="word_frequency"):
         sentence = re.sub(r"\d+", "", sentence)
 
         # Extend words list while removing stop words
-        words.extend([emoji.demojize(word) for word in text_processor.pre_process_doc(sentence)
+        processed_sentence = text_processor.pre_process_doc(sentence)
+        words.extend([emoji.demojize(word) for word in processed_sentence
                       if word not in stopwords.words("english")])
 
     with open(f"{DIR_PATH}/../output/{filename}.txt", "w") as f:
@@ -79,7 +80,46 @@ def word_frequency_handler(labels, corpus):
     word_frequency(non_ironic, "word_frequency_non_ironic")
 
 
+def relative_word_frequency(filename, word_frequencies):
+    """Calculates the observed relative frequency, which is typically
+    normalised and reported as a frequency per 1,000 or 1,000,000 words, of
+    each word in the corpus.
+
+    :param filename: Name of the word frequency file.
+    :param word_frequencies: List of word, frequency tuples.
+    """
+    total_words = sum([int(x[1]) for x in word_frequencies])
+    relative_frequencies = []
+
+    for word, frequency in word_frequencies:
+        relative_frequency = int(frequency) * 1000.0 / total_words
+        relative_frequencies.append((word, relative_frequency))
+
+    with open(f"{DIR_PATH}/../output/relative_{filename}", "w") as f:
+        for word, frequency in sorted(relative_frequencies,
+                                      key=lambda x: x[1],
+                                      reverse=True):
+            f.write(f"{word}, {frequency}\n")
+
+
+def relative_word_frequency_handler():
+    """Creates a relative word frequency file from each normal word frequency
+    file in the output directory.
+    """
+    for filename in os.listdir(f"{DIR_PATH}/../output/"):
+        if not filename.startswith("word_frequency"):
+            continue
+
+        with open(os.path.join(f"{DIR_PATH}/../output/", filename)) as f:
+            word_frequencies = []
+            for line in f.read().splitlines():
+                word, frequency = line.split(", ")
+                word_frequencies.append((word, frequency))
+            relative_word_frequency(filename, word_frequencies)
+
+
 if __name__ == "__main__":
     labels, corpus = parse_dataset("SemEval2018-T3-train-taskA_emoji")
 
     word_frequency_handler(labels, corpus)
+    relative_word_frequency_handler()
