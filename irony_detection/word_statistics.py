@@ -1,6 +1,8 @@
 import os
-import string
 import re
+import string
+
+import emoji
 
 from ekphrasis.classes.preprocessor import TextPreProcessor
 from ekphrasis.classes.tokenizer import SocialTokenizer
@@ -54,7 +56,7 @@ def word_frequency(corpus, filename="word_frequency"):
         sentence = re.sub(r"\d+", "", sentence)
 
         # Extend words list while removing stop words
-        words.extend([word for word in text_processor.pre_process_doc(sentence)
+        words.extend([emoji.demojize(word) for word in text_processor.pre_process_doc(sentence)
                       if word not in stopwords.words("english")])
 
     with open(f"{DIR_PATH}/../output/{filename}.txt", "w") as f:
@@ -78,6 +80,6 @@ def word_frequency_handler(labels, corpus):
 
 
 if __name__ == "__main__":
-    labels, corpus = parse_dataset("SemEval2018-T3-train-taskA")
+    labels, corpus = parse_dataset("SemEval2018-T3-train-taskA_emoji")
 
     word_frequency_handler(labels, corpus)
