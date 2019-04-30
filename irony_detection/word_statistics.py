@@ -214,23 +214,23 @@ def ngram_removal(dataset_filename, frequency_filename, n):
     :param n: The number of n-grams that should be used from the
         n-gram frequency file.
     """
-    logging.info(f"Removing top {n} n-grams from {dataset_filename}.txt using "
-                 f"{frequency_filename}.txt")
+    logging.info(f"Removing top {n} n-grams from {dataset_filename} using "
+                 f"{frequency_filename}")
 
     training_directory = f"{DIR_PATH}/../datasets/train/"
     output_directory = f"{DIR_PATH}/../output/"
 
     # Get the `n` most frequently occurring ngrams from the frequency file
-    with open(f"{output_directory}{frequency_filename}.txt") as f:
+    with open(f"{output_directory}{frequency_filename}") as f:
         head = [next(f) for x in range(n)]
         ngrams = [x.split(",")[0] for x in head]
 
     out_filename = f"{dataset_filename}_{frequency_filename}_{n}"
 
-    fout = open(f"{training_directory}{out_filename}.txt", "w+")
+    fout = open(f"{training_directory}{out_filename}", "w+")
     fout.write("Tweet index	Label	Tweet text\n")
 
-    with open(f"{training_directory}{dataset_filename}.txt") as f:
+    with open(f"{training_directory}{dataset_filename}") as f:
         for line in f.readlines():
             if line.lower().startswith("tweet index"):
                 continue
@@ -246,8 +246,22 @@ def ngram_removal(dataset_filename, frequency_filename, n):
             split_line[2] = tweet
             fout.write("\t".join(split_line) + "\n")
 
+
+def ngram_removal_handler(dataset_filename, number_of_ngrams):
+    """Uses each file in the output folder, and the `number_of_ngrams` list to
+    create new training sets.
+
+    :param dataset_filename: Name of the dataset of which n-grams will be
+        removed.
+    :param number_of_ngrams: List of numbers indicating how many of the top `n`
+        n-grams should be removed from the dataset.
+    """
+    for n in number_of_ngrams:
+        for filename in os.listdir(f"{DIR_PATH}/../output/"):
+            ngram_removal(f"{dataset_filename}.txt", filename, n)
+
 if __name__ == "__main__":
     labels, corpus = parse_dataset("SemEval2018-T3-train-taskA_emoji")
     ngram_frequency_handler(labels, corpus)
     relative_ngram_frequency_handler()
-    ngram_removal("SemEval2018-T3-train-taskA", "2-gram_frequency", 20)
+    ngram_removal_handler("SemEval2018-T3-train-taskA", [3, 5, 10])
