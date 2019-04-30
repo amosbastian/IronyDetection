@@ -9,6 +9,7 @@ from ekphrasis.classes.tokenizer import SocialTokenizer
 from ekphrasis.dicts.emoticons import emoticons
 from nltk.corpus import stopwords
 from nltk.probability import FreqDist
+import collections
 
 text_processor = TextPreProcessor(
     normalize=[],
@@ -24,6 +25,46 @@ text_processor = TextPreProcessor(
 )
 
 DIR_PATH = os.path.dirname(os.path.realpath(__file__))
+
+
+def count_ngrams(lines, min_length=1, max_length=4):
+    """Iterate through given lines iterator (file object or list of lines) and
+    return n-gram frequencies. The return value is a dict mapping the length of
+    the n-gram to a collections.Counter object of n-gram tuple and number of
+    times that n-gram occurred. Returned dict includes n-grams of length
+    min_length to max_length.
+
+    Source: https://gist.github.com/benhoyt/dfafeab26d7c02a52ed17b6229f0cb52
+
+    :param lines: File object or list of lines.
+    :param min_length: Minimum length of n-gram, defaults to 2.
+    :param max_length: Maximum length of n-gram, defaults to 4.
+    :return: [description]
+    """
+    lengths = range(min_length, max_length + 1)
+    ngrams = {length: collections.Counter() for length in lengths}
+    queue = collections.deque(maxlen=max_length)
+
+    # Helper function to add n-grams at start of current queue to dict
+    def add_queue():
+        current = tuple(queue)
+        for length in lengths:
+            if len(current) >= length:
+                ngrams[length][current[:length]] += 1
+
+    # Loop through all lines and words and add n-grams to dict
+    for line in lines:
+        for word in tokenise(line):
+            queue.append(word)
+            if len(queue) >= max_length:
+                add_queue()
+
+    # Make sure we get the n-grams at the tail end of the queue
+    while len(queue) > min_length:
+        queue.popleft()
+        add_queue()
+
+    return ngrams
 
 
 def tokenise(sentence):
@@ -189,7 +230,8 @@ def word_removal(dataset_filename, frequency_filename, number_of_words):
 
 if __name__ == "__main__":
     labels, corpus = parse_dataset("SemEval2018-T3-train-taskA_emoji")
+    count_ngrams(corpus)
 
-    word_frequency_handler(labels, corpus)
-    relative_word_frequency_handler()
-    word_removal("SemEval2018-T3-train-taskA", "word_frequency", 20)
+    # word_frequency_handler(labels, corpus)
+    # relative_word_frequency_handler()
+    # word_removal("SemEval2018-T3-train-taskA", "word_frequency", 20)
