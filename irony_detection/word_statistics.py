@@ -223,7 +223,7 @@ def ngram_removal(dataset_filename, frequency_filename, n):
     # Get the `n` most frequently occurring ngrams from the frequency file
     with open(f"{output_directory}{frequency_filename}") as f:
         head = [next(f) for x in range(n)]
-        ngrams = [x.split(",")[0] for x in head]
+        ngrams = [x.split("\t")[-1].replace("\n", "") for x in head[1:]]
 
     out_filename = f"{dataset_filename[:-4]}_{frequency_filename[:-4]}_{n}.txt"
 
@@ -239,7 +239,7 @@ def ngram_removal(dataset_filename, frequency_filename, n):
             # frequencies, and replace certain n-grams in it
             tweet = " ".join(tokenise(line.split("\t")[2]))
             for ngram in ngrams:
-                tweet = tweet.replace(ngram, "")
+                tweet = tweet.replace(ngram, "").strip()
 
             # Write tokenised tweet with n-grams replaced back to a file
             split_line = line.split("\t")
