@@ -264,8 +264,31 @@ def ngram_removal_handler(dataset_filename, number_of_ngrams):
         for filename in os.listdir(f"{DIR_PATH}/../output/"):
             ngram_removal(f"{dataset_filename}.txt", filename, n)
 
+
+def tokenise_default():
+    training_directory = f"{DIR_PATH}/../datasets/train/"
+    default_dataset = "SemEval2018-T3-train-taskA_emoji"
+
+    fout = open(f"{training_directory}{default_dataset}_tokenised.txt", "w+")
+    fout.write("Tweet index	Label	Tweet text\n")
+
+    with open(f"{training_directory}{default_dataset}.txt") as f:
+        for line in f.readlines():
+            if line.lower().startswith("tweet index"):
+                continue
+
+            # Tokenise the tweet
+            tweet = " ".join(tokenise(line.split("\t")[2]))
+
+            # Write tokenised tweet back to a file
+            split_line = line.split("\t")
+            split_line[2] = tweet
+            fout.write("\t".join(split_line) + "\n")
+
+
 if __name__ == "__main__":
     labels, corpus = parse_dataset("SemEval2018-T3-train-taskA_emoji")
     ngram_frequency_handler(labels, corpus)
     relative_ngram_frequency_handler()
-    ngram_removal_handler("SemEval2018-T3-train-taskA", [3, 5, 10])
+    ngram_removal_handler("SemEval2018-T3-train-taskA_emoji", [3, 5, 10])
+    tokenise_default()
