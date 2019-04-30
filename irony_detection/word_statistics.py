@@ -121,8 +121,10 @@ def ngram_frequency(corpus, type=None):
             filename += f"_{type}"
 
         with open(f"{DIR_PATH}/../output/{filename}.txt", "w") as f:
-            for ngram, frequency in frequencies.most_common():
-                f.write(f"{' '.join(ngram)}, {frequency}\n")
+            f.write("Position\tFrequency\tn-gram\n")
+            for i, counter in enumerate(frequencies.most_common()):
+                ngram, frequency = counter
+                f.write(f"{i + 1}\t{frequency}\t{' '.join(ngram)}\n")
 
 
 def ngram_frequency_handler(labels, corpus):
@@ -166,10 +168,12 @@ def relative_ngram_frequency(filename, ngram_frequencies):
 
     with open(f"{DIR_PATH}/../output/relative_{filename}", "w") as f:
         # Sort ngrams by relative frequency (descending)
-        for ngram, frequency in sorted(relative_frequencies,
-                                       key=lambda x: x[1],
-                                       reverse=True):
-            f.write(f"{ngram}, {frequency}\n")
+        f.write("Position\tRelative Frequency\tn-gram\n")
+        for i, counter in enumerate(sorted(relative_frequencies,
+                                           key=lambda x: x[1],
+                                           reverse=True)):
+            ngram, frequency = counter
+            f.write(f"{i + 1}\t{frequency}\t{ngram}\n")
 
 
 def relative_ngram_frequency_handler():
@@ -184,7 +188,10 @@ def relative_ngram_frequency_handler():
             ngram_frequencies = []
 
             for line in f.read().splitlines():
-                ngram, frequency = line.split(", ")
+                if line.lower().startswith("position\t"):
+                    continue
+
+                frequency, ngram = line.split("\t")[1:]
                 ngram_frequencies.append((ngram, frequency))
 
             relative_ngram_frequency(filename, ngram_frequencies)
