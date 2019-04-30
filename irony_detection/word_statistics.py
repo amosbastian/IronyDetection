@@ -1,3 +1,4 @@
+import collections
 import os
 import re
 import string
@@ -9,7 +10,6 @@ from ekphrasis.classes.tokenizer import SocialTokenizer
 from ekphrasis.dicts.emoticons import emoticons
 from nltk.corpus import stopwords
 from nltk.probability import FreqDist
-import collections
 
 text_processor = TextPreProcessor(
     normalize=[],
