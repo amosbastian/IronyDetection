@@ -107,24 +107,26 @@ def parse_dataset(training_set):
     return labels, corpus
 
 
-def word_frequency(corpus, filename="word_frequency"):
-    """Creates a word frequency file, with a word and its frequency on each
-    line, from the given corpus.
+def ngram_frequency(corpus, type=None):
+    """Creates an n-gram frequency file, with an n-gram and its frequency on
+    each line, from the given corpus.
 
     :param corpus: A list of tweets.
-    :param filename: Name of the file, defaults to "word_frequency".
+    :param type: Type of corpus provided (e.g. ironic or non-ironic).
     """
-    words = []
-    for sentence in corpus:
-        words.extend(tokenise(sentence))
+    ngrams = count_ngrams(corpus)
+    for n, frequencies in ngrams.items():
+        filename = f"{n}-gram_frequency"
+        if type:
+            filename += f"_{type}"
 
-    with open(f"{DIR_PATH}/../output/{filename}.txt", "w") as f:
-        for word, frequency in FreqDist(words).most_common():
-            f.write(f"{word}, {frequency}\n")
+        with open(f"{DIR_PATH}/../output/{filename}.txt", "w") as f:
+            for ngram, frequency in frequencies.most_common():
+                f.write(f"{' '.join(ngram)}, {frequency}\n")
 
 
-def word_frequency_handler(labels, corpus):
-    """Creates three separate word frequency files:
+def ngram_frequency_handler(labels, corpus):
+    """Creates three separate n-gram frequency files:
         1. For the entire corpus.
         2. For all the ironic tweets.
         3. For all the non-ironic tweets.
@@ -141,12 +143,12 @@ def word_frequency_handler(labels, corpus):
         else:
             non_ironic.append(sentence)
 
-    word_frequency(corpus)
-    word_frequency(ironic, "word_frequency_ironic")
-    word_frequency(non_ironic, "word_frequency_non_ironic")
+    ngram_frequency(corpus)
+    ngram_frequency(ironic, "ironic")
+    ngram_frequency(non_ironic, "non_ironic")
 
 
-def relative_word_frequency(filename, word_frequencies):
+def relative_ngram_frequency(filename, word_frequencies):
     """Calculates the observed relative frequency, which is typically
     normalised and reported as a frequency per 1,000 or 1,000,000 words, of
     each word in the corpus.
@@ -170,7 +172,7 @@ def relative_word_frequency(filename, word_frequencies):
             f.write(f"{word}, {frequency}\n")
 
 
-def relative_word_frequency_handler():
+def relative_ngram_frequency_handler():
     """Creates a relative word frequency file from each normal word frequency
     file in the output directory.
     """
@@ -185,7 +187,7 @@ def relative_word_frequency_handler():
                 word, frequency = line.split(", ")
                 word_frequencies.append((word, frequency))
 
-            relative_word_frequency(filename, word_frequencies)
+            relative_ngram_frequency(filename, word_frequencies)
 
 
 def word_removal(dataset_filename, frequency_filename, number_of_words):
@@ -230,8 +232,6 @@ def word_removal(dataset_filename, frequency_filename, number_of_words):
 
 if __name__ == "__main__":
     labels, corpus = parse_dataset("SemEval2018-T3-train-taskA_emoji")
-    count_ngrams(corpus)
-
-    # word_frequency_handler(labels, corpus)
-    # relative_word_frequency_handler()
+    ngram_frequency_handler(labels, corpus)
+    # relative_ngram_frequency_handler()
     # word_removal("SemEval2018-T3-train-taskA", "word_frequency", 20)
