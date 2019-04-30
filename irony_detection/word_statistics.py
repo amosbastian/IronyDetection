@@ -190,26 +190,24 @@ def relative_ngram_frequency_handler():
             relative_ngram_frequency(filename, ngram_frequencies)
 
 
-def word_removal(dataset_filename, frequency_filename, number_of_words):
-    """Takes the top `number_of_words` words from the given word frequency
-    file, removes these from the given dataset, and creates a new dataset from
-    this.
+def ngram_removal(dataset_filename, frequency_filename, n):
+    """Takes the top `n` n-grams from the given ngram frequency file, removes
+    these from the given dataset, and creates a new dataset from this.
 
     :param dataset_filename: Name of the dataset file.
-    :param frequency_filename: Name of the word frequency file.
-    :param number_of_words: The number of words that should be used from the
-        word frequency file.
+    :param frequency_filename: Name of the n-gram frequency file.
+    :param n: The number of n-grams that should be used from the
+        n-gram frequency file.
     """
     training_directory = f"{DIR_PATH}/../datasets/train/"
     output_directory = f"{DIR_PATH}/../output/"
 
-    # Get the `number_of_words` most frequently occurring words from the
-    # frequency file
+    # Get the `n` most frequently occurring ngrams from the frequency file
     with open(f"{output_directory}{frequency_filename}.txt") as f:
-        head = [next(f) for x in range(number_of_words)]
-        words = [x.split(",")[0] for x in head]
+        head = [next(f) for x in range(n)]
+        ngrams = [x.split(",")[0] for x in head]
 
-    out_filename = f"{dataset_filename}_{frequency_filename}_{number_of_words}"
+    out_filename = f"{dataset_filename}_{frequency_filename}_{n}"
 
     fout = open(f"{training_directory}{out_filename}.txt", "w+")
     fout.write("Tweet index	Label	Tweet text\n")
@@ -219,19 +217,19 @@ def word_removal(dataset_filename, frequency_filename, number_of_words):
             if line.lower().startswith("tweet index"):
                 continue
 
-            # Tokenise the tweet in the same way as when calculating word
-            # frequencies, and replace certain words in it
+            # Tokenise the tweet in the same way as when calculating n-gram
+            # frequencies, and replace certain n-grams in it
             tweet = " ".join(tokenise(line.split("\t")[2]))
-            for word in words:
-                tweet = tweet.replace(word, "")
+            for ngram in ngrams:
+                tweet = tweet.replace(ngram, "")
 
-            # Write tokenised tweet with words replaced back to a file
+            # Write tokenised tweet with n-grams replaced back to a file
             split_line = line.split("\t")
             split_line[2] = tweet
             fout.write("\t".join(split_line) + "\n")
 
 if __name__ == "__main__":
     labels, corpus = parse_dataset("SemEval2018-T3-train-taskA_emoji")
-    # ngram_frequency_handler(labels, corpus)
+    ngram_frequency_handler(labels, corpus)
     relative_ngram_frequency_handler()
-    # word_removal("SemEval2018-T3-train-taskA", "word_frequency", 20)
+    ngram_removal("SemEval2018-T3-train-taskA", "2-gram_frequency", 20)
