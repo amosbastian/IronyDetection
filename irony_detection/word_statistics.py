@@ -262,7 +262,8 @@ def ngram_removal_handler(dataset_filename, number_of_ngrams):
     """
     for n in number_of_ngrams:
         for filename in os.listdir(f"{DIR_PATH}/../output/"):
-            ngram_removal(f"{dataset_filename}.txt", filename, n)
+            if not filename.startswith("relative"):
+                ngram_removal(f"{dataset_filename}.txt", filename, n)
 
 
 def tokenise_default():
