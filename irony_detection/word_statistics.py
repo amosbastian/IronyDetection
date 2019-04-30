@@ -225,7 +225,7 @@ def ngram_removal(dataset_filename, frequency_filename, n):
         head = [next(f) for x in range(n)]
         ngrams = [x.split(",")[0] for x in head]
 
-    out_filename = f"{dataset_filename}_{frequency_filename}_{n}"
+    out_filename = f"{dataset_filename[:-4]}_{frequency_filename[:-4]}_{n}.txt"
 
     fout = open(f"{training_directory}{out_filename}", "w+")
     fout.write("Tweet index	Label	Tweet text\n")
