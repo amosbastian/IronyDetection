@@ -1941,7 +1941,6 @@ Tweet index	Label	Tweet text
 1940	1	thecheshirekat thelividpatriot ya cause country calm peaceful everyone arming
 1941	0	chriscomben lexpersaud priory contract wear hugely popular priory ultras #does #count #xxx
 1942	1	white people irrelevant point black community needs rise yall control #truth
-1943	1	
 1944	1	im fricken peachy today
 1945	0	thetweetofgod even think religious freedom restoration act michigan ridiculous
 1946	0	liamwalker term time son smilingfacewithopenmouthandtightlyclosedeyessmilingfacewithsunglasses
@@ -2534,7 +2533,6 @@ Tweet index	Label	Tweet text
 2533	1	sure lets go back work day leaving four hours ago #fb
 2534	1	ninjalikescheez python tweeter send
 2535	0	gilmanjames absolutely life shouldnt hard thing haha
-2536	1	
 2537	1	richardcarter thanks thatll help loads
 2538	1	russia says ruble crisis reserves dive inflation climbs httptcokxvlkirdb via reuters
 2539	1	richarddawkins accusations twitter shouldnt count though ive heard tales talk replace grad jury sys
