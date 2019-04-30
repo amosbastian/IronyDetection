@@ -26,6 +26,21 @@ text_processor = TextPreProcessor(
 DIR_PATH = os.path.dirname(os.path.realpath(__file__))
 
 
+def tokenise(sentence):
+    """Tokenise the given sentence."""
+    # Remove punctuation, except #
+    punctuation = "!\"$%&'()*+,-./:;<=>?@[\]^_`{|}~"
+    sentence = sentence.translate(str.maketrans("", "", punctuation))
+
+    # Remove numbers
+    sentence = re.sub(r"\d+", "", sentence)
+
+    # Remove stopwords and convert emojis to text
+    processed_sentence = text_processor.pre_process_doc(sentence)
+    return [emoji.demojize(word) for word in processed_sentence
+            if word not in stopwords.words("english")]
+
+
 def parse_dataset(training_set):
     """Parses the SemEval dataset, and separates labels and tweets.
 
@@ -60,16 +75,7 @@ def word_frequency(corpus, filename="word_frequency"):
     """
     words = []
     for sentence in corpus:
-        # Remove punctuation
-        sentence = sentence.translate(str.maketrans("", "", string.punctuation))
-
-        # Remove numbers
-        sentence = re.sub(r"\d+", "", sentence)
-
-        # Extend words list while removing stop words
-        processed_sentence = text_processor.pre_process_doc(sentence)
-        words.extend([emoji.demojize(word) for word in processed_sentence
-                      if word not in stopwords.words("english")])
+        words.extend(tokenise(sentence))
 
     with open(f"{DIR_PATH}/../output/{filename}.txt", "w") as f:
         for word, frequency in FreqDist(words).most_common():
@@ -171,12 +177,8 @@ def word_removal(dataset_filename, frequency_filename, number_of_words):
                 continue
 
             # Tokenise the tweet in the same way as when calculating word
-            # frequencies
-            split_tweet = [emoji.demojize(word) for word in
-                           text_processor.pre_process_doc(line.split("\t")[2])
-                           if word not in stopwords.words("english")]
-            tweet = " ".join(split_tweet)
-
+            # frequencies, and replace certain words in it
+            tweet = " ".join(tokenise(line.split("\t")[2]))
             for word in words:
                 tweet = tweet.replace(word, "")
 
@@ -186,8 +188,8 @@ def word_removal(dataset_filename, frequency_filename, number_of_words):
             fout.write("\t".join(split_line) + "\n")
 
 if __name__ == "__main__":
-    # labels, corpus = parse_dataset("SemEval2018-T3-train-taskA_emoji")
+    labels, corpus = parse_dataset("SemEval2018-T3-train-taskA_emoji")
 
-    # word_frequency_handler(labels, corpus)
-    # relative_word_frequency_handler()
+    word_frequency_handler(labels, corpus)
+    relative_word_frequency_handler()
     word_removal("SemEval2018-T3-train-taskA", "word_frequency", 20)
