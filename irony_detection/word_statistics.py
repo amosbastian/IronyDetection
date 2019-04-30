@@ -154,24 +154,36 @@ def word_removal(dataset_filename, frequency_filename, number_of_words):
     training_directory = f"{DIR_PATH}/../datasets/train/"
     output_directory = f"{DIR_PATH}/../output/"
 
+    # Get the `number_of_words` most frequently occurring words from the
+    # frequency file
     with open(f"{output_directory}{frequency_filename}.txt") as f:
         head = [next(f) for x in range(number_of_words)]
         words = [x.split(",")[0] for x in head]
 
-    frequency_type = "relative" if "relative" in frequency_filename else "normal"
-    out_filename = f"{dataset_filename}_{frequency_type}_{number_of_words}"
+    out_filename = f"{dataset_filename}_{frequency_filename}_{number_of_words}"
 
     fout = open(f"{training_directory}{out_filename}.txt", "w+")
     fout.write("Tweet index	Label	Tweet text\n")
+
     with open(f"{training_directory}{dataset_filename}.txt") as f:
         for line in f.readlines():
             if line.lower().startswith("tweet index"):
                 continue
 
-            for word in words:
-                line = line.replace(word, "")
+            # Tokenise the tweet in the same way as when calculating word
+            # frequencies
+            split_tweet = [emoji.demojize(word) for word in
+                           text_processor.pre_process_doc(line.split("\t")[2])
+                           if word not in stopwords.words("english")]
+            tweet = " ".join(split_tweet)
 
-            fout.write(line)
+            for word in words:
+                tweet = tweet.replace(word, "")
+
+            # Write tokenised tweet with words replaced back to a file
+            split_line = line.split("\t")
+            split_line[2] = tweet
+            fout.write("\t".join(split_line) + "\n")
 
 if __name__ == "__main__":
     # labels, corpus = parse_dataset("SemEval2018-T3-train-taskA_emoji")
