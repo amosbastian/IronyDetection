@@ -148,28 +148,28 @@ def ngram_frequency_handler(labels, corpus):
     ngram_frequency(non_ironic, "non_ironic")
 
 
-def relative_ngram_frequency(filename, word_frequencies):
+def relative_ngram_frequency(filename, ngram_frequencies):
     """Calculates the observed relative frequency, which is typically
     normalised and reported as a frequency per 1,000 or 1,000,000 words, of
     each word in the corpus.
 
-    :param filename: Name of the word frequency file.
-    :param word_frequencies: List of word, frequency tuples.
+    :param filename: Name of the n-gram frequency file.
+    :param ngram_frequencies: List of n-gram, frequency tuples.
     """
-    total_words = sum([int(x[1]) for x in word_frequencies])
+    total_ngrams = sum([int(x[1]) for x in ngram_frequencies])
     relative_frequencies = []
 
-    for word, frequency in word_frequencies:
-        # Calculate relative frequency per 1,000 words
-        relative_frequency = int(frequency) * 1000.0 / total_words
-        relative_frequencies.append((word, relative_frequency))
+    for ngram, frequency in ngram_frequencies:
+        # Calculate relative frequency per 1,000 ngrams
+        relative_frequency = int(frequency) * 1000.0 / total_ngrams
+        relative_frequencies.append((ngram, relative_frequency))
 
     with open(f"{DIR_PATH}/../output/relative_{filename}", "w") as f:
-        # Sort words by relative frequency (descending)
-        for word, frequency in sorted(relative_frequencies,
-                                      key=lambda x: x[1],
-                                      reverse=True):
-            f.write(f"{word}, {frequency}\n")
+        # Sort ngrams by relative frequency (descending)
+        for ngram, frequency in sorted(relative_frequencies,
+                                       key=lambda x: x[1],
+                                       reverse=True):
+            f.write(f"{ngram}, {frequency}\n")
 
 
 def relative_ngram_frequency_handler():
@@ -177,17 +177,17 @@ def relative_ngram_frequency_handler():
     file in the output directory.
     """
     for filename in os.listdir(f"{DIR_PATH}/../output/"):
-        if not filename.startswith("word_frequency"):
+        if not re.match(r"\d-gram", filename):
             continue
 
         with open(os.path.join(f"{DIR_PATH}/../output/", filename)) as f:
-            word_frequencies = []
+            ngram_frequencies = []
 
             for line in f.read().splitlines():
-                word, frequency = line.split(", ")
-                word_frequencies.append((word, frequency))
+                ngram, frequency = line.split(", ")
+                ngram_frequencies.append((ngram, frequency))
 
-            relative_ngram_frequency(filename, word_frequencies)
+            relative_ngram_frequency(filename, ngram_frequencies)
 
 
 def word_removal(dataset_filename, frequency_filename, number_of_words):
@@ -232,6 +232,6 @@ def word_removal(dataset_filename, frequency_filename, number_of_words):
 
 if __name__ == "__main__":
     labels, corpus = parse_dataset("SemEval2018-T3-train-taskA_emoji")
-    ngram_frequency_handler(labels, corpus)
-    # relative_ngram_frequency_handler()
+    # ngram_frequency_handler(labels, corpus)
+    relative_ngram_frequency_handler()
     # word_removal("SemEval2018-T3-train-taskA", "word_frequency", 20)
