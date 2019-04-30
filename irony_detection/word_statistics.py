@@ -1,4 +1,5 @@
 import collections
+import logging
 import os
 import re
 import string
@@ -24,6 +25,7 @@ text_processor = TextPreProcessor(
     dicts=[emoticons]
 )
 
+logging.basicConfig(level=logging.DEBUG)
 DIR_PATH = os.path.dirname(os.path.realpath(__file__))
 
 
@@ -41,6 +43,8 @@ def count_ngrams(lines, min_length=1, max_length=4):
     :param max_length: Maximum length of n-gram, defaults to 4.
     :return: [description]
     """
+    logging.info("Counting n-grams")
+
     lengths = range(min_length, max_length + 1)
     ngrams = {length: collections.Counter() for length in lengths}
     queue = collections.deque(maxlen=max_length)
@@ -88,6 +92,8 @@ def parse_dataset(training_set):
     :param training_set: A SemEval dataset containing labels and tweets.
     :return: A list of labels and a list of tweets.
     """
+    logging.info("Parsing the dataset")
+
     training_directory = f"{DIR_PATH}/../datasets/train/"
     labels = []
     corpus = []
@@ -120,6 +126,7 @@ def ngram_frequency(corpus, type=None):
         if type:
             filename += f"_{type}"
 
+        logging.info(f"Creating n-gram frequency file: {filename}.txt")
         with open(f"{DIR_PATH}/../output/{filename}.txt", "w") as f:
             f.write("Position\tFrequency\tn-gram\n")
             for i, counter in enumerate(frequencies.most_common()):
@@ -162,12 +169,13 @@ def relative_ngram_frequency(filename, ngram_frequencies):
     relative_frequencies = []
 
     for ngram, frequency in ngram_frequencies:
-        # Calculate relative frequency per 1,000 ngrams
+        # Calculate relative frequency per 1,000 n-grams
         relative_frequency = int(frequency) * 1000.0 / total_ngrams
         relative_frequencies.append((ngram, relative_frequency))
 
+    logging.info(f"Creating relative n-gram frequency file: relative_{filename}")
     with open(f"{DIR_PATH}/../output/relative_{filename}", "w") as f:
-        # Sort ngrams by relative frequency (descending)
+        # Sort n-grams by relative frequency (descending)
         f.write("Position\tRelative Frequency\tn-gram\n")
         for i, counter in enumerate(sorted(relative_frequencies,
                                            key=lambda x: x[1],
@@ -206,6 +214,9 @@ def ngram_removal(dataset_filename, frequency_filename, n):
     :param n: The number of n-grams that should be used from the
         n-gram frequency file.
     """
+    logging.info(f"Removing top {n} n-grams from {dataset_filename}.txt using "
+                 f"{frequency_filename}.txt")
+
     training_directory = f"{DIR_PATH}/../datasets/train/"
     output_directory = f"{DIR_PATH}/../output/"
 
