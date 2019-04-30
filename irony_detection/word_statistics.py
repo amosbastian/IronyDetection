@@ -241,6 +241,10 @@ def ngram_removal(dataset_filename, frequency_filename, n):
             for ngram in ngrams:
                 tweet = tweet.replace(ngram, "").strip()
 
+            # Tweet has been completely removed, so don't include it
+            if not tweet:
+                continue
+
             # Write tokenised tweet with n-grams replaced back to a file
             split_line = line.split("\t")
             split_line[2] = tweet
