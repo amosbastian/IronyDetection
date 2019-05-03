@@ -287,9 +287,30 @@ def tokenise_default():
             fout.write("\t".join(split_line) + "\n")
 
 
+def get_frequencies(filename):
+    with open(os.path.join(f"{DIR_PATH}/../output/", filename)) as f:
+        ngram_frequencies = []
+
+        for line in f.read().splitlines():
+            if line.lower().startswith("position\t"):
+                continue
+
+            frequency, ngram = line.split("\t")[1:]
+            ngram_frequencies.append((ngram, frequency))
+
+    return ngram_frequencies
+
+
+def irony_comparison():
+    for n in range(1, 4):
+        irony = get_frequencies(f"{n}-gram_frequency_ironic.txt")
+        non_irony = get_frequencies(f"{n}-gram_frequency_non_ironic.txt")
+
+
 if __name__ == "__main__":
-    labels, corpus = parse_dataset("SemEval2018-T3-train-taskA_emoji")
-    ngram_frequency_handler(labels, corpus)
-    relative_ngram_frequency_handler()
-    ngram_removal_handler("SemEval2018-T3-train-taskA_emoji", [3, 5, 10])
-    tokenise_default()
+    # labels, corpus = parse_dataset("SemEval2018-T3-train-taskA_emoji")
+    # ngram_frequency_handler(labels, corpus)
+    # relative_ngram_frequency_handler()
+    # ngram_removal_handler("SemEval2018-T3-train-taskA_emoji", [3, 5, 10])
+    # tokenise_default()
+    irony_comparison()
