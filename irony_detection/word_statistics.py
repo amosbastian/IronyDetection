@@ -301,7 +301,7 @@ def get_frequencies(filename):
     return ngram_frequencies
 
 
-def calculate_difference(irony, non_irony):
+def frequency_difference(irony, non_irony):
     frequency_difference = []
     for ngram, frequency in non_irony:
         try:
@@ -316,10 +316,17 @@ def calculate_difference(irony, non_irony):
 
 
 def irony_comparison():
-    for n in range(1, 2):
+    for n in range(1, 5):
         irony = get_frequencies(f"{n}-gram_frequency_ironic.txt")
         non_irony = get_frequencies(f"{n}-gram_frequency_non_ironic.txt")
-        calculate_difference(irony, non_irony)
+        filename = f"{n}-gram_frequency_ironic_vs_non_ironic"
+
+        logging.info(f"Creating n-gram frequency file: {filename}.txt")
+        with open(f"{DIR_PATH}/../output/{filename}.txt", "w") as f:
+            f.write("Position\tFrequency\tn-gram\n")
+            for i, counter in enumerate(frequency_difference(irony, non_irony)):
+                ngram, frequency = counter
+                f.write(f"{i + 1}\t{frequency}\t{ngram}\n")
 
 
 if __name__ == "__main__":
