@@ -301,10 +301,25 @@ def get_frequencies(filename):
     return ngram_frequencies
 
 
+def calculate_difference(irony, non_irony):
+    frequency_difference = []
+    for ngram, frequency in non_irony:
+        try:
+            ironic_frequency = int([x for x in irony if x[0] == ngram][-1][-1])
+        except IndexError:
+            ironic_frequency = 0
+
+        frequency_difference.append(
+            (ngram, abs(int(frequency) - ironic_frequency)))
+
+    return sorted(frequency_difference, key=lambda x: x[1], reverse=True)
+
+
 def irony_comparison():
-    for n in range(1, 4):
+    for n in range(1, 2):
         irony = get_frequencies(f"{n}-gram_frequency_ironic.txt")
         non_irony = get_frequencies(f"{n}-gram_frequency_non_ironic.txt")
+        calculate_difference(irony, non_irony)
 
 
 if __name__ == "__main__":
