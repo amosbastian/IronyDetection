@@ -267,6 +267,9 @@ def ngram_removal_handler(dataset_filename, number_of_ngrams):
 
 
 def tokenise_default():
+    """Tokenises the default training set and writes it back to a file without
+    removing any n-grams.
+    """
     training_directory = f"{DIR_PATH}/../datasets/train/"
     default_dataset = "SemEval2018-T3-train-taskA_emoji"
 
@@ -288,6 +291,11 @@ def tokenise_default():
 
 
 def get_frequencies(filename):
+    """Loads n-grams and frequencies from the given file and returns this as a
+    list of n-gram, frequency tuples.
+
+    :param filename: The name of the n-gram frequency file.
+    """
     with open(os.path.join(f"{DIR_PATH}/../output/", filename)) as f:
         ngram_frequencies = []
 
@@ -302,21 +310,38 @@ def get_frequencies(filename):
 
 
 def frequency_difference(irony, non_irony):
+    """Returns a list of tuples containing an n-gram and the difference in
+    frequency between the ironic and non-ironic tweets.
+
+    :param irony: A list of n-gram, frequency tuples generated from ironic
+        tweets.
+    :param non_irony: A list of n-gram, frequency tuples generated from
+        non-ironic tweets.
+    """
     frequency_difference = []
+
     for ngram, frequency in non_irony:
+        # For each n-gram in non-ironic tweets, find its respective frequency
+        # in ironic tweets
         try:
             ironic_frequency = int([x for x in irony if x[0] == ngram][-1][-1])
         except IndexError:
             ironic_frequency = 0
 
+        # Take the absolute difference
         frequency_difference.append(
             (ngram, abs(int(frequency) - ironic_frequency)))
 
+    # Sort from high to low
     return sorted(frequency_difference, key=lambda x: x[1], reverse=True)
 
 
 def irony_comparison():
+    """Creates new frequency files for each ironic and non-ironic [1-4]-gram
+    frequency file.
+    """
     for n in range(1, 5):
+        # Get the ironic and non-ironic n-gram frequencies
         irony = get_frequencies(f"{n}-gram_frequency_ironic.txt")
         non_irony = get_frequencies(f"{n}-gram_frequency_non_ironic.txt")
         filename = f"{n}-gram_frequency_ironic_vs_non_ironic"
@@ -324,6 +349,7 @@ def irony_comparison():
         logging.info(f"Creating n-gram frequency file: {filename}.txt")
         with open(f"{DIR_PATH}/../output/{filename}.txt", "w") as f:
             f.write("Position\tFrequency\tn-gram\n")
+            # Iterate over the n-gram, frequency differences tuples
             for i, counter in enumerate(frequency_difference(irony, non_irony)):
                 ngram, frequency = counter
                 f.write(f"{i + 1}\t{frequency}\t{ngram}\n")
