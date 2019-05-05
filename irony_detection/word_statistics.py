@@ -155,6 +155,7 @@ def ngram_frequency_handler(labels, corpus):
     ngram_frequency(corpus)
     ngram_frequency(ironic, "ironic")
     ngram_frequency(non_ironic, "non_ironic")
+    irony_comparison_handler()
 
 
 def relative_ngram_frequency(filename, ngram_frequencies):
@@ -336,7 +337,7 @@ def frequency_difference(irony, non_irony):
     return sorted(frequency_difference, key=lambda x: x[1], reverse=True)
 
 
-def irony_comparison():
+def irony_comparison_handler():
     """Creates new frequency files for each ironic and non-ironic [1-4]-gram
     frequency file.
     """
@@ -356,9 +357,8 @@ def irony_comparison():
 
 
 if __name__ == "__main__":
-    # labels, corpus = parse_dataset("SemEval2018-T3-train-taskA_emoji")
-    # ngram_frequency_handler(labels, corpus)
-    # relative_ngram_frequency_handler()
-    # ngram_removal_handler("SemEval2018-T3-train-taskA_emoji", [3, 5, 10])
-    # tokenise_default()
-    irony_comparison()
+    labels, corpus = parse_dataset("SemEval2018-T3-train-taskA_emoji")
+    ngram_frequency_handler(labels, corpus)
+    relative_ngram_frequency_handler()
+    ngram_removal_handler("SemEval2018-T3-train-taskA_emoji", range(31))
+    tokenise_default()
