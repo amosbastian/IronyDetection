@@ -245,20 +245,20 @@ def frequency_difference(irony, non_irony):
     return sorted(frequency_difference, key=lambda x: x[1], reverse=True)
 
 
-def irony_comparison_handler():
+def irony_comparison_handler(element):
     """Creates new frequency files for each ironic and non-ironic [1-4]-gram
     frequency file.
     """
     for n in range(1, 5):
         # Get the ironic and non-ironic n-gram frequencies
-        irony = get_frequencies(f"{n}-gram_frequency_ironic.txt")
-        non_irony = get_frequencies(f"{n}-gram_frequency_non_ironic.txt")
-        filename = f"{n}-gram_frequency_ironic_vs_non_ironic"
+        irony = get_frequencies(f"{n}-{element}_frequency_ironic.txt")
+        non_irony = get_frequencies(f"{n}-{element}_frequency_non_ironic.txt")
+        filename = f"{n}-{element}_frequency_ironic_vs_non_ironic"
 
-        logging.info(f"Creating n-gram frequency file: {filename}.txt")
+        logging.info(f"Creating n-{element} frequency file: {filename}.txt")
         with open(f"{DIR_PATH}/../output/{filename}.txt", "w") as f:
-            f.write("Position\tFrequency\tn-gram\n")
-            # Iterate over the n-gram, frequency differences tuples
+            f.write(f"Position\tFrequency\tn-{element}\n")
+            # Iterate over the n-gram / emoji, frequency differences tuples
             for i, counter in enumerate(frequency_difference(irony, non_irony)):
-                ngram, frequency = counter
-                f.write(f"{i + 1}\t{frequency}\t{ngram}\n")
+                element_type, frequency = counter
+                f.write(f"{i + 1}\t{frequency}\t{element_type}\n")
