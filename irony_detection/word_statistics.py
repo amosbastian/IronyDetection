@@ -51,7 +51,6 @@ def ngram_frequency_handler(labels, corpus):
     ngram_frequency(corpus)
     ngram_frequency(ironic, "ironic")
     ngram_frequency(non_ironic, "non_ironic")
-    irony_comparison_handler()
 
 
 def relative_ngram_frequency(filename, ngram_frequencies):
@@ -102,9 +101,13 @@ def relative_ngram_frequency_handler():
             relative_ngram_frequency(filename, ngram_frequencies)
 
 
-if __name__ == "__main__":
-    labels, corpus = parse_dataset("SemEval2018-T3-train-taskA_emoji")
+def word_statistics(labels, corpus):
     ngram_frequency_handler(labels, corpus)
     relative_ngram_frequency_handler()
     ngram_removal_handler("SemEval2018-T3-train-taskA_emoji", range(2))
+
+
+if __name__ == "__main__":
+    labels, corpus = parse_dataset("SemEval2018-T3-train-taskA_emoji")
+    word_statistics(labels, corpus)
     tokenise_default()
