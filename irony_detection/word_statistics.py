@@ -104,10 +104,11 @@ def relative_ngram_frequency_handler():
 def word_statistics(labels, corpus):
     ngram_frequency_handler(labels, corpus)
     relative_ngram_frequency_handler()
-    ngram_removal_handler("SemEval2018-T3-train-taskA_emoji", range(2))
 
 
 if __name__ == "__main__":
     labels, corpus = parse_dataset("SemEval2018-T3-train-taskA_emoji")
     word_statistics(labels, corpus)
     tokenise_default()
+    irony_comparison_handler()
+    ngram_removal_handler("SemEval2018-T3-train-taskA_emoji", range(1, 31))

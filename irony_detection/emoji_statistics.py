@@ -1,11 +1,13 @@
 import logging
 import os
+import re
 
 import emoji
 import numpy as np
 from emoji.unicode_codes import EMOJI_UNICODE
 
-from utils import count_ngrams, parse_dataset
+from utils import (count_ngrams, irony_comparison_handler,
+                   ngram_removal_handler, parse_dataset, tokenise_default)
 
 logging.basicConfig(level=logging.DEBUG)
 DIR_PATH = os.path.dirname(os.path.realpath(__file__))
@@ -24,16 +26,16 @@ def emoji_frequency(corpus, type=None):
         if type:
             filename += f"_{type}"
 
-        logging.info(f"Creating n-gram frequency file: {filename}.txt")
+        logging.info(f"Creating emoji frequency file: {filename}.txt")
         with open(f"{DIR_PATH}/../output/{filename}.txt", "w") as f:
-            f.write("Position\tFrequency\tn-gram\n")
+            f.write("Position\tFrequency\temoji\n")
             for i, counter in enumerate(frequencies.most_common()):
-                ngram, frequency = counter
+                emoji, frequency = counter
 
-                if not set(ngram).issubset(set(EMOJI_UNICODE.keys())):
+                if not set(emoji).issubset(set(EMOJI_UNICODE.keys())):
                     continue
 
-                f.write(f"{i + 1}\t{frequency}\t{' '.join(ngram)}\n")
+                f.write(f"{i + 1}\t{frequency}\t{' '.join(emoji)}\n")
 
 
 def emoji_frequency_handler(labels, corpus):
@@ -59,10 +61,62 @@ def emoji_frequency_handler(labels, corpus):
     emoji_frequency(non_ironic, "non_ironic")
 
 
+def relative_emoji_frequency(filename, emoji_frequencies):
+    """Calculates the observed relative frequency, which is typically
+    normalised and reported as a frequency per 1,000 or 1,000,000 words, of
+    each word in the corpus.
+
+    :param filename: Name of the emoji frequency file.
+    :param emoji_frequencies: List of emoji, frequency tuples.
+    """
+    total_emoji = sum([int(x[1]) for x in emoji_frequencies])
+    relative_frequencies = []
+
+    for emoji, frequency in emoji_frequencies:
+        # Calculate relative frequency per 1,000 emojis
+        relative_frequency = int(frequency) * 1000.0 / total_emoji
+        relative_frequencies.append((emoji, relative_frequency))
+
+    logging.info(f"Creating relative emoji frequency file: relative_{filename}")
+    with open(f"{DIR_PATH}/../output/relative_{filename}", "w") as f:
+        # Sort emojis by relative frequency (descending)
+        f.write("Position\tRelative Frequency\temoji\n")
+        for i, counter in enumerate(sorted(relative_frequencies,
+                                           key=lambda x: x[1],
+                                           reverse=True)):
+            emoji, frequency = counter
+            f.write(f"{i + 1}\t{frequency}\t{emoji}\n")
+
+
+def relative_emoji_frequency_handler():
+    """Creates a relative emoji frequency file from each normal emoji frequency
+    file in the output directory.
+    """
+    for filename in os.listdir(f"{DIR_PATH}/../output/"):
+        if not re.match(r"\d-emoji", filename):
+            continue
+
+        with open(os.path.join(f"{DIR_PATH}/../output/", filename)) as f:
+            emoji_frequencies = []
+
+            for line in f.read().splitlines():
+                if line.lower().startswith("position\t"):
+                    continue
+
+                frequency, emoji = line.split("\t")[1:]
+                emoji_frequencies.append((emoji, frequency))
+
+            relative_emoji_frequency(filename, emoji_frequencies)
+
+
+def emoji_statistics(labels, corpus):
+    emoji_frequency_handler(labels, corpus)
+    relative_emoji_frequency_handler()
+
+
 if __name__ == "__main__":
     labels, corpus = parse_dataset("SemEval2018-T3-train-taskA_emoji")
-    emoji_frequency_handler(labels, corpus)
-    # ngram_frequency_handler(labels, corpus)
-    # relative_ngram_frequency_handler()
-    # ngram_removal_handler("SemEval2018-T3-train-taskA_emoji", range(31))
-    # tokenise_default()
+    emoji_statistics(labels, corpus)
+    tokenise_default()
+    irony_comparison_handler()
+    ngram_removal_handler("SemEval2018-T3-train-taskA_emoji", range(1, 31))
