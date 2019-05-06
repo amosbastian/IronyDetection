@@ -1,0 +1,23 @@
+Position	Frequency	emoji
+1	19	:person_raising_hand: :person_raising_hand: :person_raising_hand: :person_raising_hand:
+9	3	:pouting_face: :pouting_face: :pouting_face: :pouting_face:
+10	3	:tropical_drink: :tropical_drink: :tropical_drink: :tropical_drink:
+1276	1	:grinning_squinting_face: :Santa_Claus: :party_popper: :musical_notes:
+2942	1	:red_heart: :sparkles: :kiss_mark: :princess:
+2943	1	:sparkles: :kiss_mark: :princess: :woman_dancing:
+4366	1	:face_blowing_a_kiss: :face_blowing_a_kiss: :face_blowing_a_kiss: :face_blowing_a_kiss:
+6497	1	:weary_face: :weary_face: :weary_face: :weary_face:
+7074	1	:grinning_face_with_smiling_eyes: :raising_hands: :trophy: :baseball:
+7204	1	:pistol: :pouting_face: :pouting_face: :pouting_face:
+9676	1	:thumbs_up: :Santa_Claus: :wrapped_gift: :Santa_Claus:
+9746	1	:smirking_face: :smiling_face_with_sunglasses: :smiling_face_with_sunglasses: :Christmas_tree:
+9747	1	:smiling_face_with_sunglasses: :smiling_face_with_sunglasses: :Christmas_tree: :Christmas_tree:
+11051	1	:smiling_face_with_sunglasses: :musical_score: :clapping_hands: :oncoming_fist:
+14428	1	:Santa_Claus: :wrapped_gift: :wrapped_gift: :Christmas_tree:
+15509	1	:oncoming_bus: :snowflake: :snowman_without_snow: :face_savoring_food:
+16036	1	:see-no-evil_monkey: :smiling_face: :smiling_face: :OK_hand:
+16054	1	:clapping_hands: :purple_heart: :backhand_index_pointing_right: :cross_mark:
+16055	1	:purple_heart: :backhand_index_pointing_right: :cross_mark: :heavy_large_circle:
+16056	1	:backhand_index_pointing_right: :cross_mark: :heavy_large_circle: :backhand_index_pointing_left:
+16057	1	:cross_mark: :heavy_large_circle: :backhand_index_pointing_left: :folded_hands:
+16058	1	:heavy_large_circle: :backhand_index_pointing_left: :folded_hands: :raising_hands:

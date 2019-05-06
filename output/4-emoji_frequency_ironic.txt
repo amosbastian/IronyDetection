@@ -1,0 +1,25 @@
+Position	Frequency	emoji
+2	3	:smiling_face_with_heart-eyes: :smiling_face_with_heart-eyes: :smiling_face_with_heart-eyes: :smiling_face_with_heart-eyes:
+9	2	:weary_cat_face: :face_screaming_in_fear: :weary_cat_face: :face_screaming_in_fear:
+12	2	:face_with_tears_of_joy: :face_with_tears_of_joy: :face_with_tears_of_joy: :face_with_tears_of_joy:
+1137	1	:dashing_away: :droplet: :sweat_droplets: :thumbs_down:
+3091	1	:flushed_face: :flushed_face: :flushed_face: :flushed_face:
+4567	1	:grinning_face_with_smiling_eyes: :winking_face_with_tongue: :face_with_tears_of_joy: :persevering_face:
+4568	1	:winking_face_with_tongue: :face_with_tears_of_joy: :persevering_face: :anxious_face_with_sweat:
+4569	1	:face_with_tears_of_joy: :persevering_face: :anxious_face_with_sweat: :tired_face:
+4570	1	:persevering_face: :anxious_face_with_sweat: :tired_face: :confounded_face:
+5408	1	:face_screaming_in_fear: :weary_cat_face: :face_screaming_in_fear: :weary_cat_face:
+5413	1	:face_with_tears_of_joy: :Santa_Claus: :face_with_tears_of_joy: :Santa_Claus:
+5414	1	:Santa_Claus: :face_with_tears_of_joy: :Santa_Claus: :face_with_tears_of_joy:
+5415	1	:face_with_tears_of_joy: :Santa_Claus: :face_with_tears_of_joy: :pistol:
+5416	1	:Santa_Claus: :face_with_tears_of_joy: :pistol: :pistol:
+7374	1	:person_tipping_hand: :face_with_tears_of_joy: :loudly_crying_face: :loudly_crying_face:
+7375	1	:face_with_tears_of_joy: :loudly_crying_face: :loudly_crying_face: :loudly_crying_face:
+9300	1	:face_with_medical_mask: :face_with_medical_mask: :face_with_medical_mask: :face_with_medical_mask:
+9804	1	:see-no-evil_monkey: :speak-no-evil_monkey: :speak-no-evil_monkey: :face_with_tears_of_joy:
+11114	1	:books: :open_book: :woman_dancing: :woman_dancing:
+11115	1	:open_book: :woman_dancing: :woman_dancing: :people_with_bunny_ears:
+11880	1	:face_with_tears_of_joy: :weary_face: :see-no-evil_monkey: :see-no-evil_monkey:
+11881	1	:weary_face: :see-no-evil_monkey: :see-no-evil_monkey: :see-no-evil_monkey:
+12017	1	:worried_face: :confused_face: :crying_face: :sleepy_face:
+12018	1	:confused_face: :crying_face: :sleepy_face: :disappointed_face:
