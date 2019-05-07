@@ -71,16 +71,66 @@ def featurize(corpus):
     return X
 
 
-if __name__ == "__main__":
-    # 10-fold crossvalidation
-    K_FOLDS = 10
-    # The default, non-parameter optimized linear-kernel SVM
-    CLF = LinearSVC()
+def group_predictions():
+    groups = {
+        "emoji": [],
+        "n-grams": [],
+        "all": []
+    }
+
+    for filename in os.listdir(f"{DIR_PATH}/predictions/"):
+        split_filename = filename.split("_")
+        groups["all"].append(filename)
+
+        try:
+            element_type = split_filename[3]
+            corpus_type = "_".join(split_filename[5:-1])
+        except:
+            continue
+
+        if "emoji" in element_type:
+            groups["emoji"].append(filename)
+        else:
+            groups["n-grams"].append(filename)
+
+        number = element_type.split("-")[0]
+        if number in ["1", "2", "3", "4"]:
+            groups.setdefault(number, [])
+            groups[number].append(filename)
+
+        if corpus_type:
+            groups.setdefault(corpus_type, [])
+            groups[corpus_type].append(filename)
+
+    return groups
+
+
+def create_output(groups):
     training_directory = f"{DIR_PATH}/../../datasets/train/"
+    default = ["predictions_SemEval2018-T3-train-taskA_emoji.txt",
+               "predictions_SemEval2018-T3-train-taskA_emoji_tokenised.txt"]
 
-    fout = open(f"{DIR_PATH}/output.csv", "w+")
-    fout.write("Training Set,Accuracy,Precision,Recall,F1\n")
+    for key, filenames in groups.items():
+        fout = open(f"{DIR_PATH}/output/output_{key}.csv", "w+")
+        fout.write("Training Set,Accuracy,Precision,Recall,F1\n")
+        filenames.extend(default)
 
+        for filename in set(filenames):
+            training_set = filename.replace('predictions_', '')
+            _, y = parse_dataset(f"{training_directory}{training_set}")
+            with open(f"{DIR_PATH}/predictions/{filename}") as f:
+                predictions = [int(prediction) for prediction in f]
+
+            # Get performance
+            accuracy = metrics.accuracy_score(y, predictions)
+            precision = metrics.precision_score(y, predictions, pos_label=1)
+            recall = metrics.recall_score(y, predictions, pos_label=1)
+            f1_score = metrics.f1_score(y, predictions, pos_label=1)
+
+            fout.write(f"{training_set},{accuracy},{precision},{recall},{f1_score}\n")
+
+
+def test_performance(training_directory):
     for filename in os.listdir(training_directory):
         if "README" in filename:
             continue
@@ -92,20 +142,21 @@ if __name__ == "__main__":
         corpus, y = parse_dataset(f"{training_directory}{filename}")
         X = featurize(corpus)
 
-        class_counts = np.asarray(np.unique(y, return_counts=True)).T.tolist()
-
         # Returns an array of the same size as `y` where each entry is a
         # prediction obtained by cross validated
         predicted = cross_val_predict(CLF, X, y, cv=K_FOLDS)
 
-        # Get performance
-        accuracy = metrics.accuracy_score(y, predicted)
-        precision = metrics.precision_score(y, predicted, pos_label=1)
-        recall = metrics.recall_score(y, predicted, pos_label=1)
-        f1_score = metrics.f1_score(y, predicted, pos_label=1)
-
-        fout.write(f"{filename},{accuracy},{precision},{recall},{f1_score}\n")
-
         for p in predicted:
             PREDICTIONSFILE.write("{}\n".format(p))
         PREDICTIONSFILE.close()
+
+
+if __name__ == "__main__":
+    # 10-fold crossvalidation
+    K_FOLDS = 10
+    # The default, non-parameter optimized linear-kernel SVM
+    CLF = LinearSVC()
+    training_directory = f"{DIR_PATH}/../../datasets/train/"
+    test_performance(training_directory)
+    groups = group_predictions()
+    create_output(groups)
