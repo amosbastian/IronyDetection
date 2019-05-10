@@ -54,12 +54,12 @@ def plot_one(n, results, plot_list, baseline_results):
 
     if "emoji" in plot_description.lower():
         xlabel = f"Number of {n}-emojis removed from tokenised training set"
-        title = (f"$F_1$ scores after removing {n}-emojis"
+        title = (f"$F_1$ scores after removing {n}-emojis "
                  f"({plot_description.lower()}) from the default (tokenised) "
                  "training set")
     else:
         xlabel = f"Number of {n}-grams removed from tokenised training set"
-        title = (f"$F_1$ scores after removing {n}-grams"
+        title = (f"$F_1$ scores after removing {n}-grams "
                  f"({plot_description.lower()}) from the default (tokenised) "
                  "training set")
 
@@ -83,12 +83,13 @@ def plot_all(n, plot_dictionary, baseline_results):
         ax.grid()
 
         if not i:
+            print("Here")
             xlabel = f"Number of {n}-emojis removed from tokenised training set"
             title = (f"$F_1$ scores after removing {n}-emojis from the default"
                      " (tokenised) training set")
             plot_filename = f"{n}-emoji_all"
         else:
-            xlabel = f"Number of {n}-emojis removed from tokenised training set"
+            xlabel = f"Number of {n}-grams removed from tokenised training set"
             title = (f"$F_1$ scores after removing {n}-grams from the default"
                      " (tokenised) training set")
             plot_filename = f"{n}-gram_all"
