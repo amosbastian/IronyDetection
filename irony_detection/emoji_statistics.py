@@ -119,4 +119,4 @@ if __name__ == "__main__":
     emoji_statistics(labels, corpus)
     tokenise_default()
     irony_comparison_handler("emoji")
-    ngram_removal_handler("SemEval2018-T3-train-taskA_emoji", range(1, 31))
+    ngram_removal_handler("SemEval2018-T3-train-taskA_emoji", range(1, 21))
