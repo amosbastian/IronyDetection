@@ -10,6 +10,7 @@ from ekphrasis.classes.preprocessor import TextPreProcessor
 from ekphrasis.classes.tokenizer import SocialTokenizer
 from ekphrasis.dicts.emoticons import emoticons
 from emoji.unicode_codes import EMOJI_UNICODE
+from nltk import ngrams
 from nltk.corpus import stopwords
 from nltk.probability import FreqDist
 
@@ -114,6 +115,20 @@ def parse_dataset(training_set):
     return labels, corpus
 
 
+def remove_ngram(sentence, ngram_to_remove, n):
+    if len(sentence.split()) <= n:
+        return sentence.replace(ngram_to_remove, "")
+
+    ngram_list = [ngram for ngram in list(ngrams(sentence.split(), n))
+                  if " ".join(ngram) != ngram_to_remove]
+
+    first_elements = [ngram[0] for ngram in ngram_list[:-1]]
+    last_elements = " ".join(ngram_list[-1])
+    first_elements.append(last_elements)
+
+    return " ".join(first_elements)
+
+
 def ngram_removal(dataset_filename, frequency_filename, n):
     """Takes the top `n` n-grams from the given ngram frequency file, removes
     these from the given dataset, and creates a new dataset from this.
@@ -148,7 +163,7 @@ def ngram_removal(dataset_filename, frequency_filename, n):
             # frequencies, and replace certain n-grams in it
             tweet = " ".join(tokenise(line.split("\t")[2]))
             for ngram in ngrams:
-                tweet = tweet.replace(ngram, "").strip()
+                tweet = remove_ngram(tweet, ngram, n)
 
             # Tweet has been completely removed, so don't include it
             if not tweet:
