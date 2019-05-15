@@ -1,17 +1,13 @@
 Position	Frequency	n-gram
-1	21	:person_raising_hand: :person_raising_hand:
-2	18	:face_with_tears_of_joy: :face_with_tears_of_joy:
 3	15	via reuters
 4	9	cant wait
 5	9	dont think
 6	9	#notcies #eu
 7	7	wwwmonstermmorpg com
-8	7	:pouting_face: :pouting_face:
 9	6	dont know
 10	6	dont want
 11	6	looks like
 12	6	new year
-13	6	:face_blowing_a_kiss: :face_blowing_a_kiss:
 14	6	get paid
 15	5	self protection
 16	5	rbrnetwork theoldbreed
@@ -22,7 +18,6 @@ Position	Frequency	n-gram
 21	5	new years
 22	5	timowensby rbrnetwork
 23	5	joehilgerman freeman
-24	5	:tropical_drink: :tropical_drink:
 25	4	feel like
 26	4	loyalty vs
 27	4	vs self
@@ -36,7 +31,6 @@ Position	Frequency	n-gram
 35	4	im really
 36	4	doesnt get
 37	4	next year
-38	4	:OK_hand: :OK_hand:
 39	4	rbrnetwork dolphinman
 40	4	smile smile
 41	4	ive seen
@@ -56,7 +50,6 @@ Position	Frequency	n-gram
 55	3	gotta go
 56	3	ananvii abptrocket
 57	3	#a #good
-58	3	:grinning_squinting_face: :grinning_squinting_face:
 59	3	#bbc #news
 60	3	really need
 61	3	need get
@@ -66,7 +59,6 @@ Position	Frequency	n-gram
 65	3	make money
 66	3	happy birthday
 67	3	follow monstermmorpg
-68	3	:Santa_Claus: :wrapped_gift:
 69	3	justin coutopanda
 70	3	needs go
 71	3	year old
@@ -79,7 +71,6 @@ Position	Frequency	n-gram
 78	3	look lot
 79	3	lot like
 80	3	bad game
-81	3	:umbrella_with_rain_drops: 
 82	3	liked youtube
 83	3	cant win
 84	3	cant remember
@@ -94,13 +85,10 @@ Position	Frequency	n-gram
 93	3	rbrnetwork indyenigma
 94	3	email invoice
 95	3	need see
-96	3	:weary_face: :weary_face:
 97	3	#notcias #eu
 98	3	#eu #europ
-99	3	:oncoming_fist: :oncoming_fist:
 100	3	red sox
 101	3	neilby parkzthedon
-102	3	:victory_hand: 
 103	3	paid posting
 104	3	guess im
 105	2	would support
@@ -111,7 +99,6 @@ Position	Frequency	n-gram
 110	2	wish could
 111	2	whole life
 112	2	waiting waiting
-113	2	lol :beaming_face_with_smiling_eyes:
 114	2	know get
 115	2	lloydgallagher bigtant
 116	2	people get
@@ -126,14 +113,12 @@ Position	Frequency	n-gram
 125	2	one ever
 126	2	might well
 127	2	better get
-128	2	:smiling_face_with_heart-eyes: :face_blowing_a_kiss:
 129	2	think ive
 130	2	ever seen
 131	2	last year
 132	2	hair looks
 133	2	thing wrong
 134	2	really want
-135	2	:loudly_crying_face: :loudly_crying_face:
 136	2	still laughing
 137	2	rbrnetwork freeman
 138	2	freeman thelexzane
@@ -164,7 +149,6 @@ Position	Frequency	n-gram
 163	2	really excited
 164	2	adambelz leeosp
 165	2	leeosp vruno
-166	2	:clapping_hands: :clapping_hands:
 167	2	wide awake
 168	2	awake right
 169	2	tell ya
@@ -270,7 +254,6 @@ Position	Frequency	n-gram
 269	2	indyenigma calfreedommom
 270	2	shot dead
 271	2	dont mess
-272	2	sleep :sleeping_face:
 273	2	next person
 274	2	bavarianshady u
 275	2	#ferguson #ericgarner
@@ -279,8 +262,6 @@ Position	Frequency	n-gram
 278	2	know love
 279	2	still love
 280	2	oh yeah
-281	2	name :smirking_face:
-282	2	day :face_with_tears_of_joy:
 283	2	already know
 284	2	santa juncker
 285	2	juncker bring
@@ -336,7 +317,6 @@ Position	Frequency	n-gram
 335	2	rush rush
 336	2	dont get
 337	2	one free
-338	2	:squinting_face_with_tongue: :squinting_face_with_tongue:
 339	2	please rt
 340	2	youre good
 341	2	good morning
@@ -352,7 +332,6 @@ Position	Frequency	n-gram
 351	2	day day
 352	2	still wondering
 353	2	see see
-354	2	tomorrow :face_blowing_a_kiss:
 355	2	must b
 356	2	・ ・
 357	2	saturday night
@@ -366,8 +345,6 @@ Position	Frequency	n-gram
 365	2	#diy #craftsplease
 366	2	#craftsplease rt
 367	2	looking forward
-368	2	:purple_heart: :two_hearts:
-369	2	:fire: :fire:
 370	2	want get
 371	2	blog post
 372	2	post myfairdaily
@@ -375,8 +352,6 @@ Position	Frequency	n-gram
 374	2	ill go
 375	2	week tomorrow
 376	2	dont like
-377	2	:grinning_face_with_sweat: :grinning_face_with_sweat:
-378	2	:purple_heart: :purple_heart:
 379	2	get free
 380	2	posting stuff
 381	2	stuff like
@@ -429,8 +404,6 @@ Position	Frequency	n-gram
 428	1	end accomplishing
 429	1	accomplishing nothing
 430	1	nothing targetzonept
-431	1	targetzonept :pouting_face:
-432	1	:pouting_face: bloody
 433	1	bloody isnt
 434	1	isnt upstairs
 435	1	upstairs getting
@@ -501,16 +474,11 @@ Position	Frequency	n-gram
 500	1	#nicolescherzinger #onelove
 501	1	#onelove #myfav
 502	1	#myfav #myqueen
-503	1	#myqueen :red_heart:
-504	1	:red_heart: :red_heart:
-505	1	:red_heart: httptcoquelfqyr
 506	1	httptcoquelfqyr rain
 507	1	rain made
 508	1	made extra
 509	1	extra extra
 510	1	extra lazy
-511	1	lazy :grinning_face_with_sweat:
-512	1	:grinning_face_with_sweat: great
 513	1	great summary
 514	1	summary year
 515	1	year got
@@ -537,7 +505,6 @@ Position	Frequency	n-gram
 536	1	life waiting
 537	1	waiting pureplaya
 538	1	pureplaya lol
-539	1	:beaming_face_with_smiling_eyes: let
 540	1	let kids
 541	1	kids know
 542	1	get morning
@@ -569,13 +536,9 @@ Position	Frequency	n-gram
 568	1	call gone
 569	1	gone lol
 570	1	lol enjoying
-571	1	enjoying :two_women_holding_hands:
-572	1	:two_women_holding_hands: #talks
 573	1	#talks #crazyness
 574	1	#crazyness #sheneverleft
 575	1	#sheneverleft sleepy
-576	1	sleepy :smiling_face:
-577	1	:smiling_face: dixiessixty
 578	1	dixiessixty goal
 579	1	goal season
 580	1	season goal
@@ -808,8 +771,6 @@ Position	Frequency	n-gram
 807	1	getfitpgh lunch
 808	1	lunch break
 809	1	break sleepy
-810	1	sleepy :sleeping_face:
-811	1	:sleeping_face: #christmas
 812	1	#christmas ritualpart
 813	1	ritualpart one
 814	1	one #howthegrinchstolechristmas
@@ -866,8 +827,6 @@ Position	Frequency	n-gram
 865	1	tas preparations
 866	1	preparations event
 867	1	event thursday
-868	1	thursday :weary_face:
-869	1	:weary_face: sony
 870	1	sony pulled
 871	1	pulled movie
 872	1	movie bc
@@ -909,8 +868,6 @@ Position	Frequency	n-gram
 908	1	#texas marshmallow
 909	1	marshmallow world
 910	1	world winter
-911	1	winter :musical_notes:
-912	1	:musical_notes: #getthisoutofmyhead
 913	1	#getthisoutofmyhead face
 914	1	face tired
 915	1	tired man
@@ -931,16 +888,12 @@ Position	Frequency	n-gram
 930	1	right way
 931	1	go mohammadfarooq
 932	1	mohammadfarooq asalamoalekum
-933	1	asalamoalekum :grinning_face_with_big_eyes:
-934	1	:grinning_face_with_big_eyes: kesay
 935	1	kesay mizaj
 936	1	mizaj thank
 937	1	much posted
 938	1	posted nd
 939	1	nd december
 940	1	december already
-941	1	already :smiling_face_with_halo:
-942	1	:smiling_face_with_halo: feeling
 943	1	feeling artsy
 944	1	artsy tonight
 945	1	tonight #artsy
@@ -1124,8 +1077,6 @@ Position	Frequency	n-gram
 1123	1	week joke
 1124	1	joke jessica
 1125	1	jessica niece
-1126	1	niece :raising_hands:
-1127	1	:raising_hands: mooseebooks
 1128	1	mooseebooks seriously
 1129	1	seriously bought
 1130	1	bought giant
@@ -1198,9 +1149,6 @@ Position	Frequency	n-gram
 1197	1	shes wayi
 1198	1	wayi better
 1199	1	get dressed
-1200	1	dressed :astonished_face:
-1201	1	:astonished_face: :face_with_tears_of_joy:
-1202	1	:face_with_tears_of_joy: nerd
 1203	1	nerd #piccollage
 1204	1	#piccollage bit
 1205	1	bit fun
@@ -1220,16 +1168,11 @@ Position	Frequency	n-gram
 1219	1	day want
 1220	1	want travel
 1221	1	travel bestfriend
-1222	1	bestfriend :globe_showing_Asia-Australia:
-1223	1	:globe_showing_Asia-Australia: :airplane:
-1224	1	:airplane: httptcoaxdaxqc
 1225	1	httptcoaxdaxqc done
 1226	1	done traveled
 1227	1	traveled da
 1228	1	da world
 1229	1	world bethanycsmithh
-1230	1	bethanycsmithh :red_heart:
-1231	1	:red_heart: return
 1232	1	return kind
 1233	1	kind called
 1234	1	called friends
@@ -1243,16 +1186,11 @@ Position	Frequency	n-gram
 1242	1	httptconwhiepvwz cutest
 1243	1	cutest thing
 1244	1	thing ever
-1245	1	ever :smiling_face_with_heart-eyes:
-1246	1	:face_blowing_a_kiss: enjoy
 1247	1	enjoy stealing
 1248	1	stealing husband
 1249	1	husband hat
 1250	1	hat every
 1251	1	every awhile
-1252	1	awhile :smiling_face_with_heart-eyes:
-1253	1	:face_blowing_a_kiss: :flushed_face:
-1254	1	:flushed_face: #heyyall
 1255	1	#heyyall #goodmorning
 1256	1	#goodmorning httptcolknoomvsb
 1257	1	httptcolknoomvsb spmilkshake
@@ -1283,9 +1221,6 @@ Position	Frequency	n-gram
 1282	1	photo editing
 1283	1	editing type
 1284	1	type morning
-1285	1	morning :sun:
-1286	1	:sun: :musical_notes:
-1287	1	:musical_notes: hard
 1288	1	hard choose
 1289	1	choose pleasure
 1290	1	pleasure pain
@@ -1358,8 +1293,6 @@ Position	Frequency	n-gram
 1357	1	feel celebrated
 1358	1	celebrated birthday
 1359	1	birthday without
-1360	1	without :speak-no-evil_monkey:
-1361	1	:speak-no-evil_monkey: #stoleem
 1362	1	#stoleem #thereasonfortheseason
 1363	1	#thereasonfortheseason nettaaaaaaaa
 1364	1	nettaaaaaaaa deray
@@ -1407,8 +1340,6 @@ Position	Frequency	n-gram
 1406	1	want seine
 1407	1	seine crossing
 1408	1	crossing back
-1409	1	back :loudly_crying_face:
-1410	1	:loudly_crying_face: would
 1411	1	would pay
 1412	1	pay cbs
 1413	1	cbs noon
@@ -1470,8 +1401,6 @@ Position	Frequency	n-gram
 1469	1	httptcojridbimgyg slow
 1470	1	slow start
 1471	1	start morning
-1472	1	morning :weary_face:
-1473	1	:weary_face: badassbraeden
 1474	1	badassbraeden yeah
 1475	1	yeah im
 1476	1	laughing even
@@ -1565,16 +1494,8 @@ Position	Frequency	n-gram
 1564	1	know sammiecurtis
 1565	1	sammiecurtis ones
 1566	1	ones love
-1567	1	love :grinning_squinting_face:
-1568	1	:grinning_squinting_face: :Santa_Claus:
-1569	1	:Santa_Claus: :party_popper:
-1570	1	:party_popper: :musical_notes:
-1571	1	:musical_notes: need
 1572	1	need rose
 1573	1	rose winee
-1574	1	winee :wine_glass:
-1575	1	:wine_glass: :wine_glass:
-1576	1	:wine_glass: whole
 1577	1	life oh
 1578	1	oh ok
 1579	1	ok leg
@@ -1797,8 +1718,6 @@ Position	Frequency	n-gram
 1796	1	cracking facebook
 1797	1	facebook chatting
 1798	1	chatting mate
-1799	1	mate :grinning_squinting_face:
-1800	1	:grinning_squinting_face: check
 1801	1	check #ugly
 1802	1	#ugly #christmas
 1803	1	#christmas #sweater
@@ -1807,8 +1726,6 @@ Position	Frequency	n-gram
 1806	1	dayumm chtis
 1807	1	chtis brown
 1808	1	brown maaayuun
-1809	1	maaayuun :face_with_tears_of_joy:
-1810	1	:face_with_tears_of_joy: httptcodngdzhbkuh
 1811	1	httptcodngdzhbkuh budweiserindia
 1812	1	budweiserindia tomorrow
 1813	1	tomorrow productivity
@@ -1985,8 +1902,6 @@ Position	Frequency	n-gram
 1984	1	media announcement
 1985	1	announcement edryden
 1986	1	edryden ill
-1987	1	see :winking_face:
-1988	1	:winking_face: sysdig
 1989	1	sysdig cloud
 1990	1	cloud fascinating
 1991	1	fascinating world
@@ -2004,13 +1919,7 @@ Position	Frequency	n-gram
 2003	1	nails eyebrows
 2004	1	eyebrows done
 2005	1	done tomorrow
-2006	1	tomorrow :beaming_face_with_smiling_eyes:
-2007	1	:beaming_face_with_smiling_eyes: slacking
 2008	1	slacking #cool
-2009	1	#cool :nail_polish:
-2010	1	:nail_polish: :person_gesturing_NO:
-2011	1	:person_gesturing_NO: :person_tipping_hand:
-2012	1	:person_tipping_hand: mrmindmiracle
 2013	1	mrmindmiracle one
 2014	1	one obvious
 2015	1	obvious see
@@ -2039,9 +1948,6 @@ Position	Frequency	n-gram
 2038	1	#gym anything
 2039	1	anything put
 2040	1	put wrapping
-2041	1	presents :confused_face:
-2042	1	:confused_face: :wrapped_gift:
-2043	1	:wrapped_gift: #christmas
 2044	1	#christmas #chore
 2045	1	#chore thanks
 2046	1	thanks awesome
@@ -2079,8 +1985,6 @@ Position	Frequency	n-gram
 2078	1	everything table
 2079	1	table noche
 2080	1	noche buena
-2081	1	buena :person_raising_hand:
-2082	1	:person_raising_hand: lets
 2083	1	lets get
 2084	1	get another
 2085	1	another big
@@ -2187,8 +2091,6 @@ Position	Frequency	n-gram
 2186	1	strapon #s
 2187	1	#s one
 2188	1	one nights
-2189	1	nights :pensive_face:
-2190	1	:pensive_face: #has
 2191	1	#has #seen
 2192	1	#seen wwwmonstermmorpg
 2193	1	since parados
@@ -2214,8 +2116,6 @@ Position	Frequency	n-gram
 2213	1	fam sleep
 2214	1	sleep got
 2215	1	school happy
-2216	1	happy :pouting_face:
-2217	1	:pouting_face: things
 2218	1	things made
 2219	1	made go
 2220	1	go harm
@@ -2430,8 +2330,6 @@ Position	Frequency	n-gram
 2429	1	gift dad
 2430	1	dad bc
 2431	1	bc procrastination
-2432	1	procrastination :wrapped_gift:
-2433	1	:wrapped_gift: say
 2434	1	excited brendan
 2435	1	brendan frasers
 2436	1	frasers birthday
@@ -2514,8 +2412,6 @@ Position	Frequency	n-gram
 2513	1	randball gotta
 2514	1	gotta hand
 2515	1	hand really
-2516	1	really :clapping_hands:
-2517	1	:clapping_hands: #heisenberg
 2518	1	#heisenberg uncertainty
 2519	1	uncertainty principle
 2520	1	principle whatever
@@ -2565,8 +2461,6 @@ Position	Frequency	n-gram
 2564	1	purpose #labour
 2565	1	#labour sort
 2566	1	sort wide
-2567	1	right :face_without_mouth:
-2568	1	:face_without_mouth: wisemansi
 2569	1	wisemansi opinions
 2570	1	opinions dont
 2571	1	dont affect
@@ -2577,8 +2471,6 @@ Position	Frequency	n-gram
 2576	1	life one
 2577	1	one long
 2578	1	long walk
-2579	1	walk :OK_hand:
-2580	1	:OK_hand: #gome
 2581	1	#gome httptcoliragzvlyf
 2582	1	httptcoliragzvlyf httptcooodcaadwux
 2583	1	httptcooodcaadwux #teenanalcasting
@@ -2615,13 +2507,8 @@ Position	Frequency	n-gram
 2614	1	would tell
 2615	1	ya wouldnt
 2616	1	wouldnt understand
-2617	1	understand :heart_with_arrow:
-2618	1	:heart_with_arrow: cant
 2619	1	even explain
 2620	1	explain excited
-2621	1	tomorrow :hundred_points:
-2622	1	:hundred_points: :basketball:
-2623	1	:basketball: thespindoctor
 2624	1	thespindoctor spice
 2625	1	spice girls
 2626	1	girls youd
@@ -2739,8 +2626,6 @@ Position	Frequency	n-gram
 2738	1	jest hope
 2739	1	hope today
 2740	1	today day
-2741	1	day :pensive_face:
-2742	1	:pensive_face: timdobbsphoto
 2743	1	timdobbsphoto need
 2744	1	need excuse
 2745	1	excuse pop
@@ -2906,12 +2791,8 @@ Position	Frequency	n-gram
 2905	1	makin feel
 2906	1	feel sick
 2907	1	sick anymore
-2908	1	anymore :thumbs_up:
-2909	1	:thumbs_up: better
 2910	1	better big
 2911	1	big fella
-2912	1	fella :Santa_Claus:
-2913	1	:wrapped_gift: thing
 2914	1	thing racists
 2915	1	racists theres
 2916	1	theres one
@@ -2949,8 +2830,6 @@ Position	Frequency	n-gram
 2948	1	okay snow
 2949	1	snow sleet
 2950	1	sleet #howaboutno
-2951	1	#howaboutno :face_screaming_in_fear:
-2952	1	:face_screaming_in_fear: #ecb
 2953	1	#ecb #pondering
 2954	1	#pondering #how
 2955	1	#how #best
@@ -3015,8 +2894,6 @@ Position	Frequency	n-gram
 3014	1	new city
 3015	1	city early
 3016	1	early awake
-3017	1	awake :confounded_face:
-3018	1	:confounded_face: wassup
 3019	1	wassup buddyhows
 3020	1	buddyhows everything
 3021	1	everything look
@@ -3038,9 +2915,6 @@ Position	Frequency	n-gram
 3037	1	educ hehehe
 3038	1	hehehe clear
 3039	1	clear ignorance
-3040	1	ignorance :smiling_face_with_heart-eyes:
-3041	1	:smiling_face_with_heart-eyes: :face_with_tears_of_joy:
-3042	1	:face_with_tears_of_joy: #steveharvey
 3043	1	#steveharvey worships
 3044	1	worships #obama
 3045	1	#obama bc
@@ -3079,9 +2953,6 @@ Position	Frequency	n-gram
 3078	1	boots mean
 3079	1	mean like
 3080	1	like pairs
-3081	1	pairs :grinning_face_with_smiling_eyes:
-3082	1	:grinning_face_with_smiling_eyes: :grinning_face_with_smiling_eyes:
-3083	1	:grinning_face_with_smiling_eyes: #ineednewboots
 3084	1	#ineednewboots #boots
 3085	1	#boots lbsouthwark
 3086	1	lbsouthwark dont
@@ -3095,8 +2966,6 @@ Position	Frequency	n-gram
 3094	1	bit bit
 3095	1	bit brickwork
 3096	1	brickwork disintegrates
-3097	1	disintegrates :rocket:
-3098	1	:rocket: science
 3099	1	science rodgers
 3100	1	rodgers needs
 3101	1	go man
@@ -3122,8 +2991,6 @@ Position	Frequency	n-gram
 3121	1	think #stars
 3122	1	#stars gorgeous
 3123	1	gorgeous things
-3124	1	world :sparkles:
-3125	1	:sparkles: fuegalove
 3126	1	fuegalove princesstayler
 3127	1	princesstayler cam
 3128	1	cam newton
@@ -3137,12 +3004,6 @@ Position	Frequency	n-gram
 3136	1	foolishagood night
 3137	1	night lady
 3138	1	lady red
-3139	1	red :red_heart:
-3140	1	:red_heart: :sparkles:
-3141	1	:sparkles: :kiss_mark:
-3142	1	:kiss_mark: :princess:
-3143	1	:princess: :woman_dancing:
-3144	1	:woman_dancing: #ootd
 3145	1	#ootd #im
 3146	1	#im #the
 3147	1	#the #mom
@@ -3489,8 +3350,6 @@ Position	Frequency	n-gram
 3488	1	pairs underwear
 3489	1	underwear victoria
 3490	1	victoria secret
-3491	1	secret :smiling_face_with_heart-eyes:
-3492	1	:smiling_face_with_heart-eyes: #yay
 3493	1	#yay #big
 3494	1	#big #match
 3495	1	#match #verdict
@@ -3520,8 +3379,6 @@ Position	Frequency	n-gram
 3519	1	reading #decemberchallenge
 3520	1	#decemberchallenge #lovehistory
 3521	1	#lovehistory #lovenonfiction
-3522	1	#lovenonfiction :white_heavy_check_mark:
-3523	1	:white_heavy_check_mark: cosy
 3524	1	cosy house
 3525	1	house httptcozpxgtouo
 3526	1	httptcozpxgtouo jerridsebesta
@@ -3566,10 +3423,6 @@ Position	Frequency	n-gram
 3565	1	#reliefcomedy rememberable
 3566	1	rememberable new
 3567	1	years kiss
-3568	1	kiss :face_with_tears_of_joy:
-3569	1	:face_with_tears_of_joy: :kiss_mark:
-3570	1	:kiss_mark: :red_heart:
-3571	1	:red_heart: #lovemyrelationship
 3572	1	#lovemyrelationship w
 3573	1	w crawling
 3574	1	crawling great
@@ -3670,8 +3523,6 @@ Position	Frequency	n-gram
 3669	1	forget true
 3670	1	true meaning
 3671	1	meaning christmas
-3672	1	christmas :folded_hands:
-3673	1	:folded_hands: #phillhughes
 3674	1	#phillhughes #out
 3675	1	#out miss
 3676	1	u always
@@ -3685,8 +3536,6 @@ Position	Frequency	n-gram
 3684	1	sick wanna
 3685	1	wanna sleep
 3686	1	sleep cant
-3687	1	cant :pensive_face:
-3688	1	:pensive_face: zero
 3689	1	zero resect
 3690	1	resect demarcus
 3691	1	demarcus cousins
@@ -3755,9 +3604,6 @@ Position	Frequency	n-gram
 3754	1	animals like
 3755	1	like hide
 3756	1	hide cars
-3757	1	cars :cat_face:
-3758	1	:cat_face: :dog_face:
-3759	1	:dog_face: photoset
 3760	1	photoset leupagus
 3761	1	leupagus itsxandy
 3762	1	itsxandy thefingerfuckingfemalefury
@@ -3948,11 +3794,6 @@ Position	Frequency	n-gram
 3947	1	listening rain
 3948	1	rain bed
 3949	1	bed #peacefull
-3950	1	#peacefull :umbrella_with_rain_drops:
-3951	1	 :sweat_droplets:
-3952	1	:sweat_droplets: :droplet:
-3953	1	:droplet: :sweat_droplets:
-3954	1	:sweat_droplets: dianewilmot
 3955	1	dianewilmot deray
 3956	1	deray honestly
 3957	1	honestly havent
@@ -4064,8 +3905,6 @@ Position	Frequency	n-gram
 4063	1	thnx sorted
 4064	1	sorted #kids
 4065	1	#kids #happy
-4066	1	#happy :smiling_face_with_smiling_eyes:
-4067	1	:smiling_face_with_smiling_eyes: thanks
 4068	1	thanks pgames
 4069	1	pgames trying
 4070	1	trying help
@@ -4100,9 +3939,6 @@ Position	Frequency	n-gram
 4099	1	home finally
 4100	1	finally way
 4101	1	start christmas
-4102	1	break :thumbs_up:
-4103	1	:thumbs_up: :OK_hand:
-4104	1	:OK_hand: jackshiite
 4105	1	jackshiite bigdavetsv
 4106	1	bigdavetsv mjrelvisnewton
 4107	1	mjrelvisnewton youre
@@ -4142,22 +3978,16 @@ Position	Frequency	n-gram
 4141	1	#winning even
 4142	1	even httptcocwqedunj
 4143	1	httptcocwqedunj cheenazafar
-4144	1	cheenazafar :beaming_face_with_smiling_eyes:
-4145	1	:beaming_face_with_smiling_eyes: contrary
 4146	1	contrary im
 4147	1	im wide
 4148	1	awake caffeine
 4149	1	caffeine injected
 4150	1	injected consciousness
-4151	1	consciousness :flushed_face:
-4152	1	:flushed_face: time
 4153	1	time babies
 4154	1	babies take
 4155	1	take medicine
 4156	1	medicine get
 4157	1	get better
-4158	1	better :face_with_medical_mask:
-4159	1	:face_with_medical_mask: httptcokpvdlaa
 4160	1	httptcokpvdlaa #teenanalcasting
 4161	1	#teenanalcasting ford
 4162	1	ford f
@@ -4206,8 +4036,6 @@ Position	Frequency	n-gram
 4205	1	bday lily
 4206	1	lily painting
 4207	1	painting laryssam
-4208	1	laryssam :purple_heart:
-4209	1	:purple_heart: httptcoiazvrbec
 4210	1	httptcoiazvrbec like
 4211	1	like httptcoppfugqgl
 4212	1	httptcoppfugqgl check
@@ -4242,8 +4070,6 @@ Position	Frequency	n-gram
 4241	1	wings course
 4242	1	course youre
 4243	1	youre boy
-4244	1	boy :oncoming_fist:
-4245	1	:oncoming_fist: #fistbump
 4246	1	#fistbump #positive
 4247	1	#positive #focus
 4248	1	#focus #starve
@@ -4398,8 +4224,6 @@ Position	Frequency	n-gram
 4397	1	wesay yar
 4398	1	yar date
 4399	1	date good
-4400	1	good :winking_face:
-4401	1	:winking_face: guess
 4402	1	guess shein
 4403	1	shein first
 4404	1	first meetingwanted
@@ -4431,16 +4255,11 @@ Position	Frequency	n-gram
 4430	1	tannerdixon victoriawahl
 4431	1	victoriawahl guys
 4432	1	guys finals
-4433	1	finals :hundred_points:
-4434	1	:hundred_points: didnt
 4435	1	didnt time
 4436	1	time wake
 4437	1	wake bake
 4438	1	bake mornin
 4439	1	mornin winnin
-4440	1	winnin :pouting_face:
-4441	1	:pouting_face: :person_gesturing_NO:
-4442	1	:person_gesturing_NO: beginning
 4443	1	christmas #timetodecorate
 4444	1	#timetodecorate #tistheseason
 4445	1	#tistheseason httptcomhcrrzn
@@ -4488,8 +4307,6 @@ Position	Frequency	n-gram
 4487	1	ellakcx taracasey
 4488	1	taracasey jessicaxxx
 4489	1	jessicaxxx mark
-4490	1	mark :face_blowing_a_kiss:
-4491	1	:face_blowing_a_kiss: kiss
 4492	1	kiss one
 4493	1	one httptcotgrkuynj
 4494	1	httptcotgrkuynj arbys
@@ -4517,9 +4334,6 @@ Position	Frequency	n-gram
 4516	1	httptcomenszdik httptcouoptfadw
 4517	1	httptcouoptfadw greaaaat
 4518	1	greaaaat night
-4519	1	night :smiling_face:
-4520	1	:smiling_face: :beaming_face_with_smiling_eyes:
-4521	1	:beaming_face_with_smiling_eyes: stephhammy
 4522	1	stephhammy wonder
 4523	1	wonder audio
 4524	1	audio book
@@ -4693,9 +4507,6 @@ Position	Frequency	n-gram
 4692	1	shit httptcoflymxcx
 4693	1	httptcoflymxcx stuck
 4694	1	stuck traffic
-4695	1	traffic :umbrella_with_rain_drops:
-4696	1	 :high_voltage:
-4697	1	:high_voltage: 
 4698	1	 #mondays
 4699	1	#mondays #athensbyrain
 4700	1	#athensbyrain #traffic
@@ -4749,16 +4560,12 @@ Position	Frequency	n-gram
 4748	1	cute wish
 4749	1	wish wasnt
 4750	1	wasnt allergic
-4751	1	allergic :loudly_crying_face:
-4752	1	:loudly_crying_face: monaizadiva
 4753	1	monaizadiva kabhi
 4754	1	kabhi im
 4755	1	im messier
 4756	1	messier usual
 4757	1	usual messy
 4758	1	messy wesay
-4759	1	wesay :persevering_face:
-4760	1	:persevering_face: need
 4761	1	need chai
 4762	1	chai im
 4763	1	im resting
@@ -4770,8 +4577,6 @@ Position	Frequency	n-gram
 4769	1	claybo dawson
 4770	1	dawson jsteigleman
 4771	1	jsteigleman #squadgoals
-4772	1	#squadgoals :smiling_face_with_sunglasses:
-4773	1	:smiling_face_with_sunglasses: iwritethings
 4774	1	iwritethings email
 4775	1	email need
 4776	1	need friendalways
@@ -4798,8 +4603,6 @@ Position	Frequency	n-gram
 4797	1	license plate
 4798	1	plate letters
 4799	1	letters fdb
-4800	1	fdb :face_with_tears_of_joy:
-4801	1	:face_with_tears_of_joy: case
 4802	1	case anyone
 4803	1	anyone wondering
 4804	1	wondering veni
@@ -4986,8 +4789,6 @@ Position	Frequency	n-gram
 4985	1	apparently hang
 4986	1	hang ashley
 4987	1	ashley day
-4988	1	day :grinning_face_with_smiling_eyes:
-4989	1	:grinning_face_with_smiling_eyes: morgan
 4990	1	morgan asked
 4991	1	asked wanted
 4992	1	wanted play
@@ -5020,8 +4821,6 @@ Position	Frequency	n-gram
 5019	1	would ask
 5020	1	ask join
 5021	1	join clan
-5022	1	clan :face_with_tears_of_joy:
-5023	1	:face_with_tears_of_joy: rannimarti
 5024	1	rannimarti hartswormx
 5025	1	hartswormx internet
 5026	1	internet bit
@@ -5137,8 +4936,6 @@ Position	Frequency	n-gram
 5136	1	love text
 5137	1	text youre
 5138	1	youre able
-5139	1	able :winking_face_with_tongue:
-5140	1	:winking_face_with_tongue: httptcomllegc
 5141	1	httptcomllegc uhoh
 5142	1	uhoh better
 5143	1	better head
@@ -5213,9 +5010,6 @@ Position	Frequency	n-gram
 5212	1	putting christmas
 5213	1	christmas tree
 5214	1	tree fam
-5215	1	fam :smiling_face:
-5216	1	:smiling_face: :Christmas_tree:
-5217	1	:Christmas_tree: #christmastree
 5218	1	#christmastree lagopodous
 5219	1	lagopodous like
 5220	1	like rabbits
@@ -5258,8 +5052,6 @@ Position	Frequency	n-gram
 5257	1	bus wanker
 5258	1	wanker hate
 5259	1	hate people
-5260	1	people :confused_face:
-5261	1	:confused_face: #stinks
 5262	1	#stinks #gobonastick
 5263	1	#gobonastick #dickheads
 5264	1	#dickheads banderson
@@ -5478,13 +5270,9 @@ Position	Frequency	n-gram
 5477	1	done worked
 5478	1	worked hard
 5479	1	hard amen
-5480	1	amen :folded_hands:
-5481	1	:folded_hands: love
 5482	1	love didnt
 5483	1	didnt plan
 5484	1	plan problem
-5485	1	problem :winking_face_with_tongue:
-5486	1	:winking_face_with_tongue: #truth
 5487	1	#truth emergency
 5488	1	emergency pearl
 5489	1	pearl httptcopgosgfwj
@@ -5508,8 +5296,6 @@ Position	Frequency	n-gram
 5507	1	happy successful
 5508	1	successful lots
 5509	1	lots love
-5510	1	love :face_blowing_a_kiss:
-5511	1	:face_blowing_a_kiss: #season
 5512	1	#season #sucks
 5513	1	#sucks girl
 5514	1	girl #beautiful
@@ -5629,8 +5415,6 @@ Position	Frequency	n-gram
 5628	1	towed bc
 5629	1	bc idk
 5630	1	idk park
-5631	1	park :anxious_face_with_sweat:
-5632	1	:anxious_face_with_sweat: lrlam
 5633	1	lrlam mean
 5634	1	mean doesnt
 5635	1	mean much
@@ -5763,8 +5547,6 @@ Position	Frequency	n-gram
 5762	1	bigbillybmoney oh
 5763	1	oh haha
 5764	1	haha aint
-5765	1	aint :face_with_tears_of_joy:
-5766	1	:face_with_tears_of_joy: aint
 5767	1	aint even
 5768	1	even seen
 5769	1	seen em
@@ -6190,7 +5972,6 @@ Position	Frequency	n-gram
 6189	1	asleep sound
 6190	1	sound rain
 6191	1	rain relaxing
-6192	1	relaxing :umbrella_with_rain_drops:
 6193	1	 okso
 6194	1	okso two
 6195	1	two #absolutefavs
@@ -6256,8 +6037,6 @@ Position	Frequency	n-gram
 6255	1	sweatshirt nikes
 6256	1	nikes rosiemorse
 6257	1	rosiemorse yet
-6258	1	yet :face_with_tears_of_joy:
-6259	1	:face_with_tears_of_joy: bitch
 6260	1	bitch fuck
 6261	1	im goingbetter
 6262	1	goingbetter sit
@@ -6392,8 +6171,6 @@ Position	Frequency	n-gram
 6391	1	kid right
 6392	1	right makes
 6393	1	makes happy
-6394	1	happy :red_heart:
-6395	1	:red_heart: #nephew
 6396	1	#nephew httptcojwiqpv
 6397	1	httptcojwiqpv love
 6398	1	love dont
@@ -6434,8 +6211,6 @@ Position	Frequency	n-gram
 6433	1	gazthegooner ya
 6434	1	ya welcome
 6435	1	welcome hunny
-6436	1	hunny :kiss_mark:
-6437	1	:kiss_mark: long
 6438	1	long gold
 6439	1	gold layered
 6440	1	layered pipe
@@ -6451,8 +6226,6 @@ Position	Frequency	n-gram
 6450	1	hotnostrilsrfun prlgl
 6451	1	prlgl rbrnetwork
 6452	1	rbrnetwork aadashusain
-6453	1	aadashusain :thumbs_up:
-6454	1	:thumbs_up: justacoolcat
 6455	1	justacoolcat texted
 6456	1	texted im
 6457	1	going sleepnot
@@ -6505,8 +6278,6 @@ Position	Frequency	n-gram
 6504	1	leaving th
 6505	1	th need
 6506	1	see go
-6507	1	go :weary_face:
-6508	1	:weary_face: myzzcryz
 6509	1	myzzcryz went
 6510	1	went faded
 6511	1	faded orange
@@ -6539,9 +6310,6 @@ Position	Frequency	n-gram
 6538	1	snooze button
 6539	1	button tempting
 6540	1	tempting last
-6541	1	last :sleeping_face:
-6542	1	:sleeping_face: :SOS_button:
-6543	1	:SOS_button: fucked
 6544	1	fucked mood
 6545	1	mood tamir
 6546	1	tamir rices
@@ -6563,8 +6331,6 @@ Position	Frequency	n-gram
 6562	1	come ridiculous
 6563	1	ridiculous scenarios
 6564	1	scenarios head
-6565	1	head :thought_balloon:
-6566	1	:thought_balloon: wadevanhooser
 6567	1	wadevanhooser okay
 6568	1	okay trade
 6569	1	trade better
@@ -6623,8 +6389,6 @@ Position	Frequency	n-gram
 6622	1	brother still
 6623	1	still school
 6624	1	school week
-6625	1	week :smiling_face_with_sunglasses:
-6626	1	:smiling_face_with_sunglasses: bad
 6627	1	idea httptcowurvvvjw
 6628	1	httptcowurvvvjw buy
 6629	1	buy liberal
@@ -6662,8 +6426,6 @@ Position	Frequency	n-gram
 6661	1	jerks broke
 6662	1	broke office
 6663	1	office cool
-6664	1	cool :pouting_face:
-6665	1	:pouting_face: gurus
 6666	1	gurus newbies
 6667	1	newbies everyones
 6668	1	everyones getting
@@ -6756,8 +6518,6 @@ Position	Frequency	n-gram
 6755	1	httptcoflfomcyxu louiserosalia
 6756	1	louiserosalia im
 6757	1	good banter
-6758	1	banter :face_with_tears_of_joy:
-6759	1	:face_with_tears_of_joy: also
 6760	1	also top
 6761	1	top lol
 6762	1	lol timowensby
@@ -6833,9 +6593,6 @@ Position	Frequency	n-gram
 6832	1	#fitness #gym
 6833	1	#gym #no
 6834	1	#no #give
-6835	1	#up :oncoming_fist:
-6836	1	:oncoming_fist: :flexed_biceps:
-6837	1	:flexed_biceps: httptcosudphibdez
 6838	1	httptcosudphibdez #bbc
 6839	1	#news #denmark
 6840	1	#denmark #challenges
@@ -6871,7 +6628,6 @@ Position	Frequency	n-gram
 6870	1	jump bed
 6871	1	bed tonight
 6872	1	tonight sleep
-6873	1	:sleeping_face: #sotired
 6874	1	#sotired next
 6875	1	person wants
 6876	1	wants educate
@@ -6933,8 +6689,6 @@ Position	Frequency	n-gram
 6932	1	jbboats #topform
 6933	1	#topform kaylz
 6934	1	kaylz anymore
-6935	1	anymore :persevering_face:
-6936	1	:persevering_face: coming
 6937	1	coming conclusion
 6938	1	conclusion apple
 6939	1	apple skynet
@@ -7045,11 +6799,6 @@ Position	Frequency	n-gram
 7044	1	hrc #mountbellewisahurlingstronghold
 7045	1	#mountbellewisahurlingstronghold #holyrosarylife
 7046	1	#holyrosarylife #seniorb
-7047	1	#seniorb :grinning_face_with_smiling_eyes:
-7048	1	:grinning_face_with_smiling_eyes: :raising_hands:
-7049	1	:raising_hands: :trophy:
-7050	1	:trophy: :baseball:
-7051	1	:baseball: going
 7052	1	going rec
 7053	1	rec tonight
 7054	1	tonight #beingproductive
@@ -7146,8 +6895,6 @@ Position	Frequency	n-gram
 7145	1	hahahah donna
 7146	1	donna inspirational
 7147	1	inspirational shit
-7148	1	shit :face_with_tears_of_joy:
-7149	1	:face_with_tears_of_joy: thats
 7150	1	thats great
 7151	1	great morning
 7152	1	morning #monday
@@ -7172,9 +6919,6 @@ Position	Frequency	n-gram
 7171	1	cancel vball
 7172	1	vball tournament
 7173	1	tournament today
-7174	1	today :pistol:
-7175	1	:pistol: :pouting_face:
-7176	1	:pouting_face: #ball
 7177	1	#ball #is
 7178	1	#is #life
 7179	1	#life cutneaux
@@ -7253,13 +6997,10 @@ Position	Frequency	n-gram
 7252	1	ugpk dad
 7253	1	dad calls
 7254	1	calls name
-7255	1	:smirking_face: often
 7256	1	often go
 7257	1	go fight
 7258	1	fight want
 7259	1	want fight
-7260	1	fight :smirking_face:
-7261	1	:smirking_face: jlpt
 7262	1	jlpt tomorrow
 7263	1	tomorrow feeling
 7264	1	feeling vaguely
@@ -7299,13 +7040,8 @@ Position	Frequency	n-gram
 7298	1	httptcoewbwxzin happy
 7299	1	birthday boo
 7300	1	boo jameson
-7301	1	jameson :red_heart:
-7302	1	:red_heart: :party_popper:
-7303	1	:party_popper: love
 7304	1	love great
 7305	1	great day
-7306	1	:face_with_tears_of_joy: :smiling_cat_face_with_heart-eyes:
-7307	1	:smiling_cat_face_with_heart-eyes: httptcokvyesiocd
 7308	1	httptcokvyesiocd except
 7309	1	except hot
 7310	1	hot water
@@ -7320,8 +7056,6 @@ Position	Frequency	n-gram
 7319	1	hate solid
 7320	1	solid leg
 7321	1	leg day
-7322	1	day :flexed_biceps:
-7323	1	:flexed_biceps: felt
 7324	1	felt great
 7325	1	great hit
 7326	1	hit max
@@ -7402,8 +7136,6 @@ Position	Frequency	n-gram
 7401	1	httptcoaydmcszjd diycookery
 7402	1	diycookery guide
 7403	1	guide coffee
-7404	1	coffee :OK_hand:
-7405	1	:OK_hand: httptcocxjigjmwaa
 7406	1	httptcocxjigjmwaa lol
 7407	1	lol espresso
 7408	1	espresso time
@@ -7470,12 +7202,8 @@ Position	Frequency	n-gram
 7469	1	doesnt kill
 7470	1	kill makes
 7471	1	makes #stronger
-7472	1	#stronger :OK_hand:
-7473	1	:OK_hand: im
 7474	1	im #perfect
 7475	1	#perfect #mybody
-7476	1	#mybody :see-no-evil_monkey:
-7477	1	:see-no-evil_monkey: httptcolbizvojue
 7478	1	httptcolbizvojue itsanabln
 7479	1	itsanabln yeah
 7480	1	yeah get
@@ -7527,9 +7255,6 @@ Position	Frequency	n-gram
 7526	1	smile ask
 7527	1	ask wants
 7528	1	stay loved
-7529	1	loved :two_hearts:
-7530	1	:two_hearts: :musical_note:
-7531	1	:musical_note: feel
 7532	1	feel nap
 7533	1	nap near
 7534	1	near future
@@ -7539,9 +7264,6 @@ Position	Frequency	n-gram
 7538	1	babygirl get
 7539	1	get beauty
 7540	1	beauty sleep
-7541	1	:sleeping_face: :zzz:
-7542	1	:zzz: :zzz:
-7543	1	:zzz: ugly
 7544	1	ugly truth
 7545	1	truth #abuse
 7546	1	#abuse #enough
@@ -7564,8 +7286,6 @@ Position	Frequency	n-gram
 7563	1	ur gonna
 7564	1	gonna smash
 7565	1	smash #ed
-7566	1	#ed :microphone:
-7567	1	:microphone: name
 7568	1	name game
 7569	1	game httptcocuwvhvvxl
 7570	1	httptcocuwvhvvxl sportscenter
@@ -7678,8 +7398,6 @@ Position	Frequency	n-gram
 7677	1	drop rbrnetwork
 7678	1	coutopanda chillax
 7679	1	chillax bitches
-7680	1	bitches :squinting_face_with_tongue:
-7681	1	:squinting_face_with_tongue: face
 7682	1	face squished
 7683	1	squished #fireball
 7684	1	#fireball httptcojniwuipj
@@ -7784,14 +7502,9 @@ Position	Frequency	n-gram
 7783	1	donniewahlberg bad
 7784	1	bad happy
 7785	1	happy preds
-7786	1	preds :party_popper:
-7787	1	:party_popper: dance
 7788	1	dance first
 7789	1	first thought
 7790	1	thought donnie
-7791	1	donnie :beaming_face_with_smiling_eyes:
-7792	1	:beaming_face_with_smiling_eyes: :speak-no-evil_monkey:
-7793	1	:speak-no-evil_monkey: bestproadvice
 7794	1	bestproadvice httptcoyrlmbknzb
 7795	1	httptcoyrlmbknzb trueyou
 7796	1	trueyou cant
@@ -7814,8 +7527,6 @@ Position	Frequency	n-gram
 7813	1	presentation thats
 7814	1	due tomorrow
 7815	1	tomorrow started
-7816	1	started :grinning_face_with_sweat:
-7817	1	:grinning_face_with_sweat: thebodyshopuk
 7818	1	thebodyshopuk dont
 7819	1	know im
 7820	1	love products
@@ -7824,10 +7535,6 @@ Position	Frequency	n-gram
 7823	1	heaven #love
 7824	1	#love #skincare
 7825	1	#skincare #beauty
-7826	1	#beauty :thumbs_up:
-7827	1	:thumbs_up: :green_heart:
-7828	1	:green_heart: :person_taking_bath:
-7829	1	:person_taking_bath: httptcorouqlllaf
 7830	1	httptcorouqlllaf zayn
 7831	1	zayn look
 7832	1	like spanish
@@ -7855,8 +7562,6 @@ Position	Frequency	n-gram
 7854	1	wont complete
 7855	1	complete meet
 7856	1	meet theresacaputo
-7857	1	theresacaputo :two_hearts:
-7858	1	:two_hearts: neilby
 7859	1	neilby yeah
 7860	1	yeah bad
 7861	1	bad asleep
@@ -7864,8 +7569,6 @@ Position	Frequency	n-gram
 7863	1	playing strong
 7864	1	strong painkillers
 7865	1	painkillers knock
-7866	1	knock :see-no-evil_monkey:
-7867	1	:see-no-evil_monkey: lipsbycarla
 7868	1	lipsbycarla iamsteveharvey
 7869	1	iamsteveharvey wont
 7870	1	wont pledging
@@ -7997,8 +7700,6 @@ Position	Frequency	n-gram
 7996	1	youraveragedaddysgirl dream
 7997	1	dream celebrate
 7998	1	celebrate christmas
-7999	1	christmas :smiling_face_with_heart-eyes:
-8000	1	:smiling_face_with_heart-eyes: eskimodave
 8001	1	eskimodave yup
 8002	1	yup weeks
 8003	1	weeks nz
@@ -8038,14 +7739,8 @@ Position	Frequency	n-gram
 8037	1	people love
 8038	1	love fucking
 8039	1	fucking loved
-8040	1	loved :smiling_face_with_heart-eyes:
-8041	1	:smiling_face_with_heart-eyes: happy
 8042	1	happy camper
 8043	1	camper right
-8044	1	right :squinting_face_with_tongue:
-8045	1	:squinting_face_with_tongue: :green_heart:
-8046	1	:green_heart: :red_heart:
-8047	1	:red_heart: haha
 8048	1	haha also
 8049	1	also cheers
 8050	1	cheers bro
@@ -8204,8 +7899,6 @@ Position	Frequency	n-gram
 8203	1	makeup always
 8204	1	always sooo
 8205	1	sooo flawless
-8206	1	flawless :speak-no-evil_monkey:
-8207	1	:speak-no-evil_monkey: lighting
 8208	1	lighting setup
 8209	1	setup #malawi
 8210	1	#malawi #aquarium
@@ -8245,9 +7938,6 @@ Position	Frequency	n-gram
 8244	1	someones defensiveif
 8245	1	defensiveif shoe
 8246	1	shoe fits
-8247	1	fits :frog_face:
-8248	1	:frog_face: :hot_beverage:
-8249	1	:hot_beverage: 
 8250	1	 #sopping
 8251	1	#sopping #wet
 8252	1	#wet #squishing
@@ -8377,8 +8067,6 @@ Position	Frequency	n-gram
 8376	1	#drugs wish
 8377	1	wish mf
 8378	1	mf would
-8379	1	would :oncoming_fist:
-8380	1	:oncoming_fist: day
 8381	1	day #cute
 8382	1	#cute awake
 8383	1	right angryface
@@ -8401,8 +8089,6 @@ Position	Frequency	n-gram
 8400	1	show tamarvince
 8401	1	tamarvince season
 8402	1	season finale
-8403	1	finale :purple_heart:
-8404	1	:purple_heart: photo
 8405	1	photo abstract
 8406	1	abstract tribal
 8407	1	tribal bubble
@@ -8444,8 +8130,6 @@ Position	Frequency	n-gram
 8443	1	#fine #tipsy
 8444	1	#tipsy #drunk
 8445	1	#drunk #dead
-8446	1	#dead :face_with_tears_of_joy:
-8447	1	:face_with_tears_of_joy: #needagoodlaugh
 8448	1	#needagoodlaugh httptcoetkxzpfvx
 8449	1	httptcoetkxzpfvx still
 8450	1	still time
@@ -8495,9 +8179,6 @@ Position	Frequency	n-gram
 8494	1	making effort
 8495	1	effort patrickrowe
 8496	1	patrickrowe #wrong
-8497	1	#wrong :face_with_tears_of_joy:
-8498	1	:face_with_tears_of_joy: :loudly_crying_face:
-8499	1	:loudly_crying_face: devinheroux
 8500	1	devinheroux cbceyeopener
 8501	1	cbceyeopener downtowncalgary
 8502	1	downtowncalgary stunning
@@ -8528,9 +8209,6 @@ Position	Frequency	n-gram
 8527	1	liamwalker term
 8528	1	term time
 8529	1	time son
-8530	1	son :grinning_squinting_face:
-8531	1	:grinning_squinting_face: :smiling_face_with_sunglasses:
-8532	1	:smiling_face_with_sunglasses: worth
 8533	1	worth read
 8534	1	read #christians
 8535	1	#christians persecution
@@ -8544,8 +8222,6 @@ Position	Frequency	n-gram
 8543	1	may may
 8544	1	may obsessed
 8545	1	obsessed grinch
-8546	1	grinch :smirking_face:
-8547	1	:smirking_face: revarun
 8548	1	revarun cofe
 8549	1	cofe money
 8550	1	money churchhttptcoqwbriavksmartphone
@@ -8603,9 +8279,6 @@ Position	Frequency	n-gram
 8602	1	like make
 8603	1	make happy
 8604	1	happy #essentialservice
-8605	1	#essentialservice :Santa_Claus:
-8606	1	:Santa_Claus: :Christmas_tree:
-8607	1	:Christmas_tree: httptcoejqetthit
 8608	1	httptcoejqetthit oo
 8609	1	oo ummmso
 8610	1	ummmso like
@@ -8745,9 +8418,6 @@ Position	Frequency	n-gram
 8744	1	thomas lol
 8745	1	lol good
 8746	1	game good
-8747	1	game :expressionless_face:
-8748	1	:expressionless_face: :pouting_face:
-8749	1	:pouting_face: half
 8750	1	half hour
 8751	1	hour walk
 8752	1	walk #proud
@@ -8832,8 +8502,6 @@ Position	Frequency	n-gram
 8831	1	freaking hate
 8832	1	hate someone
 8833	1	someone much
-8834	1	much :unamused_face:
-8835	1	:unamused_face: spicy
 8836	1	spicy cali
 8837	1	roll cali
 8838	1	roll dab
@@ -8909,8 +8577,6 @@ Position	Frequency	n-gram
 8908	1	honour picture
 8909	1	picture lyrics
 8910	1	lyrics sketched
-8911	1	sketched :flushed_face:
-8912	1	:flushed_face: cant
 8913	1	wait weekend
 8914	1	weekend overthen
 8915	1	overthen xmas
@@ -8941,8 +8607,6 @@ Position	Frequency	n-gram
 8940	1	lol leave
 8941	1	leave friday
 8942	1	friday time
-8943	1	time :airplane:
-8944	1	:airplane: uovervindelig
 8945	1	uovervindelig sex
 8946	1	sex simply
 8947	1	simply wonderful
@@ -9059,7 +8723,6 @@ Position	Frequency	n-gram
 9058	1	#bullringbirmingham #sunglasses
 9059	1	#sunglasses really
 9060	1	really lol
-9061	1	:beaming_face_with_smiling_eyes: #sayyes
 9062	1	#sayyes says
 9063	1	says xxx
 9064	1	xxx httptcoysuyjqsdr
@@ -9437,8 +9100,6 @@ Position	Frequency	n-gram
 9436	1	munros facial
 9437	1	expression facial
 9438	1	expression right
-9439	1	right :face_with_tears_of_joy:
-9440	1	:face_with_tears_of_joy: #but
 9441	1	#but #im
 9442	1	#im #giving
 9443	1	#giving #up
@@ -9510,8 +9171,6 @@ Position	Frequency	n-gram
 9509	1	thunderbugtbl beautys
 9510	1	beautys get
 9511	1	get followers
-9512	1	followers :speak-no-evil_monkey:
-9513	1	:speak-no-evil_monkey: booked
 9514	1	booked back
 9515	1	back massage
 9516	1	massage sharnawoodcock
@@ -9520,10 +9179,6 @@ Position	Frequency	n-gram
 9519	1	hopefully stop
 9520	1	stop groaning
 9521	1	groaning crimbo
-9522	1	crimbo :thumbs_up:
-9523	1	:thumbs_up: :Santa_Claus:
-9524	1	:wrapped_gift: :Santa_Claus:
-9525	1	:Santa_Claus: mad
 9526	1	mad matter
 9527	1	matter min
 9528	1	min cant
@@ -9534,8 +9189,6 @@ Position	Frequency	n-gram
 9533	1	good fear
 9534	1	fear ian
 9535	1	ian brown
-9536	1	brown :headphone:
-9537	1	:headphone: #singingoutloud
 9538	1	#singingoutloud #tune
 9539	1	#tune devanaltman
 9540	1	devanaltman completely
@@ -9578,20 +9231,12 @@ Position	Frequency	n-gram
 9577	1	everyone singing
 9578	1	singing ready
 9579	1	ready im
-9580	1	im :face_with_tears_of_joy:
-9581	1	:face_with_tears_of_joy: happy
 9582	1	happy holidays
 9583	1	holidays boy
 9584	1	boy carl
 9585	1	carl #lrs
 9586	1	#lrs #holiday
 9587	1	#holiday #party
-9588	1	#party :smirking_face:
-9589	1	:smirking_face: :smiling_face_with_sunglasses:
-9590	1	:smiling_face_with_sunglasses: :smiling_face_with_sunglasses:
-9591	1	:smiling_face_with_sunglasses: :Christmas_tree:
-9592	1	:Christmas_tree: :Christmas_tree:
-9593	1	:Christmas_tree: httptcokzvxglwoz
 9594	1	httptcokzvxglwoz thank
 9595	1	thank angiegalifas
 9596	1	angiegalifas amazing
@@ -9660,9 +9305,6 @@ Position	Frequency	n-gram
 9659	1	tea friday
 9660	1	friday tomorrow
 9661	1	tomorrow #woohoo
-9662	1	#woohoo :grinning_face_with_big_eyes:
-9663	1	:grinning_face_with_big_eyes: :thumbs_up:
-9664	1	:thumbs_up: mattyzee
 9665	1	mattyzee okthanks
 9666	1	okthanks telling
 9667	1	telling passed
@@ -9674,9 +9316,6 @@ Position	Frequency	n-gram
 9673	1	cinema date
 9674	1	date boo
 9675	1	boo weekend
-9676	1	weekend :see-no-evil_monkey:
-9677	1	:see-no-evil_monkey: :two_hearts:
-9678	1	:two_hearts: highway
 9679	1	highway clean
 9680	1	clean section
 9681	1	section highway
@@ -9717,8 +9356,6 @@ Position	Frequency	n-gram
 9716	1	day sunbut
 9717	1	sunbut sunny
 9718	1	sunny today
-9719	1	today :cloud:
-9720	1	:cloud: #decemberphotochallenge
 9721	1	#decemberphotochallenge #france
 9722	1	#france #sun
 9723	1	#sun #or
@@ -9787,8 +9424,6 @@ Position	Frequency	n-gram
 9786	1	mockery bae
 9787	1	bae like
 9788	1	like abey
-9789	1	abey :persevering_face:
-9790	1	:persevering_face: srduncan
 9791	1	srduncan think
 9792	1	think go
 9793	1	get checked
@@ -9800,8 +9435,6 @@ Position	Frequency	n-gram
 9799	1	dry backs
 9800	1	backs killing
 9801	1	killing today
-9802	1	today :grimacing_face:
-9803	1	:grimacing_face: #tramadol
 9804	1	#tramadol christmas
 9805	1	day heating
 9806	1	heating pizza
@@ -9814,10 +9447,6 @@ Position	Frequency	n-gram
 9813	1	provide internal
 9814	1	internal #statistics
 9815	1	#statistics w
-9816	1	w :police_car:
-9817	1	:police_car: involved
-9818	1	involved :skull:
-9819	1	:skull: info
 9820	1	info given
 9821	1	given fbi
 9822	1	fbi since
@@ -9981,8 +9610,6 @@ Position	Frequency	n-gram
 9980	1	pointing clothes
 9981	1	clothes black
 9982	1	black #noshame
-9983	1	#noshame :bomb:
-9984	1	:bomb: pcarsenault
 9985	1	pcarsenault noflydawn
 9986	1	noflydawn yes
 9987	1	yes time
@@ -10027,8 +9654,6 @@ Position	Frequency	n-gram
 10026	1	without mum
 10027	1	mum gonna
 10028	1	gonna get
-10029	1	drunk :tropical_drink:
-10030	1	:tropical_drink: coltonwilliy
 10031	1	coltonwilliy im
 10032	1	im sorry
 10033	1	sorry chode
@@ -10111,8 +9736,6 @@ Position	Frequency	n-gram
 10110	1	creepy httptcowkznvknhp
 10111	1	httptcowkznvknhp hayl
 10112	1	hayl say
-10113	1	say :face_with_tears_of_joy:
-10114	1	:face_with_tears_of_joy: days
 10115	1	days want
 10116	1	want everyone
 10117	1	everyone leave
@@ -10170,8 +9793,6 @@ Position	Frequency	n-gram
 10169	1	boobs old
 10170	1	old ones
 10171	1	ones fabulous
-10172	1	fabulous :squinting_face_with_tongue:
-10173	1	:squinting_face_with_tongue: ggstudiocongratulations
 10174	1	ggstudiocongratulations gg
 10175	1	gg giving
 10176	1	giving us
@@ -10182,8 +9803,6 @@ Position	Frequency	n-gram
 10181	1	fact planning
 10182	1	planning u
 10183	1	u prospictive
-10184	1	prospictive :smiling_face_with_smiling_eyes:
-10185	1	:smiling_face_with_smiling_eyes: #all
 10186	1	#all #cute
 10187	1	#cute #dude
 10188	1	#dude #girlygirl
@@ -10300,9 +9919,6 @@ Position	Frequency	n-gram
 10299	1	hahah santa
 10300	1	santa looks
 10301	1	looks name
-10302	1	:smirking_face: :person_gesturing_NO:
-10303	1	:person_gesturing_NO: :crown:
-10304	1	:crown: #sassy
 10305	1	#sassy #naughty
 10306	1	#naughty #or
 10307	1	#or #nice
@@ -10344,8 +9960,6 @@ Position	Frequency	n-gram
 10343	1	get #suckered
 10344	1	#suckered #making
 10345	1	#making anotherone
-10346	1	anotherone :winking_face_with_tongue:
-10347	1	:winking_face_with_tongue: eskom
 10348	1	eskom loadshedding
 10349	1	loadshedding hammers
 10350	1	hammers rand
@@ -10388,8 +10002,6 @@ Position	Frequency	n-gram
 10387	1	goodgary neilby
 10388	1	tonybrown gazthegooner
 10389	1	losdagooner mmmm
-10390	1	mmmm :face_with_tears_of_joy:
-10391	1	:face_with_tears_of_joy: speakeasy
 10392	1	speakeasy httptcobgyuax
 10393	1	httptcobgyuax one
 10394	1	one season
@@ -10591,8 +10203,6 @@ Position	Frequency	n-gram
 10590	1	hows ya
 10591	1	ya tash
 10592	1	tash going
-10593	1	going :face_blowing_a_kiss:
-10594	1	:face_blowing_a_kiss: patwilsoninfo
 10595	1	patwilsoninfo huh
 10596	1	huh graphical
 10597	1	graphical representation
@@ -10728,8 +10338,6 @@ Position	Frequency	n-gram
 10727	1	yeah directors
 10728	1	directors cut
 10729	1	cut longer
-10730	1	longer :beaming_face_with_smiling_eyes:
-10731	1	:beaming_face_with_smiling_eyes: need
 10732	1	see penguins
 10733	1	madagascar btw
 10734	1	btw well
@@ -10743,9 +10351,6 @@ Position	Frequency	n-gram
 10742	1	case somebody
 10743	1	somebody breaks
 10744	1	breaks apartment
-10745	1	apartment :kitchen_knife:
-10746	1	:kitchen_knife: :dizzy_face:
-10747	1	:dizzy_face: httptcoihkkayo
 10748	1	httptcoihkkayo redeyefnc
 10749	1	redeyefnc saturday
 10750	1	saturday damnthere
@@ -10817,11 +10422,6 @@ Position	Frequency	n-gram
 10816	1	#then dirgahayu
 10817	1	dirgahayu corps
 10818	1	corps mbbbt
-10819	1	mbbbt :smiling_face_with_sunglasses:
-10820	1	:smiling_face_with_sunglasses: :musical_score:
-10821	1	:musical_score: :clapping_hands:
-10822	1	:clapping_hands: :oncoming_fist:
-10823	1	:oncoming_fist: corps
 10824	1	corps w
 10825	1	w tari
 10826	1	tari eni
@@ -10962,12 +10562,8 @@ Position	Frequency	n-gram
 10961	1	get mad
 10962	1	mad im
 10963	1	im shit
-10964	1	shit :person_walking:
-10965	1	:person_walking: jcpetit
 10966	1	jcpetit dusty
 10967	1	dusty usual
-10968	1	usual :electric_plug:
-10969	1	:electric_plug: #redbucket
 10970	1	#redbucket httptcoullvttn
 10971	1	httptcoullvttn taaalia
 10972	1	taaalia merrinaised
@@ -11019,8 +10615,6 @@ Position	Frequency	n-gram
 11018	1	north england
 11019	1	england 🇬
 11020	1	🇬 🇧
-11021	1	🇧 :snowflake:
-11022	1	:snowflake: rockprincess
 11023	1	rockprincess texasfreedom
 11024	1	texasfreedom progressive
 11025	1	progressive socialism
@@ -11036,9 +10630,6 @@ Position	Frequency	n-gram
 11035	1	#nuffsaid #stupidity
 11036	1	#stupidity #hadenough
 11037	1	#hadenough lols
-11038	1	lols :face_with_tears_of_joy:
-11039	1	:face_with_tears_of_joy: :grinning_face_with_big_eyes:
-11040	1	:grinning_face_with_big_eyes: httptcoiszexuln
 11041	1	httptcoiszexuln togepi
 11042	1	togepi shed
 11043	1	shed wwwmonstermmorpg
@@ -11110,8 +10701,6 @@ Position	Frequency	n-gram
 11109	1	look future
 11110	1	future like
 11111	1	like cool
-11112	1	cool :face_with_tears_of_joy:
-11113	1	:face_with_tears_of_joy: tweet
 11114	1	tweet year
 11115	1	year themindofjdubb
 11116	1	themindofjdubb fact
@@ -11167,8 +10756,6 @@ Position	Frequency	n-gram
 11166	1	dvdsya knowjust
 11167	1	knowjust case
 11168	1	case lol
-11169	1	lol :smirking_face:
-11170	1	:smirking_face: httptcoevndvemy
 11171	1	httptcoevndvemy #teenanalcasting
 11172	1	#teenanalcasting #katarro
 11173	1	#katarro katarro
@@ -11187,9 +10774,6 @@ Position	Frequency	n-gram
 11186	1	punch someone
 11187	1	someone face
 11188	1	face right
-11189	1	right :smirking_face:
-11190	1	:smirking_face: :oncoming_fist:
-11191	1	:oncoming_fist: aerialphotog
 11192	1	aerialphotog dji
 11193	1	dji def
 11194	1	def understandableim
@@ -11208,8 +10792,6 @@ Position	Frequency	n-gram
 11207	1	ronaldo hairmsnini
 11208	1	hairmsnini messy
 11209	1	messy hair
-11210	1	hair :heart_suit:
-11211	1	:heart_suit: foreign
 11212	1	foreign power
 11213	1	power hit
 11214	1	hit japans
@@ -11475,8 +11057,6 @@ Position	Frequency	n-gram
 11474	1	httptcoabzuoom find
 11475	1	find farrrrr
 11476	1	farrrrr funny
-11477	1	funny :face_with_tears_of_joy:
-11478	1	:face_with_tears_of_joy: #wow
 11479	1	#wow #can
 11480	1	#can #u
 11481	1	#u httptcoahsuydlw
@@ -11488,8 +11068,6 @@ Position	Frequency	n-gram
 11487	1	married claudiaromani
 11488	1	claudiaromani would
 11489	1	support milan
-11490	1	milan :smiling_face_with_smiling_eyes:
-11491	1	:smiling_face_with_smiling_eyes: httptcoatrrzeie
 11492	1	httptcoatrrzeie lets
 11493	1	lets hope
 11494	1	hope nene
@@ -11511,8 +11089,6 @@ Position	Frequency	n-gram
 11510	1	nice original
 11511	1	original miss
 11512	1	miss close
-11513	1	close :pensive_face:
-11514	1	:pensive_face: race
 11515	1	human dont
 11516	1	dont look
 11517	1	look things
@@ -11542,8 +11118,6 @@ Position	Frequency	n-gram
 11541	1	#breakofdawn #king
 11542	1	#king #is
 11543	1	#is #dead
-11544	1	#dead :purple_heart:
-11545	1	:purple_heart: httptcofcepzguur
 11546	1	httptcofcepzguur hahaha
 11547	1	hahaha jamieyuccas
 11548	1	jamieyuccas enjoying
@@ -11609,7 +11183,6 @@ Position	Frequency	n-gram
 11608	1	sober good
 11609	1	good bring
 11610	1	bring tomorrow
-11611	1	:face_blowing_a_kiss: navadidas
 11612	1	navadidas #inkrivals
 11613	1	#inkrivals okwe
 11614	1	okwe know
@@ -11690,8 +11263,6 @@ Position	Frequency	n-gram
 11689	1	check music
 11690	1	music later
 11691	1	later thanks
-11692	1	thanks :smiling_face:
-11693	1	:smiling_face: ill
 11694	1	ill tomorrow
 11695	1	tomorrow dangerous
 11696	1	dangerous way
@@ -11758,10 +11329,6 @@ Position	Frequency	n-gram
 11757	1	httptcoqsgzeotfp #repost
 11758	1	#repost hernanpuentes
 11759	1	hernanpuentes repostapp
-11760	1	repostapp :right_arrow:
-11761	1	:right_arrow: :SOON_arrow:
-11762	1	:SOON_arrow: :camera:
-11763	1	:camera: #comingsoon
 11764	1	#comingsoon #loveit
 11765	1	#loveit #loveu
 11766	1	#loveu ・
@@ -11858,9 +11425,6 @@ Position	Frequency	n-gram
 11857	1	going happy
 11858	1	happy describe
 11859	1	describe today
-11860	1	today :smiling_face:
-11861	1	:smiling_face: :purple_heart:
-11862	1	:purple_heart: missguided
 11863	1	missguided looking
 11864	1	looking back
 11865	1	back saturday
@@ -11868,8 +11432,6 @@ Position	Frequency	n-gram
 11867	1	like httptcoyizdlxql
 11868	1	httptcoyizdlxql louiserosalia
 11869	1	louiserosalia thursday
-11870	1	thursday :face_with_tears_of_joy:
-11871	1	:face_with_tears_of_joy: chose
 11872	1	chose living
 11873	1	living winnipeg
 11874	1	winnipeg never
@@ -11976,8 +11538,6 @@ Position	Frequency	n-gram
 11975	1	ass drive
 11976	1	drive music
 11977	1	music blasting
-11978	1	blasting :raising_hands:
-11979	1	:raising_hands: srduncan
 11980	1	srduncan destroyrobots
 11981	1	destroyrobots chortle
 11982	1	chortle would
@@ -11986,8 +11546,6 @@ Position	Frequency	n-gram
 11985	1	palmer xmas
 11986	1	intimissimiofficial calzedonia
 11987	1	calzedonia read
-11988	1	love :red_heart:
-11989	1	:red_heart: click
 11990	1	click link
 11991	1	link httptcoflwpjpohn
 11992	1	httptcoflwpjpohn spider
@@ -12013,9 +11571,6 @@ Position	Frequency	n-gram
 12012	1	yups sarcasm
 12013	1	sarcasm wine
 12014	1	wine #winelover
-12015	1	#winelover :smiling_face_with_smiling_eyes:
-12016	1	:smiling_face_with_smiling_eyes: :person_tipping_hand:
-12017	1	:person_tipping_hand: httptcozkjdkjte
 12018	1	httptcozkjdkjte one
 12019	1	one nighter
 12020	1	nighter semester
@@ -12046,10 +11601,6 @@ Position	Frequency	n-gram
 12045	1	boyfriends nd
 12046	1	nd christmas
 12047	1	christmas together
-12048	1	together :face_blowing_a_kiss:
-12049	1	:face_blowing_a_kiss: :raising_hands:
-12050	1	:raising_hands: :two_hearts:
-12051	1	:two_hearts: looking
 12052	1	looking stratoscale
 12053	1	stratoscale practitioners
 12054	1	practitioners anyone
@@ -12134,16 +11685,12 @@ Position	Frequency	n-gram
 12133	1	late night
 12134	1	night snuggles
 12135	1	snuggles boy
-12136	1	boy :purple_heart:
-12137	1	:two_hearts: want
 12138	1	want eat
 12139	1	eat pizza
 12140	1	pizza friends
 12141	1	friends rest
 12142	1	rest life
 12143	1	love cocoa
-12144	1	cocoa :teacup_without_handle:
-12145	1	:teacup_without_handle: #sagittarius
 12146	1	#sagittarius know
 12147	1	know want
 12148	1	want always
@@ -12171,14 +11718,10 @@ Position	Frequency	n-gram
 12170	1	see #time
 12171	1	#time httptcoiwmpsjj
 12172	1	httptcoiwmpsjj imjayded
-12173	1	imjayded :fire:
-12174	1	:fire: dipmag
 12175	1	dipmag gears
 12176	1	gears release
 12177	1	release next
 12178	1	next issue
-12179	1	issue :SOON_arrow:
-12180	1	:SOON_arrow: wifey
 12181	1	wifey series
 12182	1	series #covermodels
 12183	1	#covermodels httptcodqrkfjmyvl
@@ -12187,9 +11730,6 @@ Position	Frequency	n-gram
 12186	1	went delano
 12187	1	delano #blackout
 12188	1	#blackout parts
-12189	1	parts :smiling_face:
-12190	1	:smiling_face: :party_popper:
-12191	1	:party_popper: still
 12192	1	still #happynewyear
 12193	1	#happynewyear everyone
 12194	1	everyone #besafe
@@ -12338,8 +11878,6 @@ Position	Frequency	n-gram
 12337	1	cute fucked
 12338	1	fucked really
 12339	1	really badly
-12340	1	badly :face_with_tears_of_joy:
-12341	1	:face_with_tears_of_joy: #advancedwarfare
 12342	1	#advancedwarfare httptcofkjazvk
 12343	1	httptcofkjazvk annabelluxford
 12344	1	annabelluxford pull
@@ -12361,14 +11899,9 @@ Position	Frequency	n-gram
 12360	1	soofunnypost ever
 12361	1	ever wonder
 12362	1	wonder httptcoxrbghzk
-12363	1	httptcoxrbghzk :raising_hands:
-12364	1	:raising_hands: :raising_hands:
-12365	1	:raising_hands: shit
 12366	1	shit would
 12367	1	would think
 12368	1	think juiccyyj
-12369	1	juiccyyj :face_with_tears_of_joy:
-12370	1	:face_with_tears_of_joy: normal
 12371	1	normal people
 12372	1	people see
 12373	1	see vs
@@ -12492,8 +12025,6 @@ Position	Frequency	n-gram
 12491	1	#elxn httptcoaoghv
 12492	1	httptcoaoghv gone
 12493	1	gone fire
-12494	1	fire :fire:
-12495	1	:fire: jan
 12496	1	jan th
 12497	1	th #getlifted
 12498	1	#getlifted httptcoxzjunhzl
@@ -12552,13 +12083,9 @@ Position	Frequency	n-gram
 12551	1	stitch fav
 12552	1	fav crazyshikoh
 12553	1	crazyshikoh yes
-12554	1	yes :thumbs_up:
-12555	1	:thumbs_up: taste
 12556	1	taste slight
 12557	1	slight aroma
 12558	1	aroma tea
-12559	1	tea :smiling_face_with_heart-eyes:
-12560	1	:smiling_face_with_heart-eyes: enigmaniac
 12561	1	enigmaniac amen
 12562	1	amen bless
 12563	1	bless huda
@@ -12652,9 +12179,6 @@ Position	Frequency	n-gram
 12651	1	feeling sorry
 12652	1	sorry ill
 12653	1	go last
-12654	1	night :loudly_crying_face:
-12655	1	:loudly_crying_face: :crying_face:
-12656	1	:crying_face: heres
 12657	1	heres memories
 12658	1	memories httptcoifikkek
 12659	1	httptcoifikkek littlelizardg
@@ -12696,12 +12220,9 @@ Position	Frequency	n-gram
 12695	1	melcarey im
 12696	1	im lohan
 12697	1	lohan anymore
-12698	1	anymore :beaming_face_with_smiling_eyes:
-12699	1	:beaming_face_with_smiling_eyes: detox
 12700	1	detox weeks
 12701	1	weeks new
 12702	1	new week
-12703	1	:face_blowing_a_kiss: could
 12704	1	could stop
 12705	1	stop losing
 12706	1	losing planes
@@ -12801,8 +12322,6 @@ Position	Frequency	n-gram
 12800	1	nice soak
 12801	1	soak bubble
 12802	1	bubble bath
-12803	1	bath :face_blowing_a_kiss:
-12804	1	:face_blowing_a_kiss: thank
 12805	1	thank wizardsmagic
 12806	1	wizardsmagic requiring
 12807	1	requiring facebook
@@ -12885,8 +12404,6 @@ Position	Frequency	n-gram
 12884	1	week next
 12885	1	next medschool
 12886	1	medschool interview
-12887	1	interview :beaming_face_with_smiling_eyes:
-12888	1	:beaming_face_with_smiling_eyes: #humanrightsday
 12889	1	#humanrightsday #manchester
 12890	1	#manchester takes
 12891	1	takes first
@@ -12977,8 +12494,6 @@ Position	Frequency	n-gram
 12976	1	story sadthrilling
 12977	1	sadthrilling confusing
 12978	1	confusing love
-12979	1	love :smiling_face_with_heart-eyes:
-12980	1	:smiling_face_with_heart-eyes: every
 12981	1	every wondered
 12982	1	wondered whats
 12983	1	whats turkeys
@@ -13055,8 +12570,6 @@ Position	Frequency	n-gram
 13054	1	peeked see
 13055	1	see movie
 13056	1	movie playing
-13057	1	playing :face_with_tears_of_joy:
-13058	1	:face_with_tears_of_joy: senrandpaul
 13059	1	senrandpaul #chrischristy
 13060	1	#chrischristy well
 13061	1	well among
@@ -13134,8 +12647,6 @@ Position	Frequency	n-gram
 13133	1	shit whatsoever
 13134	1	whatsoever #done
 13135	1	#done #shesdone
-13136	1	#shesdone :person_tipping_hand:
-13137	1	:person_tipping_hand: httptcowhfqxtlgr
 13138	1	httptcowhfqxtlgr cbchereandnow
 13139	1	cbchereandnow whoa
 13140	1	whoa hope
@@ -13188,7 +12699,6 @@ Position	Frequency	n-gram
 13187	1	gonna enjoy
 13188	1	enjoy day
 13189	1	day babies
-13190	1	babies :victory_hand:
 13191	1	 refuse
 13192	1	refuse weak
 13193	1	weak #workout
@@ -13221,9 +12731,6 @@ Position	Frequency	n-gram
 13220	1	fire jayduhhh
 13221	1	jayduhhh find
 13222	1	one costumes
-13223	1	costumes :face_savoring_food:
-13224	1	:face_savoring_food: :face_with_tears_of_joy:
-13225	1	:face_with_tears_of_joy: aliceoflalaland
 13226	1	aliceoflalaland using
 13227	1	using #notcies
 13228	1	#eu moscovici
@@ -13427,12 +12934,7 @@ Position	Frequency	n-gram
 13426	1	#ezonegoadiaries httptcoovsicylfr
 13427	1	httptcoovsicylfr eiafc
 13428	1	eiafc wow
-13429	1	wow :grinning_face_with_sweat:
-13430	1	:grinning_face_with_sweat: mad
 13431	1	mad babe
-13432	1	babe :face_screaming_in_fear:
-13433	1	:face_screaming_in_fear: :face_screaming_in_fear:
-13434	1	:face_screaming_in_fear: infowolf
 13435	1	infowolf really
 13436	1	need put
 13437	1	put hashtag
@@ -13458,9 +12960,6 @@ Position	Frequency	n-gram
 13457	1	watching shit
 13458	1	shit tele
 13459	1	tele dad
-13460	1	dad :two_hearts:
-13461	1	:two_hearts: :purple_heart:
-13462	1	:purple_heart: could
 13463	1	could kidnap
 13464	1	kidnap friends
 13465	1	friends new
@@ -13475,11 +12974,7 @@ Position	Frequency	n-gram
 13474	1	#frozen httptcoqucrvymj
 13475	1	httptcoqucrvymj tonybrown
 13476	1	parkzthedon bigedh
-13477	1	bigedh :oncoming_fist:
-13478	1	:oncoming_fist: box
 13479	1	box yeah
-13480	1	yeah :face_with_tears_of_joy:
-13481	1	:face_with_tears_of_joy: knowledge
 13482	1	knowledge doesnt
 13483	1	mean person
 13484	1	person qualified
@@ -13523,8 +13018,6 @@ Position	Frequency	n-gram
 13522	1	httptcodkrmjdstd hanging
 13523	1	hanging niece
 13524	1	niece day
-13525	1	:face_with_tears_of_joy: :winking_face_with_tongue:
-13526	1	:winking_face_with_tongue: jokes
 13527	1	jokes cnsnews
 13528	1	cnsnews ive
 13529	1	ive heard
@@ -13552,8 +13045,6 @@ Position	Frequency	n-gram
 13551	1	gonna ambulance
 13552	1	ambulance prebooked
 13553	1	prebooked gorj
-13554	1	gorj :purple_heart:
-13555	1	:purple_heart: thank
 13556	1	thank behh
 13557	1	behh loveyou
 13558	1	loveyou circeyaki
@@ -13605,10 +13096,6 @@ Position	Frequency	n-gram
 13604	1	total ass
 13605	1	ass switched
 13606	1	switched coffee
-13607	1	coffee :victory_hand:
-13608	1	 :face_with_tears_of_joy:
-13609	1	:face_with_tears_of_joy: :raising_hands:
-13610	1	:raising_hands: #do
 13611	1	#do #fear
 13612	1	#fear #to
 13613	1	#to #be
@@ -13634,8 +13121,6 @@ Position	Frequency	n-gram
 13633	1	want break
 13634	1	break someones
 13635	1	someones fingers
-13636	1	fingers :pouting_face:
-13637	1	:pouting_face: #russia
 13638	1	#russia #says
 13639	1	#says #new
 13640	1	#new #us
@@ -13687,14 +13172,10 @@ Position	Frequency	n-gram
 13686	1	clothes though
 13687	1	though spoiled
 13688	1	spoiled blessed
-13689	1	blessed :flexed_biceps:
-13690	1	:flexed_biceps: time
 13691	1	time look
 13692	1	look golden
 13693	1	golden girls
 13694	1	girls nite
-13695	1	nite :beaming_face_with_smiling_eyes:
-13696	1	:beaming_face_with_smiling_eyes: #love
 13697	1	#love show
 13698	1	show errolnazareth
 13699	1	errolnazareth thedangelo
@@ -13707,13 +13188,9 @@ Position	Frequency	n-gram
 13706	1	got racists
 13707	1	racists goin
 13708	1	goin sunday
-13709	1	sunday :unamused_face:
-13710	1	:unamused_face: welp
 13711	1	welp back
 13712	1	back drawing
 13713	1	drawing board
-13714	1	board :persevering_face:
-13715	1	:persevering_face: #mua
 13716	1	#mua #sike
 13717	1	#sike #eyeliner
 13718	1	#eyeliner #fail
@@ -13830,9 +13307,6 @@ Position	Frequency	n-gram
 13829	1	#sleepy #am
 13830	1	#am httptcoxwyrlado
 13831	1	httptcoxwyrlado beginning
-13832	1	christmas :Christmas_tree:
-13833	1	:Christmas_tree: :Santa_Claus:
-13834	1	:Santa_Claus: #office
 13835	1	#office #tinsel
 13836	1	#tinsel #christmassy
 13837	1	#christmassy #happy
@@ -14001,10 +13475,6 @@ Position	Frequency	n-gram
 14000	1	wondering weather
 14001	1	weather drinks
 14002	1	drinks tonight
-14003	1	tonight :Santa_Claus:
-14004	1	:wrapped_gift: :wrapped_gift:
-14005	1	:wrapped_gift: :Christmas_tree:
-14006	1	:Christmas_tree: coffee
 14007	1	coffee prioritizing
 14008	1	prioritizing mess
 14009	1	mess trying
@@ -14077,8 +13547,6 @@ Position	Frequency	n-gram
 14076	1	#one #bit
 14077	1	#bit lauratownx
 14078	1	lauratownx httptcoslhnhmnoxh
-14079	1	httptcoslhnhmnoxh :face_with_tears_of_joy:
-14080	1	:face_with_tears_of_joy: ill
 14081	1	ill let
 14082	1	let bb
 14083	1	bb know
@@ -14241,8 +13709,6 @@ Position	Frequency	n-gram
 14240	1	laurendye iv
 14241	1	iv even
 14242	1	even started
-14243	1	started :weary_face:
-14244	1	:weary_face: think
 14245	1	going get
 14246	1	get parents
 14247	1	parents babies
@@ -14250,8 +13716,6 @@ Position	Frequency	n-gram
 14249	1	something fam
 14250	1	fam multiplying
 14251	1	multiplying quickly
-14252	1	quickly :pensive_face:
-14253	1	:pensive_face: #happy
 14254	1	#happy young
 14255	1	young chap
 14256	1	chap ashamed
@@ -14285,9 +13749,6 @@ Position	Frequency	n-gram
 14284	1	wow im
 14285	1	im seriously
 14286	1	seriously dying
-14287	1	dying :see-no-evil_monkey:
-14288	1	:see-no-evil_monkey: :see-no-evil_monkey:
-14289	1	:see-no-evil_monkey: prettiest
 14290	1	prettiest face
 14291	1	face world
 14292	1	world stretch
@@ -14307,8 +13768,6 @@ Position	Frequency	n-gram
 14306	1	insisting follow
 14307	1	follow someone
 14308	1	someone rather
-14309	1	rather :confused_face:
-14310	1	:confused_face: currently
 14311	1	currently fair
 14312	1	fair ℃
 14313	1	℃ outside
@@ -14356,9 +13815,6 @@ Position	Frequency	n-gram
 14355	1	bye friends
 14356	1	friends ill
 14357	1	ill back
-14358	1	back :beaming_face_with_smiling_eyes:
-14359	1	:beaming_face_with_smiling_eyes: :beaming_face_with_smiling_eyes:
-14360	1	:beaming_face_with_smiling_eyes: #hawaii
 14361	1	#hawaii #trip
 14362	1	#trip #with
 14363	1	#with #myfamiry
@@ -14394,8 +13850,6 @@ Position	Frequency	n-gram
 14393	1	till january
 14394	1	january backs
 14395	1	playing pain
-14396	1	pain :weary_face:
-14397	1	:weary_face: wbu
 14398	1	wbu x
 14399	1	x miriammockbill
 14400	1	miriammockbill must
@@ -14431,12 +13885,8 @@ Position	Frequency	n-gram
 14430	1	gonna miss
 14431	1	miss alot
 14432	1	alot people
-14433	1	people :thumbs_down:
-14434	1	:thumbs_down: ah
 14435	1	ah roll
 14436	1	roll new
-14437	1	year :thumbs_up:
-14438	1	:thumbs_up: #sligowillbehithardagain
 14439	1	#sligowillbehithardagain generalboles
 14440	1	generalboles #isis
 14441	1	#isis flag
@@ -14465,8 +13915,6 @@ Position	Frequency	n-gram
 14464	1	everyone okay
 14465	1	okay stays
 14466	1	stays safe
-14467	1	safe :red_heart:
-14468	1	:red_heart: amazing
 14469	1	amazing one
 14470	1	one ignoring
 14471	1	ignoring think
@@ -14494,11 +13942,6 @@ Position	Frequency	n-gram
 14493	1	wish still
 14494	1	still bed
 14495	1	bed blakenath
-14496	1	blakenath :growing_heart:
-14497	1	:growing_heart: #icouldsleepforeverrightnow
-14498	1	#icouldsleepforeverrightnow :pistol:
-14499	1	:pistol: :disappointed_face:
-14500	1	:disappointed_face: bobblankenheim
 14501	1	bobblankenheim yeah
 14502	1	yeah hated
 14503	1	hated favorite
@@ -14562,8 +14005,6 @@ Position	Frequency	n-gram
 14561	1	week back
 14562	1	back sudbury
 14563	1	sudbury go
-14564	1	go :snowflake:
-14565	1	:snowflake: lake
 14566	1	lake nepahwin
 14567	1	nepahwin httptcoyhujwutkq
 14568	1	httptcoyhujwutkq hollis
@@ -14580,9 +14021,6 @@ Position	Frequency	n-gram
 14579	1	goodgary gazthegooner
 14580	1	losdagooner nice
 14581	1	nice cooking
-14582	1	cooking :winking_face_with_tongue:
-14583	1	:winking_face_with_tongue: :winking_face_with_tongue:
-14584	1	:winking_face_with_tongue: refkartik
 14585	1	refkartik sexstrology
 14586	1	sexstrology mikhilnayyar
 14587	1	mikhilnayyar first
@@ -14592,11 +14030,7 @@ Position	Frequency	n-gram
 14591	1	cant say
 14592	1	say latter
 14593	1	latter one
-14594	1	one :beaming_face_with_smiling_eyes:
-14595	1	:beaming_face_with_smiling_eyes: stop
 14596	1	stop subtweeting
-14597	1	subtweeting :winking_face:
-14598	1	:winking_face: wish
 14599	1	could make
 14600	1	make people
 14601	1	people like
@@ -14605,8 +14039,6 @@ Position	Frequency	n-gram
 14604	1	home cook
 14605	1	cook big
 14606	1	big breakfast
-14607	1	breakfast :fork_and_knife:
-14608	1	:fork_and_knife: people
 14609	1	people never
 14610	1	never change
 14611	1	change thats
@@ -14679,14 +14111,8 @@ Position	Frequency	n-gram
 14678	1	weird without
 14679	1	without christmas
 14680	1	christmas music
-14681	1	music :party_popper:
-14682	1	:party_popper: :Santa_Claus:
-14683	1	:Santa_Claus: :musical_notes:
-14684	1	:musical_notes: yay
 14685	1	yay happy
 14686	1	christmas sammie
-14687	1	sammie :face_blowing_a_kiss:
-14688	1	:face_blowing_a_kiss: whooo
 14689	1	whooo god
 14690	1	god love
 14691	1	team #dcrising
@@ -14875,8 +14301,6 @@ Position	Frequency	n-gram
 14874	1	vodka lime
 14875	1	lime lemonade
 14876	1	lemonade one
-14877	1	one :OK_hand:
-14878	1	:OK_hand: #celtics
 14879	1	#celtics rt
 14880	1	rt seangrandepbp
 14881	1	seangrandepbp jameer
@@ -15013,11 +14437,6 @@ Position	Frequency	n-gram
 15012	1	early college
 15013	1	college bloody
 15014	1	bloody freezing
-15015	1	freezing :oncoming_bus:
-15016	1	:oncoming_bus: :snowflake:
-15017	1	:snowflake: :snowman_without_snow:
-15018	1	:snowman_without_snow: :face_savoring_food:
-15019	1	:face_savoring_food: #fair
 15020	1	#fair #lucky
 15021	1	#lucky #duck
 15022	1	#duck adamklug
@@ -15146,8 +14565,6 @@ Position	Frequency	n-gram
 15145	1	actually really
 15146	1	really creepy
 15147	1	creepy im
-15148	1	one :confounded_face:
-15149	1	:confounded_face: beautiful
 15150	1	beautiful day
 15151	1	day climbing
 15152	1	climbing mountains
@@ -15184,10 +14601,6 @@ Position	Frequency	n-gram
 15183	1	finals stress
 15184	1	stress free
 15185	1	free cant
-15186	1	wait :airplane:
-15187	1	:airplane: :red_heart:
-15188	1	:red_heart: :Christmas_tree:
-15189	1	:Christmas_tree: never
 15190	1	never expected
 15191	1	expected would
 15192	1	would lie
@@ -15273,8 +14686,6 @@ Position	Frequency	n-gram
 15272	1	mikejoneswapo true
 15273	1	true keep
 15274	1	keep giving
-15275	1	giving :money_bag:
-15276	1	:money_bag: return
 15277	1	return #charity
 15278	1	#charity #getting
 15279	1	#getting #married
@@ -15385,9 +14796,6 @@ Position	Frequency	n-gram
 15384	1	tired self
 15385	1	self bed
 15386	1	bed soon
-15387	1	soon :sleeping_face:
-15388	1	:sleeping_face: :sleeping_face:
-15389	1	:sleeping_face: x
 15390	1	x ugly
 15391	1	sweater #uglychristmassweaters
 15392	1	#uglychristmassweaters #happyholidays
@@ -15457,9 +14865,6 @@ Position	Frequency	n-gram
 15456	1	taycif love
 15457	1	love much
 15458	1	much taylor
-15459	1	taylor :sparkles:
-15460	1	:sparkles: :person_bowing:
-15461	1	:person_bowing: watching
 15462	1	watching #bones
 15463	1	#bones cradled
 15464	1	cradled leg
@@ -15478,8 +14883,6 @@ Position	Frequency	n-gram
 15477	1	post cunts
 15478	1	cunts run
 15479	1	run photos
-15480	1	photos :unamused_face:
-15481	1	:unamused_face: #its
 15482	1	#a #struggle
 15483	1	#struggle #its
 15484	1	#a #problem
@@ -15515,17 +14918,10 @@ Position	Frequency	n-gram
 15514	1	didnt offer
 15515	1	offer enough
 15516	1	enough neilby
-15517	1	parkzthedon :grinning_squinting_face:
-15518	1	:grinning_squinting_face: would
 15519	1	would get
 15520	1	get floored
 15521	1	floored one
 15522	1	one poke
-15523	1	poke :see-no-evil_monkey:
-15524	1	:see-no-evil_monkey: :smiling_face:
-15525	1	:smiling_face: :smiling_face:
-15526	1	:smiling_face: :OK_hand:
-15527	1	:OK_hand: music
 15528	1	music always
 15529	1	always office
 15530	1	office currently
@@ -15539,15 +14935,6 @@ Position	Frequency	n-gram
 15538	1	#onlyatnycr livwarfield
 15539	1	livwarfield part
 15540	1	part article
-15541	1	article :clapping_hands:
-15542	1	:clapping_hands: :purple_heart:
-15543	1	:purple_heart: :backhand_index_pointing_right:
-15544	1	:backhand_index_pointing_right: :cross_mark:
-15545	1	:cross_mark: :heavy_large_circle:
-15546	1	:heavy_large_circle: :backhand_index_pointing_left:
-15547	1	:backhand_index_pointing_left: :folded_hands:
-15548	1	:folded_hands: :raising_hands:
-15549	1	:raising_hands: uexpected
 15550	1	uexpected httptcowxikqowd
 15551	1	httptcowxikqowd know
 15552	1	know hands
@@ -15644,12 +15031,8 @@ Position	Frequency	n-gram
 15643	1	since mum
 15644	1	mum passed
 15645	1	passed away
-15646	1	away :grimacing_face:
-15647	1	:grimacing_face: miss
 15648	1	miss much
 15649	1	much everyday
-15650	1	everyday :purple_heart:
-15651	1	:two_hearts: #foreplay
 15652	1	#foreplay #cuddling
 15653	1	#cuddling –
 15654	1	– #jedi
@@ -15747,12 +15130,8 @@ Position	Frequency	n-gram
 15746	1	skateboarding even
 15747	1	even winter
 15748	1	winter yet
-15749	1	yet :pensive_face:
-15750	1	:pensive_face: :confounded_face:
-15751	1	:confounded_face: #skateeverydamnday
 15752	1	#skateeverydamnday hoof
 15753	1	hoof life
-15754	1	life :victory_hand:
 15755	1	 httptcodaksuvos
 15756	1	httptcodaksuvos moment
 15757	1	moment go
@@ -15761,8 +15140,6 @@ Position	Frequency	n-gram
 15760	1	lady #stillholdingit
 15761	1	#stillholdingit upgraded
 15762	1	upgraded seats
-15763	1	seats :beaming_face_with_smiling_eyes:
-15764	1	:beaming_face_with_smiling_eyes: kinda
 15765	1	kinda scared
 15766	1	scared #sundayfunday
 15767	1	#sundayfunday #sundaydateday
@@ -15886,8 +15263,6 @@ Position	Frequency	n-gram
 15885	1	bloody early
 15886	1	early londonbum
 15887	1	londonbum wtf
-15888	1	wtf :face_with_tears_of_joy:
-15889	1	:face_with_tears_of_joy: #gangstawankstayard
 15890	1	#gangstawankstayard earned
 15891	1	earned land
 15892	1	land free
@@ -16046,8 +15421,6 @@ Position	Frequency	n-gram
 16045	1	nice guess
 16046	1	im cool
 16047	1	cool enough
-16048	1	enough :pensive_face:
-16049	1	:pensive_face: #sadface
 16050	1	#sadface velvet
 16051	1	velvet rhinestones
 16052	1	rhinestones babydollsizemedium
@@ -16061,8 +15434,6 @@ Position	Frequency	n-gram
 16060	1	httptcolspwyohrt nadhirxx
 16061	1	nadhirxx well
 16062	1	well say
-16063	1	say :bust_in_silhouette:
-16064	1	:bust_in_silhouette: getsthrubuckner
 16065	1	getsthrubuckner shitits
 16066	1	shitits called
 16067	1	called mostella
@@ -16161,8 +15532,6 @@ Position	Frequency	n-gram
 16160	1	year fionanb
 16161	1	fionanb became
 16162	1	became lords
-16163	1	lords :crown:
-16164	1	:crown: #watchthelordman
 16165	1	#watchthelordman nothing
 16166	1	nothing better
 16167	1	better getting
@@ -16204,8 +15573,6 @@ Position	Frequency	n-gram
 16203	1	color girls
 16204	1	girls british
 16205	1	british accents
-16206	1	accents :OK_hand:
-16207	1	:OK_hand: point
 16208	1	point think
 16209	1	think almost
 16210	1	almost died
@@ -16339,9 +15706,6 @@ Position	Frequency	n-gram
 16338	1	#repost #dead
 16339	1	#dead #dominos
 16340	1	#dominos #haha
-16341	1	#haha :face_with_tears_of_joy:
-16342	1	:face_with_tears_of_joy: :skull:
-16343	1	:skull: httptcosnukkgcdb
 16344	1	httptcosnukkgcdb check
 16345	1	check new
 16346	1	new post
