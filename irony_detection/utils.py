@@ -116,12 +116,23 @@ def parse_dataset(training_set):
 
 
 def remove_ngram(sentence, ngram_to_remove, n):
+    """Removes all occurrences of an n-gram from a sentence.
+
+    :param sentence: The sentence.
+    :param ngram_to_remove: The n-gram that will be removed from the sentence.
+    :param n: The n in n-gram.
+    """
+    # If the number of words in the sentence is < than the size of the n-gram,
+    # then simply try replacing the n-gram with nothing
     if len(sentence.split()) <= n:
         return sentence.replace(ngram_to_remove, "")
 
+    # Convert sentence into a list of n-grams
     ngram_list = [ngram for ngram in list(ngrams(sentence.split(), n))
                   if " ".join(ngram) != ngram_to_remove]
 
+    # Convert the list of n-grams back to a sentence by taking the first word
+    # of each n-gram, and the entirety of the final n-gram
     first_elements = [ngram[0] for ngram in ngram_list[:-1]]
     last_elements = " ".join(ngram_list[-1])
     first_elements.append(last_elements)
