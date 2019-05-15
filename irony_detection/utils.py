@@ -319,7 +319,7 @@ def irony_comparison_handler(element):
                 element_type, frequency = counter
                 f.write(f"{i + 1}\t{frequency}\t{element_type}\n")
 
-        with open(f"{DIR_PATH}/../output/{filename}_ratio.txt", "w") as f:
+        with open(f"{DIR_PATH}/../output/{filename}_(ratio).txt", "w") as f:
             f.write(f"Position\tFrequency\tn-{element}\n")
             # Iterate over the n-gram / emoji, frequency ratio tuples
             for i, counter in enumerate(
