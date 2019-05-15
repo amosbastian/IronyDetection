@@ -2,6 +2,8 @@ import logging
 import os
 import re
 
+from emoji.unicode_codes import EMOJI_UNICODE
+
 from utils import (count_ngrams, irony_comparison_handler,
                    ngram_removal_handler, parse_dataset, tokenise_default)
 
@@ -27,6 +29,8 @@ def ngram_frequency(corpus, type=None):
             f.write("Position\tFrequency\tn-gram\n")
             for i, counter in enumerate(frequencies.most_common()):
                 ngram, frequency = counter
+                if not set(ngram).isdisjoint(set(EMOJI_UNICODE.keys())):
+                    continue
                 f.write(f"{i + 1}\t{frequency}\t{' '.join(ngram)}\n")
 
 
@@ -111,4 +115,4 @@ if __name__ == "__main__":
     word_statistics(labels, corpus)
     tokenise_default()
     irony_comparison_handler("gram")
-    ngram_removal_handler("SemEval2018-T3-train-taskA_emoji", range(1, 31))
+    ngram_removal_handler("SemEval2018-T3-train-taskA_emoji", range(1, 21))
