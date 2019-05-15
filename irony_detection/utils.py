@@ -9,7 +9,6 @@ import numpy as np
 from ekphrasis.classes.preprocessor import TextPreProcessor
 from ekphrasis.classes.tokenizer import SocialTokenizer
 from ekphrasis.dicts.emoticons import emoticons
-from emoji.unicode_codes import EMOJI_UNICODE
 from nltk import ngrams
 from nltk.corpus import stopwords
 from nltk.probability import FreqDist
@@ -244,9 +243,38 @@ def get_frequencies(filename):
     return ngram_frequencies
 
 
+def relative_frequency_ratio(irony, non_irony):
+    """Returns a list of tuples containing an n-gram and its relative frequency
+    ratio, which is the quotient of the relative frequencies of the n-gram
+    in the ironic and non-ironic corpora respectively.
+
+    :param irony: A list of n-gram, frequency tuples generated from ironic
+        tweets.
+    :param non_irony: A list of n-gram, frequency tuples generated from
+        non-ironic tweets.
+    """
+    frequency_ratios = []
+
+    for ngram, non_ironic_frequency in non_irony:
+        # For each n-gram in non-ironic tweets, find its respective frequency
+        # in ironic tweets
+        try:
+            ironic_frequency = float([x for x in irony
+                                      if x[0] == ngram][-1][-1])
+        except IndexError:
+            ironic_frequency = 0
+
+        # Compute the frequency ratio
+        frequency_ratio = ironic_frequency / float(non_ironic_frequency)
+        frequency_ratios.append((ngram, frequency_ratio))
+
+    # Sort from high to low
+    return sorted(frequency_ratios, key=lambda x: x[1], reverse=True)
+
+
 def frequency_difference(irony, non_irony):
     """Returns a list of tuples containing an n-gram and the difference in
-    frequency between the ironic and non-ironic tweets.
+    relative frequency between the ironic and non-ironic tweets.
 
     :param irony: A list of n-gram, frequency tuples generated from ironic
         tweets.
@@ -259,13 +287,13 @@ def frequency_difference(irony, non_irony):
         # For each n-gram in non-ironic tweets, find its respective frequency
         # in ironic tweets
         try:
-            ironic_frequency = int([x for x in irony if x[0] == ngram][-1][-1])
+            ironic_frequency = float([x for x in irony if x[0] == ngram][-1][-1])
         except IndexError:
             ironic_frequency = 0
 
         # Take the absolute difference
         frequency_difference.append(
-            (ngram, abs(int(frequency) - ironic_frequency)))
+            (ngram, abs(float(frequency) - ironic_frequency)))
 
     # Sort from high to low
     return sorted(frequency_difference, key=lambda x: x[1], reverse=True)
@@ -277,14 +305,24 @@ def irony_comparison_handler(element):
     """
     for n in range(1, 5):
         # Get the ironic and non-ironic n-gram frequencies
-        irony = get_frequencies(f"{n}-{element}_frequency_ironic.txt")
-        non_irony = get_frequencies(f"{n}-{element}_frequency_non_ironic.txt")
+        irony = get_frequencies(f"relative_{n}-{element}_frequency_ironic.txt")
+        non_irony = get_frequencies(f"relative_{n}-{element}_frequency_non_ironic.txt")
         filename = f"{n}-{element}_frequency_ironic_vs_non_ironic"
 
         logging.info(f"Creating n-{element} frequency file: {filename}.txt")
         with open(f"{DIR_PATH}/../output/{filename}.txt", "w") as f:
             f.write(f"Position\tFrequency\tn-{element}\n")
-            # Iterate over the n-gram / emoji, frequency differences tuples
-            for i, counter in enumerate(frequency_difference(irony, non_irony)):
+            # Iterate over the n-gram / emoji, relative frequency differences
+            # tuples
+            for i, counter in enumerate(
+                    frequency_difference(irony, non_irony)):
                 element_type, frequency = counter
                 f.write(f"{i + 1}\t{frequency}\t{element_type}\n")
+
+        with open(f"{DIR_PATH}/../output/{filename}_ratio.txt", "w") as f:
+            f.write(f"Position\tFrequency\tn-{element}\n")
+            # Iterate over the n-gram / emoji, frequency ratio tuples
+            for i, counter in enumerate(
+                    relative_frequency_ratio(irony, non_irony)):
+                element_type, frequency_ratio = counter
+                f.write(f"{i + 1}\t{frequency_ratio}\t{element_type}\n")
