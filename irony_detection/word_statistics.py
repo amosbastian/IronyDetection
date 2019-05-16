@@ -89,7 +89,8 @@ def relative_ngram_frequency_handler():
     file in the output directory.
     """
     for filename in os.listdir(f"{DIR_PATH}/../output/"):
-        if not re.match(r"\d-gram", filename):
+        if (not re.match(r"\d-gram", filename) or
+                "ironic_vs_non_ironic" in filename):
             continue
 
         with open(os.path.join(f"{DIR_PATH}/../output/", filename)) as f:
