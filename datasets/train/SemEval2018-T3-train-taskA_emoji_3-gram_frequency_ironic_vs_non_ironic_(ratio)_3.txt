@@ -240,7 +240,7 @@ Tweet index	Label	Tweet text
 239	1	oracle windows fun
 240	1	last day classes #trill except finals whoop
 241	0	blame everything else rbrnetwork freeman thelexzane ananvii abptrocket drpeniswrinkle kusun
-242	1	dropping oil prices thank goodness #pmharper worked hard trying tie economy oil gas sector #cdnpoli
+242	1	dropping oil prices thank goodness #pmharper worked hard trying tie economy gas sector #cdnpoli
 243	0	singing along songs korean part english sing korean accent
 244	0	save work folks im offically cntrlaltdeleting week
 245	1	im glad andy tweet day text back #loved
@@ -2800,7 +2800,7 @@ Tweet index	Label	Tweet text
 2799	1	hoodcertified hey profile says heart jesus cant bad foxdeportes erikareidt
 2800	1	imranj logic invention kuffar everything makes perfect sense like monkeys stoning monkeys
 2801	1	hunch herebut think steven gerrard leavingpossibly going mls #hesnodeed
-2802	0	deepgreendesign well since hes basically employee oil gas sector would make sense operates way
+2802	0	deepgreendesign well since hes basically employee gas sector would make sense operates way
 2803	0	hangin dawg #eyesup httptcouzvbwcvze
 2804	1	sitting around listening sad music really helps depression
 2805	1	still awake sooo thats nice
@@ -3280,7 +3280,7 @@ Tweet index	Label	Tweet text
 3279	0	kiwi heineken drinking steinlager pure new zealand breweries limited raglan golf club httptcosuzfbfxlk #photo
 3280	0	funny think literally books whatever want life httptcolxfkhvszm
 3281	1	great time feeling well :unamused_face:
-3282	1	jenditchburn much important unilaterally remove restrictions oil gas sector
+3282	1	jenditchburn much important unilaterally remove restrictions oil gas
 3283	0	much tomorrow think maybe ill take nap
 3284	0	jimrome product aaron rodgers eric decker pretty good last year situational jordy cashes hell nonfactor
 3285	1	miss taken

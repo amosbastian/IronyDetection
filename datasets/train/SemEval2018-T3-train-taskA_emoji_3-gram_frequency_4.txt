@@ -52,7 +52,7 @@ Tweet index	Label	Tweet text
 51	1	impossible late start dress right #studing #university #lazy
 52	1	youre already running late car wont start #fantasticfriday
 53	1	decided become boss free time time left whatsoever
-54	0	loyalty vs self protection loyalty vs self protection loyalty vs self protection loyalty vs self protection
+54	0	self protection self protection self protection vs self
 55	0	american kids starting playing im super missing #summerk #kennychesney
 56	0	corporateknight dont know #monsanto among sustainable cos world sure parameters measured #net positive
 57	0	none big disruptive innovations lives come brainstorming bruce nussbaum httptcoituczpusb
@@ -567,7 +567,7 @@ Tweet index	Label	Tweet text
 566	0	jeffersonlake going original plans
 567	1	shaneonair large companies dont pay tax get away itindividuals dont pay get locked fined
 568	0	superaielman parlett upper deck definitely seemed like philly south
-569	1	getting midterm back great start day #badday
+569	1	getting midterm back start day #badday
 570	0	moz randfish woot woot whiteboard fridays favorite friday activity
 571	1	life requires one strong different times wear red briefs pants u need lil lust see em #toomuch
 572	0	kelseydpeterson getmerked sign guest
@@ -647,7 +647,7 @@ Tweet index	Label	Tweet text
 646	0	problem express tribune httptcokmdqnizp
 647	0	si ms educ hehehe clear ignorance :smiling_face_with_heart-eyes: :face_with_tears_of_joy:
 648	0	#steveharvey worships #obama bc doesnt research calls every else ignorant #fuck guy httptcoenfdvuhn #idiot
-649	1	cant wait see ig pics people bragging got #noonegivesafuck
+649	1	wait see ig pics people bragging got #noonegivesafuck
 650	1	benedryl runs allergic reaction drug literally saves millions lives every year #yippee #happiness
 651	0	quizfreak httptcoxhtdhpoc #proud #brummie xxx
 652	1	submitted final paper semester makeit breakit whether pass class big deal :expressionless_face: :thumbs_down:
@@ -755,7 +755,7 @@ Tweet index	Label	Tweet text
 754	1	today awesome
 755	1	oh joy tis season christmas came early leads #dobetter
 756	0	freezing hazy want go home
-757	1	cant wait see talked never
+757	1	wait see talked never
 758	0	arranarmitage find people different ideas ways life interesting
 759	0	ordered new pairs underwear victoria secret :smiling_face_with_heart-eyes: #yay
 760	0	#big #match #verdict tottenhams #chelsea #loss #was #another #dark #night #at #the end httptcoozmbprpr
@@ -1639,7 +1639,7 @@ Tweet index	Label	Tweet text
 1638	1	carlosdenwa great christmas present unreal alcohol industry lure young people #sad #nosocialconscience
 1639	1	great damn day
 1640	0	mailonline abdullahazfal cant even bring read #rip
-1641	0	know love author figure book ends long cant wait see author actually ends
+1641	0	know love author figure book ends long wait see author actually ends
 1642	1	father sent buy ingredients cos wanna fry noodles remembered everything else noodles #somuchwin
 1643	0	still love newsroom regardless everyone else thinks
 1644	0	moon pictures like moon made light bulbs #the #moon httptcooeufgvo
@@ -1941,7 +1941,6 @@ Tweet index	Label	Tweet text
 1940	1	thecheshirekat thelividpatriot ya cause country calm peaceful everyone arming
 1941	0	chriscomben lexpersaud priory contract wear hugely popular priory ultras #does #count #xxx
 1942	1	white people irrelevant point black community needs rise yall control #truth
-1943	1	great start day
 1944	1	im fricken peachy today
 1945	0	thetweetofgod even think religious freedom restoration act michigan ridiculous
 1946	0	liamwalker term time son :grinning_squinting_face: :smiling_face_with_sunglasses:
@@ -2185,7 +2184,7 @@ Tweet index	Label	Tweet text
 2184	0	sammiecurtis oh man get everyone singing ready im :face_with_tears_of_joy:
 2185	0	happy holidays boy carl #lrs #holiday #party :smirking_face: :smiling_face_with_sunglasses: :smiling_face_with_sunglasses: :Christmas_tree: :Christmas_tree: httptcokzvxglwoz
 2186	0	thank angiegalifas amazing candles new series victoriassecret #atmosphere httptcojohwvxvhb
-2187	1	dissecting rat first period great start day :mouse:
+2187	1	dissecting rat first period start day :mouse:
 2188	1	buzzing school monday
 2189	1	jamaicavaper hifistud outfrontcnn cnn point along tc proving #ecigs best advertiser teens
 2190	1	katerintree obvi every jesuit heretic :person_tipping_hand:
@@ -2383,7 +2382,7 @@ Tweet index	Label	Tweet text
 2382	1	love hearing peoples explanations dating world america library studying
 2383	0	eskom loadshedding hammers rand httptcolcttrvasn current spot rate usdr httptcopgzhdkbjgd #vivaancviva
 2384	1	great person
-2385	1	hollyb lottiebaring cant wait see ya
+2385	1	hollyb lottiebaring wait see ya
 2386	1	wow feel great
 2387	1	twitter slams austin strange fruit pr firm spurring drop name shared song lynching httptcodsnzfta
 2388	1	watchthisface looking forward time traipse stairs postie baby attached nipple :flushed_face:
@@ -2534,7 +2533,6 @@ Tweet index	Label	Tweet text
 2533	1	sure lets go back work day leaving four hours ago #fb
 2534	1	ninjalikescheez python tweeter send
 2535	0	gilmanjames absolutely life shouldnt hard thing haha
-2536	1	great start day
 2537	1	richardcarter thanks thatll help loads
 2538	1	russia says ruble crisis reserves dive inflation climbs httptcokxvlkirdb via reuters
 2539	1	richarddawkins accusations twitter shouldnt count though ive heard tales talk replace grad jury sys
@@ -2929,7 +2927,7 @@ Tweet index	Label	Tweet text
 2928	0	come #orionlaunch australia us downunder #geeks need sleep
 2929	1	nice see dwight yorke normal impartial self usual #villalovein #astlei #lcfc
 2930	1	gonna great day :grinning_face_with_big_eyes:
-2931	1	always cant wait see works #ifyouknowwhatimean
+2931	1	always wait see works #ifyouknowwhatimean
 2932	0	also going enjoy two beers sitting car illegal done usc medical penn mar
 2933	1	antayit ill snap tell :face_with_tears_of_joy: #funnyguy
 2934	1	jihadi killers #ottawa #sidney #peshawar rogue acts whilefratboy uva rapists symbolic deeper societal flaws #tcot
@@ -3447,7 +3445,7 @@ Tweet index	Label	Tweet text
 3446	0	#sports #carrick #replaces #fletcher #man #united #vice #captain httptcovtygkggy via reuters
 3447	0	acceptable hours drive miles cheshiremanchester yesterday northern powerhouse
 3448	1	core #trolls looking #trolls second coming soon #itm #noagenda httptcohcxdhhxc
-3449	1	cant wait see many pairs beats headphones show gym christmas
+3449	1	wait see many pairs beats headphones show gym christmas
 3450	1	oh look another storm sydney unusual
 3451	0	googles greatest travel hack make flights much easier httptcoaetrkwi #tech #business
 3452	1	garyjoelclement nationalpost let western bastards bank accounts freeze dark #seewhatidid #readpeople
