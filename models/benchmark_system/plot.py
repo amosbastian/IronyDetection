@@ -10,10 +10,12 @@ DIR_PATH = os.path.dirname(os.path.realpath(__file__))
 
 def plot_handler(n):
     plot_dictionary = {
+        "emoji_frequency_ironic_vs_non_ironic_(ratio)": ["Ironic vs. Non-ironic (ratio)"],
         "emoji_frequency_ironic_vs_non_ironic": ["Ironic vs. Non-ironic"],
         "emoji_frequency_ironic": ["Ironic"],
         "emoji_frequency_non_ironic": ["Non-ironic"],
         "emoji_frequency": ["All"],
+        "gram_frequency_ironic_vs_non_ironic_(ratio)": ["Ironic vs. Non-ironic (ratio)"],
         "gram_frequency_ironic_vs_non_ironic": ["Ironic vs. Non-ironic"],
         "gram_frequency_ironic": ["Ironic"],
         "gram_frequency_non_ironic": ["Non-ironic"],
@@ -83,7 +85,6 @@ def plot_all(n, plot_dictionary, baseline_results):
         ax.grid()
 
         if not i:
-            print("Here")
             xlabel = f"Number of {n}-emojis removed from tokenised training set"
             title = (f"$F_1$ scores after removing {n}-emojis from the default"
                      " (tokenised) training set")
