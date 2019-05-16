@@ -52,7 +52,7 @@ Tweet index	Label	Tweet text
 51	1	impossible late start dress right #studing #university #lazy
 52	1	youre already running late car wont start #fantasticfriday
 53	1	decided become boss free time time left whatsoever
-54	0	loyalty vs self protection loyalty vs self protection loyalty vs self protection loyalty vs self protection
+54	0	vs self protection vs self protection protection loyalty vs
 55	0	american kids starting playing im super missing #summerk #kennychesney
 56	0	corporateknight dont know #monsanto among sustainable cos world sure parameters measured #net positive
 57	0	none big disruptive innovations lives come brainstorming bruce nussbaum httptcoituczpusb
@@ -816,7 +816,7 @@ Tweet index	Label	Tweet text
 815	1	well thats becky london nan big girl dan start new job tomorrow #feelingabandoned haha
 816	1	okay know playing loud music quiet hours perfectly fine #somepplhavetostudy
 817	0	tombull matthewbull american mum
-818	0	beginning look lot like intravenous #selfie #xmasdo #xmasparty officialmrstorm httptcourmujxpdg
+818	0	look lot like intravenous #selfie #xmasdo #xmasparty officialmrstorm httptcourmujxpdg
 819	1	loving family
 820	0	probably scarred cleaning lady half death didnt know home
 821	1	even ive already called cops twice damn love job :unamused_face:
@@ -981,7 +981,7 @@ Tweet index	Label	Tweet text
 980	1	markknoller thatll work #hellbefiredinelevenmonths
 981	0	didnt time wake bake mornin winnin :pouting_face: :person_gesturing_NO:
 982	1	awake early day christmasfeeling ill banging head bunged shivering need
-983	0	beginning look lot like christmas #timetodecorate #tistheseason httptcomhcrrzn
+983	0	look lot like christmas #timetodecorate #tistheseason httptcomhcrrzn
 984	1	sony studio bosses employees dont worry well fine httptcoyvvoiiwxtu know id feel better httptcousutlmo
 985	1	patrickmchall wakondaclub bet fairways greens rival work wakondagrounds
 986	1	jordanbrown haha quite right mate coonty workers got aff easy al tell ye oot workin like hamilton accie :person_wearing_turban: :face_with_tears_of_joy: :face_with_tears_of_joy:
@@ -1410,7 +1410,7 @@ Tweet index	Label	Tweet text
 1409	0	senate confirmed new cabinet member nd amendment supporters furious senate confirme httptcotvnfnwtn
 1410	1	nothing studied test fckn greaaat
 1411	0	marty posts facts proof make shit rbrnetwork indyenigma theoldbreed justin
-1412	0	falling asleep sound rain relaxing :umbrella_with_rain_drops: 
+1412	0	falling asleep sound rain relaxing :umbrella_with_rain_drops:
 1413	0	okso two #absolutefavs ashamed admit actually cried httptcopedcoimlg
 1414	0	rbr tonybarrettimes indeed two people opposite political divide slinging insults twitter coming
 1415	1	biggest #taliban gunned school kids country #malala received nobel prize #education #ouch
@@ -2227,7 +2227,7 @@ Tweet index	Label	Tweet text
 2226	1	sounds like loads fun snow freezing drizzle rain kmh winds httptcofeapvmwlc
 2227	1	harrys daleharris rioferdy well done twitter followers succeeded life
 2228	1	still work gonna prime
-2229	0	ironspike rt randalolson baby name #datavizsource httptcojcrsursvld httptcobcvzigfnks
+2229	0	ironspike randalolson baby name #datavizsource httptcojcrsursvld httptcobcvzigfnks
 2230	0	lets pretend
 2231	0	important thing today breathe httptcoxpnnjqmhw
 2232	1	seen bikes bikes
@@ -3061,7 +3061,7 @@ Tweet index	Label	Tweet text
 3060	0	drudgery personified #commuterprobs #northernline #tfl httptcosadbkdqisx
 3061	0	damn lost lot followers probs cuz dont tweet much related ranceypants anymore
 3062	0	dimac sorry butt
-3063	0	gonna enjoy day babies :victory_hand: 
+3063	0	gonna enjoy day babies :victory_hand:
 3064	0	refuse weak #workout #motivation #fitfam httptcorkiqeou
 3065	0	ihrithik fanshttptcotvgjxjydhsmartphone app pays fansseehttptcoalppohie go httpstcodqzyr
 3066	1	karentraviss ghostwriter shocked
@@ -3206,7 +3206,7 @@ Tweet index	Label	Tweet text
 3205	0	went bed #twitter #sleepy #am httptcoxwyrlado
 3206	1	dont love guys try give number keyword tried #backupoff
 3207	1	pilates get go home get ready work amazing
-3208	0	beginning look lot like christmas :Christmas_tree: :Santa_Claus: #office #tinsel #christmassy #happy #long #now httptcovxcvfckdjy
+3208	0	look lot like christmas :Christmas_tree: :Santa_Claus: #office #tinsel #christmassy #happy #long #now httptcovxcvfckdjy
 3209	0	#bbc #news #china #shanghai #crush #xi #jinping #orders #new #year #investigation httptcowdxfcy
 3210	1	design firms holiday card skewers corporate jargon hand biting mouth #jargon #design httptcocxpedwlj
 3211	0	foxnews put first gear move liberals wont ever give life cause destroy
@@ -3496,7 +3496,7 @@ Tweet index	Label	Tweet text
 3495	0	#ministers #criticised #over #train #deals httptcoiiqajzqixz
 3496	1	well nice text wake
 3497	1	love adverts woman black say wont sleep weeksway sell :flushed_face: #sheneverleft
-3498	1	spiky popularity name spike us rt randalolson baby name #dataviz source httptcowamozlfwo
+3498	1	spiky popularity name spike us randalolson baby name #dataviz source httptcowamozlfwo
 3499	1	jfk baggage idiots accused stealing shit right outa luggageshockedummmm hire moronsput army
 3500	1	nintendoamerica waittheres new wii u
 3501	1	perfect way start morning

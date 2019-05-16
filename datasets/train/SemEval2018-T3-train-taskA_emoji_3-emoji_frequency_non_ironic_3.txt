@@ -1627,7 +1627,7 @@ Tweet index	Label	Tweet text
 1626	1	flattery get everywhere taliahaletw
 1627	1	skynews wow afford holiday ive always wanted
 1628	1	times trip home perfectly #drenched #sydney #storm #wet httptcooxujkujb
-1629	0	snow cancel vball tournament today :pistol: :pouting_face: :pouting_face: :pouting_face: :pouting_face: #ball #is #life
+1629	0	snow cancel vball tournament today :pistol: :pouting_face: :pouting_face: #ball #is #life
 1630	1	respondedmore movies heterosexuality really wish would stop shoving lifestyle throats
 1631	1	true definition #iran hosting conference extremist httptcobtujrcpa
 1632	1	hmmscott mitchell v tony oshea phil taylor v raymond van barneveldwhat difficult decision #dartsworldchampionship #pdc
@@ -3166,7 +3166,7 @@ Tweet index	Label	Tweet text
 3165	0	lexiirachelle cup tea total ass switched coffee :victory_hand: :face_with_tears_of_joy: :raising_hands:
 3166	0	#do #fear #to #be #eccentric #in #opinion #for #every #opinion #now #accepted #was #once #eccentric bertrand russell
 3167	0	instinctfitness thats steps dig
-3168	0	moment want break someones fingers :pouting_face: :pouting_face: :pouting_face: :pouting_face: :pouting_face:
+3168	0	moment want break someones fingers :pouting_face: :pouting_face:
 3169	1	cool
 3170	1	wheres good governance ordered celebrate dec th #goodgovernanceday #christmas
 3171	1	losing keys car drive airport catch flight awesome

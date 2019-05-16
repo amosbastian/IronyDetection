@@ -52,7 +52,7 @@ Tweet index	Label	Tweet text
 51	1	impossible late start dress right #studing #university #lazy
 52	1	youre already running late car wont start #fantasticfriday
 53	1	decided become boss free time time left whatsoever
-54	0	loyalty vs self protection loyalty vs self protection loyalty vs self protection loyalty vs self protection
+54	0	self protection self protection self protection vs self
 55	0	american kids starting playing im super missing #summerk #kennychesney
 56	0	corporateknight dont know #monsanto among sustainable cos world sure parameters measured #net positive
 57	0	none big disruptive innovations lives come brainstorming bruce nussbaum httptcoituczpusb
@@ -792,7 +792,7 @@ Tweet index	Label	Tweet text
 791	1	yay family leaving going seneca leaving fend
 792	1	yenisley aww poor thing feel bad sunny florida dont know handle
 793	0	jaketapper cah tweetin bout #blacklivesmatter #icantbreathe newsvid httptcomsbhz start httptcogvibizzsh beatsebt
-794	0	smile smile smile smile smile million people staring pissed pants manic laughter smile
+794	0	smile smile million people staring pissed pants manic laughter smile
 795	0	casper friendly ghost levels #thingsmichelleobamathinksareracist
 796	0	theres hotnostrilsrfun rapmonster rbrnetwork officialgumby orionslu httptcocwaaywuwgl
 797	1	sufisal muhammadali putting muhammad ali find twitter id quite blasphemic offending
@@ -3061,7 +3061,7 @@ Tweet index	Label	Tweet text
 3060	0	drudgery personified #commuterprobs #northernline #tfl httptcosadbkdqisx
 3061	0	damn lost lot followers probs cuz dont tweet much related ranceypants anymore
 3062	0	dimac sorry butt
-3063	0	gonna enjoy day babies :victory_hand: 
+3063	0	gonna enjoy day babies :victory_hand:
 3064	0	refuse weak #workout #motivation #fitfam httptcorkiqeou
 3065	0	ihrithik fanshttptcotvgjxjydhsmartphone app pays fansseehttptcoalppohie go httpstcodqzyr
 3066	1	karentraviss ghostwriter shocked
