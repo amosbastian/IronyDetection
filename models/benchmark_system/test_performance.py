@@ -130,12 +130,32 @@ def create_output(groups):
             fout.write(f"{training_set},{accuracy},{precision},{recall},{f1_score}\n")
 
 
-def test_performance(training_directory):
+def test_control(training_directory):
     for filename in os.listdir(training_directory):
-        if "README" in filename:
+        if "CONTROL" not in filename:
             continue
 
-        PREDICTIONSFILE = open(f"{DIR_PATH}/predictions/predictions_{filename}", "w")
+        p_filename = f"{DIR_PATH}/control_predictions/predictions_{filename}"
+        PREDICTIONSFILE = open(p_filename, "w")
+        logging.info(f"Training with dataset: {filename}")
+
+        corpus, y = parse_dataset(f"{training_directory}{filename}")
+        X = featurize(corpus)
+
+        predicted = cross_val_predict(CLF, X, y, cv=K_FOLDS)
+
+        for p in predicted:
+            PREDICTIONSFILE.write("{}\n".format(p))
+        PREDICTIONSFILE.close()
+
+
+def test_performance(training_directory):
+    for filename in os.listdir(training_directory):
+        if "README" in filename or "CONTROL" in filename:
+            continue
+
+        p_filename = f"{DIR_PATH}/predictions/predictions_{filename}"
+        PREDICTIONSFILE = open(p_filename, "w")
         logging.info(f"Training with dataset: {filename}")
 
         # Loading dataset and featurised simple Tfidf-BoW model
@@ -158,5 +178,6 @@ if __name__ == "__main__":
     CLF = LinearSVC()
     training_directory = f"{DIR_PATH}/../../datasets/train/"
     test_performance(training_directory)
+    test_control(training_directory)
     groups = group_predictions()
     create_output(groups)
