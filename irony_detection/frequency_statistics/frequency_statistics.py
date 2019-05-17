@@ -37,10 +37,15 @@ def group_training_sets():
     groups = {
         "emoji": [],
         "n-grams": [],
-        "all": []
+        "all": [],
+        "control": []
     }
 
     for filename in os.listdir(training_directory):
+        if "CONTROL" in filename:
+            groups["control"].append(filename)
+            continue
+
         split_filename = filename.split("_")
         groups["all"].append(filename)
 
@@ -67,7 +72,7 @@ def group_training_sets():
     return groups
 
 
-def plot_handler(n):
+def plot_handler(n, control=False):
     plot_dictionary = {
         "emoji_frequency_ironic_vs_non_ironic_(ratio)": ["Ironic vs. Non-ironic (ratio)"],
         "emoji_frequency_ironic_vs_non_ironic": ["Ironic vs. Non-ironic"],
@@ -82,6 +87,8 @@ def plot_handler(n):
     }
 
     output_file = f"{DIR_PATH}/output/words_removed_{n}.csv"
+    if control:
+        output_file = f"{DIR_PATH}/control_output/words_removed_control.csv"
 
     with open(output_file) as f:
         reader = csv.reader(f)
@@ -97,12 +104,12 @@ def plot_handler(n):
             already_used.append(result)
             relevant_results.append(result)
         plot_dictionary[plot_type].append(relevant_results)
-        plot_one(n, relevant_results, [plot_type, plot_description[0]])
+        plot_one(n, relevant_results, [plot_type, plot_description[0]], control)
 
-    plot_all(n, plot_dictionary)
+    plot_all(n, plot_dictionary, control)
 
 
-def plot_one(n, results, plot_list):
+def plot_one(n, results, plot_list, control=False):
     plot_filename, plot_description = plot_list
 
     sorted_results = sorted(results, key=lambda x: int(x[0].split("_")[-1][:-4]))
@@ -122,17 +129,26 @@ def plot_one(n, results, plot_list):
                  "(tokenised) training set when removing the $N$ most "
                  f"frequent ({plot_description.lower()}) {n}-grams")
 
+    figures_directory = "figures"
+    if control:
+        figures_directory = "control_figures"
+        title = ("The percentage of words removed from the default "
+                 "(tokenised) training set when removing $N$ random 1-grams")
+
     ax.set(xlabel=xlabel, ylabel="% words removed", title="\n".join(wrap(title, 60)))
     ax.grid()
     matplotlib.pyplot.xticks(x)
-    fig.savefig(f"{DIR_PATH}/figures/{n}-grams/{n}-{plot_filename}.png")
+
+    fig.savefig(f"{DIR_PATH}/{figures_directory}/{n}-grams/{n}-{plot_filename}.png")
 
 
-def plot_all(n, plot_dictionary):
+def plot_all(n, plot_dictionary, control=False):
     emoji_plots = [value for key, value in plot_dictionary.items()
                    if "emoji" in key]
     ngram_plots = [value for key, value in plot_dictionary.items()
                    if "gram" in key]
+
+    figures_directory = "figures"
 
     for i, plots in enumerate([emoji_plots, ngram_plots]):
         fig, ax = plt.subplots()
@@ -144,12 +160,18 @@ def plot_all(n, plot_dictionary):
                      "(tokenised) training set when removing the $N$ most "
                      f"frequent {n}-emojis")
             plot_filename = f"{n}-emoji_all"
-        else:            
+        else:
             xlabel = f"The number of most frequent {n}-grams removed"
             title = ("The percentage of words removed from the default "
                      "(tokenised) training set when removing the $N$ most "
                      f"frequent {n}-grams")
             plot_filename = f"{n}-gram_all"
+
+        if control:
+            figures_directory = "control_figures"
+            title = ("The percentage of words removed from the default "
+                     "(tokenised) training set when removing $N$ random "
+                     "1-grams")
 
         for plot in plots:
             results = plot[1]
@@ -163,7 +185,7 @@ def plot_all(n, plot_dictionary):
         matplotlib.pyplot.xticks(x)
         plt.legend(loc="best")
         ax.set(xlabel=xlabel, ylabel="% words removed", title="\n".join(wrap(title, 60)))
-        fig.savefig(f"{DIR_PATH}/figures/{n}-grams/{plot_filename}.png")
+        fig.savefig(f"{DIR_PATH}/{figures_directory}/{n}-grams/{plot_filename}.png")
 
 
 def frequency_handler():
@@ -175,7 +197,11 @@ def frequency_handler():
     groups = group_training_sets()
 
     for key, filenames in groups.items():
-        fout = open(f"{DIR_PATH}/output/words_removed_{key}.csv", "w+")
+        output_directory = "output"
+        if "control" in key:
+            output_directory = "control_output"
+
+        fout = open(f"{DIR_PATH}/{output_directory}/words_removed_{key}.csv", "w+")
         fout.write("Training Set,Number of Words Removed,Percentage of Words Removed\n")
 
         for filename in filenames:
@@ -191,3 +217,5 @@ if __name__ == "__main__":
     # frequency_handler()
     for n in range(1, 5):
         plot_handler(n)
+
+    plot_handler(1, True)
