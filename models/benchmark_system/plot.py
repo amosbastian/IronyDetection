@@ -8,7 +8,7 @@ from textwrap import wrap
 DIR_PATH = os.path.dirname(os.path.realpath(__file__))
 
 
-def plot_handler(n):
+def plot_handler(n, control=False):
     plot_dictionary = {
         "emoji_frequency_ironic_vs_non_ironic_(ratio)": ["Ironic vs. Non-ironic (ratio)"],
         "emoji_frequency_ironic_vs_non_ironic": ["Ironic vs. Non-ironic"],
@@ -23,6 +23,9 @@ def plot_handler(n):
     }
 
     output_file = f"{DIR_PATH}/output/output_{n}.csv"
+    if control:
+        output_file = f"{DIR_PATH}/control_output/output_{n}.csv"
+
     baseline_results = baseline(output_file)
 
     with open(output_file) as f:
@@ -40,12 +43,12 @@ def plot_handler(n):
             relevant_results.append(result)
         plot_dictionary[plot_type].append(relevant_results)
         plot_one(n, relevant_results, [plot_type, plot_description[0]],
-                 baseline_results)
+                 baseline_results, control)
 
-    plot_all(n, plot_dictionary, baseline_results)
+    plot_all(n, plot_dictionary, baseline_results, control)
 
 
-def plot_one(n, results, plot_list, baseline_results):
+def plot_one(n, results, plot_list, baseline_results, control=False):
     plot_filename, plot_description = plot_list
 
     sorted_results = sorted(results, key=lambda x: int(x[0].split("_")[-1][:-4]))
@@ -71,16 +74,27 @@ def plot_one(n, results, plot_list, baseline_results):
     ax.plot(x, [baseline_results[0]] * len(x), label="Default")
     ax.plot(x, [baseline_results[1]] * len(x), label="Default (tokenised)")
     plt.legend(loc="best")
-    fig.savefig(f"{DIR_PATH}/figures/{n}-grams/{n}-{plot_filename}.png")
+
+    figures_directory = "figures"
+    if control:
+        figures_directory = "control_figures"
+
+    fig.savefig(f"{DIR_PATH}/{figures_directory}/{n}-grams/{n}-{plot_filename}.png")
 
 
-def plot_all(n, plot_dictionary, baseline_results):
+def plot_all(n, plot_dictionary, baseline_results, control=False):
     emoji_plots = [value for key, value in plot_dictionary.items()
                    if "emoji" in key]
     ngram_plots = [value for key, value in plot_dictionary.items()
                    if "gram" in key]
 
+    figures_directory = "figures"
+    if control:
+        figures_directory = "control_figures"
+
     for i, plots in enumerate([emoji_plots, ngram_plots]):
+        if not plots:
+            continue
         fig, ax = plt.subplots()
         ax.grid()
 
@@ -109,7 +123,7 @@ def plot_all(n, plot_dictionary, baseline_results):
         ax.plot(x, [baseline_results[1]] * len(x), label="Default (tokenised)")
         plt.legend(loc="best")
         ax.set(xlabel=xlabel, ylabel="$F_1$ score", title="\n".join(wrap(title, 60)))
-        fig.savefig(f"{DIR_PATH}/figures/{n}-grams/{plot_filename}.png")
+        fig.savefig(f"{DIR_PATH}/{figures_directory}/{n}-grams/{plot_filename}.png")
 
 
 def baseline(filename):
@@ -131,3 +145,5 @@ def baseline(filename):
 if __name__ == "__main__":
     for n in range(1, 5):
         plot_handler(n)
+
+    plot_handler(1, control=True)
