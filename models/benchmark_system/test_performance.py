@@ -71,14 +71,19 @@ def featurize(corpus):
     return X
 
 
-def group_predictions():
+def group_predictions(control=False):
     groups = {
         "emoji": [],
         "n-grams": [],
         "all": []
     }
 
-    for filename in os.listdir(f"{DIR_PATH}/predictions/"):
+    directory = "predictions"
+    if control:
+        del groups["emoji"]
+        directory = "control_predictions"
+
+    for filename in os.listdir(f"{DIR_PATH}/{directory}/"):
         split_filename = filename.split("_")
         groups["all"].append(filename)
 
@@ -105,20 +110,26 @@ def group_predictions():
     return groups
 
 
-def create_output(groups):
+def create_output(groups, control=False):
     training_directory = f"{DIR_PATH}/../../datasets/train/"
     default = ["predictions_SemEval2018-T3-train-taskA_emoji.txt",
                "predictions_SemEval2018-T3-train-taskA_emoji_tokenised.txt"]
 
+    output_directory = "output"
+    predictions_directory = "predictions"
+    if control:
+        output_directory = "control_output"
+        predictions_directory = "control_predictions"
+
     for key, filenames in groups.items():
-        fout = open(f"{DIR_PATH}/output/output_{key}.csv", "w+")
+        fout = open(f"{DIR_PATH}/{output_directory}/output_{key}.csv", "w+")
         fout.write("Training Set,Accuracy,Precision,Recall,F1\n")
         filenames.extend(default)
 
         for filename in set(filenames):
             training_set = filename.replace('predictions_', '')
             _, y = parse_dataset(f"{training_directory}{training_set}")
-            with open(f"{DIR_PATH}/predictions/{filename}") as f:
+            with open(f"{DIR_PATH}/{predictions_directory}/{filename}") as f:
                 predictions = [int(prediction) for prediction in f]
 
             # Get performance
@@ -179,5 +190,9 @@ if __name__ == "__main__":
     training_directory = f"{DIR_PATH}/../../datasets/train/"
     test_performance(training_directory)
     test_control(training_directory)
+
     groups = group_predictions()
     create_output(groups)
+
+    control_groups = group_predictions(True)
+    create_output(control_groups, True)
