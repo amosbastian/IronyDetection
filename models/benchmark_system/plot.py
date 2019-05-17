@@ -1,11 +1,13 @@
 import csv
+import logging
 import os
+from textwrap import wrap
 
 import matplotlib
 import matplotlib.pyplot as plt
-from textwrap import wrap
 
 DIR_PATH = os.path.dirname(os.path.realpath(__file__))
+logging.basicConfig(level=logging.INFO)
 
 
 def plot_handler(n, control=False):
@@ -50,6 +52,7 @@ def plot_handler(n, control=False):
 
 def plot_one(n, results, plot_list, baseline_results, control=False):
     plot_filename, plot_description = plot_list
+    logging.info(f"Plotting {n}-{plot_filename}")
 
     sorted_results = sorted(results, key=lambda x: int(x[0].split("_")[-1][:-4]))
     x = [int(result[0].split("_")[-1][:-4]) for result in sorted_results]
@@ -93,8 +96,6 @@ def plot_all(n, plot_dictionary, baseline_results, control=False):
         figures_directory = "control_figures"
 
     for i, plots in enumerate([emoji_plots, ngram_plots]):
-        if not plots:
-            continue
         fig, ax = plt.subplots()
         ax.grid()
 
@@ -108,6 +109,8 @@ def plot_all(n, plot_dictionary, baseline_results, control=False):
             title = (f"$F_1$ scores after removing {n}-grams from the default"
                      " (tokenised) training set")
             plot_filename = f"{n}-gram_all"
+
+        logging.info(f"Plotting {plot_filename}")
 
         for plot in plots:
             results = plot[1]
@@ -127,6 +130,8 @@ def plot_all(n, plot_dictionary, baseline_results, control=False):
 
 
 def baseline(filename):
+    logging.info("Getting baseline results")
+
     tokenised = "SemEval2018-T3-train-taskA_emoji_tokenised.txt"
     default = "SemEval2018-T3-train-taskA_emoji.txt"
 
