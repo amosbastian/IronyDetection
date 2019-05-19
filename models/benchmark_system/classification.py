@@ -41,7 +41,7 @@ def main(filename):
 
     # Get the tweets
     tweets = get_tweets(filename)
-    base_tweets = get_tweets("_tokenised.txt")
+    base_tweets = get_tweets(".txt")
 
     print(f"{base_filename}{filename} caused the following tweets that were "
           "previously classified as ironic, to be classified as non-ironic:")
