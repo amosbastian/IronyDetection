@@ -81,10 +81,14 @@ def tokenise(sentence):
     # Remove numbers
     sentence = re.sub(r"\d+", "", sentence)
 
+    # Add "im" to stopwords
+    stopword_list = stopwords.words("english")
+    stopword_list.append("im")
+
     # Remove stopwords and convert emojis to text
     processed_sentence = text_processor.pre_process_doc(sentence)
     return [emoji.demojize(word) for word in processed_sentence
-            if word not in stopwords.words("english") and word != "#"]
+            if word not in stopword_list and word != "#"]
 
 
 def parse_dataset(training_set):
