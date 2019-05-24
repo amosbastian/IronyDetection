@@ -76,11 +76,15 @@ def plot_handler(n, control=False):
     plot_dictionary = {
         "emoji_frequency_ironic_vs_non_ironic_(ratio)": ["Ironic vs. Non-ironic (ratio)"],
         "emoji_frequency_ironic_vs_non_ironic": ["Ironic vs. Non-ironic"],
+        "emoji_frequency_non_ironic_vs_ironic_(ratio)": ["Non-ironic vs. Ironic"],
+        "emoji_frequency_non_ironic_vs_ironic": ["Non-ironic vs. Ironic"],
         "emoji_frequency_ironic": ["Ironic"],
         "emoji_frequency_non_ironic": ["Non-ironic"],
         "emoji_frequency": ["All"],
         "gram_frequency_ironic_vs_non_ironic_(ratio)": ["Ironic vs. Non-ironic (ratio)"],
         "gram_frequency_ironic_vs_non_ironic": ["Ironic vs. Non-ironic"],
+        "gram_frequency_non_ironic_vs_ironic_(ratio)": ["Non-ironic vs. Ironic (ratio)"],
+        "gram_frequency_non_ironic_vs_ironic": ["Non-ironic vs. Ironic"],
         "gram_frequency_ironic": ["Ironic"],
         "gram_frequency_non_ironic": ["Non-ironic"],
         "gram_frequency": ["All"],
@@ -214,7 +218,7 @@ def frequency_handler():
             fout.write(f"{filename},{words_removed},{percentage_removed}\n")
 
 if __name__ == "__main__":
-    # frequency_handler()
+    frequency_handler()
     for n in range(1, 5):
         plot_handler(n)
 
