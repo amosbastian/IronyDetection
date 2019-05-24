@@ -2,8 +2,6 @@ import logging
 import os
 from random import shuffle
 
-import nltk
-import re
 from utils import remove_ngram, tokenise
 
 DIR_PATH = os.path.dirname(os.path.realpath(__file__))
@@ -82,6 +80,44 @@ def random_words(frequencies, removal_percentages):
     return word_dictionary
 
 
+def ngram_removal(filename, ngrams, n):
+    dataset_filename = "SemEval2018-T3-train-taskA_emoji.txt"
+
+    logging.info(f"Removing top n-grams from {dataset_filename} using "
+                 f"{filename} (CONTROL)")
+
+    out_filename = f"CONTROL-PERCENTAGE-{dataset_filename[:-4]}_{filename[:-4]}_{n}.txt"
+
+    fout = open(f"{training_directory}{out_filename}", "w+")
+    fout.write("Tweet index\tLabel\tTweet text\n")
+
+    with open(f"{training_directory}{dataset_filename}") as f:
+        for line in f.readlines():
+            if line.lower().startswith("tweet index"):
+                continue
+
+            # Tokenise the tweet in the same way as when calculating n-gram
+            # frequencies, and replace certain n-grams in it
+            tweet = " ".join(tokenise(line.split("\t")[2]))
+            for ngram in ngrams:
+                tweet = remove_ngram(tweet, ngram, len(ngram.split()))
+
+            # Tweet has been completely removed, so don't include it
+            if not tweet:
+                continue
+
+            # Write tokenised tweet with n-grams replaced back to a file
+            split_line = line.split("\t")
+            split_line[2] = tweet
+            fout.write("\t".join(split_line) + "\n")
+
+
+def save_control_csv(word_dictionary, type):
+    with open(f"{DIR_PATH}/control_percentage_{type}.csv", "a") as f:
+        for key, value in word_dictionary.items():
+            f.write(f"{key},{','.join(value)}\n")
+
+
 def control_handler():
     ironic_frequencies = ngram_frequencies(filename_ironic)
     ironic_percentages = percentages("ironic")
@@ -91,6 +127,9 @@ def control_handler():
 
     ironic_words = random_words(ironic_frequencies, ironic_percentages)
     non_ironic_words = random_words(non_ironic_frequencies, non_ironic_percentages)
+
+    save_control_csv(ironic_words, "ironic")
+    save_control_csv(non_ironic_words, "non_ironic")
 
 if __name__ == "__main__":
     control_handler()
