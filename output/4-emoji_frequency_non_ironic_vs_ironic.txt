@@ -1,0 +1,23 @@
+Position	Frequency	n-emoji
+1	431.8181818181818	:person_raising_hand: :person_raising_hand: :person_raising_hand: :person_raising_hand:
+2	68.18181818181819	:pouting_face: :pouting_face: :pouting_face: :pouting_face:
+3	68.18181818181819	:tropical_drink: :tropical_drink: :tropical_drink: :tropical_drink:
+4	22.727272727272727	:grinning_squinting_face: :Santa_Claus: :party_popper: :musical_notes:
+5	22.727272727272727	:red_heart: :sparkles: :kiss_mark: :princess:
+6	22.727272727272727	:sparkles: :kiss_mark: :princess: :woman_dancing:
+7	22.727272727272727	:face_blowing_a_kiss: :face_blowing_a_kiss: :face_blowing_a_kiss: :face_blowing_a_kiss:
+8	22.727272727272727	:weary_face: :weary_face: :weary_face: :weary_face:
+9	22.727272727272727	:grinning_face_with_smiling_eyes: :raising_hands: :trophy: :baseball:
+10	22.727272727272727	:pistol: :pouting_face: :pouting_face: :pouting_face:
+11	22.727272727272727	:thumbs_up: :Santa_Claus: :wrapped_gift: :Santa_Claus:
+12	22.727272727272727	:smirking_face: :smiling_face_with_sunglasses: :smiling_face_with_sunglasses: :Christmas_tree:
+13	22.727272727272727	:smiling_face_with_sunglasses: :smiling_face_with_sunglasses: :Christmas_tree: :Christmas_tree:
+14	22.727272727272727	:smiling_face_with_sunglasses: :musical_score: :clapping_hands: :oncoming_fist:
+15	22.727272727272727	:Santa_Claus: :wrapped_gift: :wrapped_gift: :Christmas_tree:
+16	22.727272727272727	:oncoming_bus: :snowflake: :snowman_without_snow: :face_savoring_food:
+17	22.727272727272727	:see-no-evil_monkey: :smiling_face: :smiling_face: :OK_hand:
+18	22.727272727272727	:clapping_hands: :purple_heart: :backhand_index_pointing_right: :cross_mark:
+19	22.727272727272727	:purple_heart: :backhand_index_pointing_right: :cross_mark: :heavy_large_circle:
+20	22.727272727272727	:backhand_index_pointing_right: :cross_mark: :heavy_large_circle: :backhand_index_pointing_left:
+21	22.727272727272727	:cross_mark: :heavy_large_circle: :backhand_index_pointing_left: :folded_hands:
+22	22.727272727272727	:heavy_large_circle: :backhand_index_pointing_left: :folded_hands: :raising_hands:

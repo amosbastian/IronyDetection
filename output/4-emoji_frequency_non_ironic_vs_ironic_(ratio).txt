@@ -1,0 +1,25 @@
+Position	Frequency	n-emoji
+1	0.0	:smiling_face_with_heart-eyes: :smiling_face_with_heart-eyes: :smiling_face_with_heart-eyes: :smiling_face_with_heart-eyes:
+2	0.0	:weary_cat_face: :face_screaming_in_fear: :weary_cat_face: :face_screaming_in_fear:
+3	0.0	:face_with_tears_of_joy: :face_with_tears_of_joy: :face_with_tears_of_joy: :face_with_tears_of_joy:
+4	0.0	:dashing_away: :droplet: :sweat_droplets: :thumbs_down:
+5	0.0	:flushed_face: :flushed_face: :flushed_face: :flushed_face:
+6	0.0	:grinning_face_with_smiling_eyes: :winking_face_with_tongue: :face_with_tears_of_joy: :persevering_face:
+7	0.0	:winking_face_with_tongue: :face_with_tears_of_joy: :persevering_face: :anxious_face_with_sweat:
+8	0.0	:face_with_tears_of_joy: :persevering_face: :anxious_face_with_sweat: :tired_face:
+9	0.0	:persevering_face: :anxious_face_with_sweat: :tired_face: :confounded_face:
+10	0.0	:face_screaming_in_fear: :weary_cat_face: :face_screaming_in_fear: :weary_cat_face:
+11	0.0	:face_with_tears_of_joy: :Santa_Claus: :face_with_tears_of_joy: :Santa_Claus:
+12	0.0	:Santa_Claus: :face_with_tears_of_joy: :Santa_Claus: :face_with_tears_of_joy:
+13	0.0	:face_with_tears_of_joy: :Santa_Claus: :face_with_tears_of_joy: :pistol:
+14	0.0	:Santa_Claus: :face_with_tears_of_joy: :pistol: :pistol:
+15	0.0	:person_tipping_hand: :face_with_tears_of_joy: :loudly_crying_face: :loudly_crying_face:
+16	0.0	:face_with_tears_of_joy: :loudly_crying_face: :loudly_crying_face: :loudly_crying_face:
+17	0.0	:face_with_medical_mask: :face_with_medical_mask: :face_with_medical_mask: :face_with_medical_mask:
+18	0.0	:see-no-evil_monkey: :speak-no-evil_monkey: :speak-no-evil_monkey: :face_with_tears_of_joy:
+19	0.0	:books: :open_book: :woman_dancing: :woman_dancing:
+20	0.0	:open_book: :woman_dancing: :woman_dancing: :people_with_bunny_ears:
+21	0.0	:face_with_tears_of_joy: :weary_face: :see-no-evil_monkey: :see-no-evil_monkey:
+22	0.0	:weary_face: :see-no-evil_monkey: :see-no-evil_monkey: :see-no-evil_monkey:
+23	0.0	:worried_face: :confused_face: :crying_face: :sleepy_face:
+24	0.0	:confused_face: :crying_face: :sleepy_face: :disappointed_face:
