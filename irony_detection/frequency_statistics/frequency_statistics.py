@@ -9,7 +9,9 @@ import matplotlib.pyplot as plt
 
 DIR_PATH = os.path.dirname(os.path.realpath(__file__))
 training_directory = f"{DIR_PATH}/../../datasets/train/"
-
+default = ["SemEval2018-T3-train-taskA_emoji_tokenised.txt",
+           "SemEval2018-T3-train-taskA_emoji.txt",
+           "README.md"]
 
 def percentage(part, whole):
     return 100 * float(part) / float(whole)
@@ -42,7 +44,7 @@ def group_training_sets():
     }
 
     for filename in os.listdir(training_directory):
-        if "CONTROL" in filename:
+        if "CONTROL" in filename and "PERCENTAGE" not in filename:
             groups["control"].append(filename)
             continue
 
@@ -192,11 +194,23 @@ def plot_all(n, plot_dictionary, control=False):
         fig.savefig(f"{DIR_PATH}/{figures_directory}/{n}-grams/{plot_filename}.png")
 
 
-def frequency_handler():
-    default = ["SemEval2018-T3-train-taskA_emoji_tokenised.txt",
-               "SemEval2018-T3-train-taskA_emoji.txt",
-               "README.md"]
+def save_output(output_directory, key, filenames, total_words):
+    fout = open(f"{DIR_PATH}/{output_directory}/words_removed_{key}.csv", "w+")
+    fout.write("Training Set,Number of Words Removed,Percentage of Words Removed\n")
 
+    for filename in filenames:
+        if filename in default:
+            continue
+
+        word_count = count_words(filename)
+        percentage_removed = 100 - percentage(word_count, total_words)
+        words_removed = total_words - word_count
+        fout.write(f"{filename},{words_removed},{percentage_removed}\n")
+
+    fout.close()
+
+
+def frequency_handler():
     total_words = count_words(default[0])
     groups = group_training_sets()
 
@@ -205,21 +219,31 @@ def frequency_handler():
         if "control" in key:
             output_directory = "control_output"
 
-        fout = open(f"{DIR_PATH}/{output_directory}/words_removed_{key}.csv", "w+")
-        fout.write("Training Set,Number of Words Removed,Percentage of Words Removed\n")
+        save_output(output_directory, key, filenames, total_words)
 
-        for filename in filenames:
-            if filename in default:
-                continue
 
-            word_count = count_words(filename)
-            percentage_removed = 100 - percentage(word_count, total_words)
-            words_removed = total_words - word_count
-            fout.write(f"{filename},{words_removed},{percentage_removed}\n")
+def control_percentage():
+    ironic_filenames = []
+    non_ironic_filenames = []
+    total_words = count_words("SemEval2018-T3-train-taskA_emoji_tokenised.txt")
+
+    for filename in os.listdir(training_directory):
+        if "control-percentage" not in filename.lower():
+            continue
+
+        if "non_ironic" in filename.lower():
+            non_ironic_filenames.append(filename)
+        else:
+            ironic_filenames.append(filename)
+
+    save_output("control_percentage_output", "ironic", ironic_filenames, total_words)
+    save_output("control_percentage_output", "non_ironic", non_ironic_filenames, total_words)
+
 
 if __name__ == "__main__":
-    frequency_handler()
-    for n in range(1, 5):
-        plot_handler(n)
+    # frequency_handler()
+    # for n in range(1, 5):
+    #     plot_handler(n)
 
-    plot_handler(1, True)
+    # plot_handler(1, True)
+    control_percentage()
