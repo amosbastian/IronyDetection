@@ -276,31 +276,48 @@ def relative_frequency_ratio(irony, non_irony):
     return sorted(frequency_ratios, key=lambda x: x[1], reverse=True)
 
 
-def frequency_difference(irony, non_irony):
+def frequency_difference(frequency_1, frequency_2):
     """Returns a list of tuples containing an n-gram and the difference in
     relative frequency between the ironic and non-ironic tweets.
 
-    :param irony: A list of n-gram, frequency tuples generated from ironic
-        tweets.
-    :param non_irony: A list of n-gram, frequency tuples generated from
-        non-ironic tweets.
+    :param frequency_1: A list of n-gram, frequency tuples.
+    :param frequency_2: A list of n-gram, frequency tuples.
     """
     frequency_difference = []
 
-    for ngram, frequency in non_irony:
+    for ngram, frequency in frequency_1:
         # For each n-gram in non-ironic tweets, find its respective frequency
         # in ironic tweets
         try:
-            ironic_frequency = float([x for x in irony if x[0] == ngram][-1][-1])
+            ngram_frequency = float([x for x in frequency_2
+                                     if x[0] == ngram][-1][-1])
         except IndexError:
-            ironic_frequency = 0
+            ngram_frequency = 0
 
-        # Take the absolute difference
+        # Take the difference
         frequency_difference.append(
-            (ngram, abs(float(frequency) - ironic_frequency)))
+            (ngram, float(frequency) - ngram_frequency))
 
     # Sort from high to low
     return sorted(frequency_difference, key=lambda x: x[1], reverse=True)
+
+
+def create_comparison_file(filename, element, frequency_1, frequency_2):
+    with open(f"{DIR_PATH}/../output/{filename}.txt", "w") as f:
+        f.write(f"Position\tFrequency\tn-{element}\n")
+        # Iterate over the n-gram / emoji, relative frequency difference tuples
+        for i, counter in enumerate(
+                frequency_difference(frequency_1, frequency_2)):
+            element_type, frequency = counter
+            f.write(f"{i + 1}\t{frequency}\t{element_type}\n")
+
+    with open(f"{DIR_PATH}/../output/{filename}_(ratio).txt", "w") as f:
+        f.write(f"Position\tFrequency\tn-{element}\n")
+        # Iterate over the n-gram / emoji, frequency ratio tuples
+        for i, counter in enumerate(
+                relative_frequency_ratio(frequency_1, frequency_2)):
+            element_type, frequency_ratio = counter
+            f.write(f"{i + 1}\t{frequency_ratio}\t{element_type}\n")
 
 
 def irony_comparison_handler(element):
@@ -311,22 +328,11 @@ def irony_comparison_handler(element):
         # Get the ironic and non-ironic n-gram frequencies
         irony = get_frequencies(f"relative_{n}-{element}_frequency_ironic.txt")
         non_irony = get_frequencies(f"relative_{n}-{element}_frequency_non_ironic.txt")
-        filename = f"{n}-{element}_frequency_ironic_vs_non_ironic"
+        filename_1 = f"{n}-{element}_frequency_ironic_vs_non_ironic"
+        filename_2 = f"{n}-{element}_frequency_non_ironic_vs_ironic"
 
-        logging.info(f"Creating n-{element} frequency file: {filename}.txt")
-        with open(f"{DIR_PATH}/../output/{filename}.txt", "w") as f:
-            f.write(f"Position\tFrequency\tn-{element}\n")
-            # Iterate over the n-gram / emoji, relative frequency differences
-            # tuples
-            for i, counter in enumerate(
-                    frequency_difference(irony, non_irony)):
-                element_type, frequency = counter
-                f.write(f"{i + 1}\t{frequency}\t{element_type}\n")
+        logging.info(f"Creating n-{element} frequency file: {filename_1}.txt")
+        create_comparison_file(filename_1, element, irony, non_irony)
 
-        with open(f"{DIR_PATH}/../output/{filename}_(ratio).txt", "w") as f:
-            f.write(f"Position\tFrequency\tn-{element}\n")
-            # Iterate over the n-gram / emoji, frequency ratio tuples
-            for i, counter in enumerate(
-                    relative_frequency_ratio(irony, non_irony)):
-                element_type, frequency_ratio = counter
-                f.write(f"{i + 1}\t{frequency_ratio}\t{element_type}\n")
+        logging.info(f"Creating n-{element} frequency file: {filename_2}.txt")
+        create_comparison_file(filename_2, element, non_irony, irony)
