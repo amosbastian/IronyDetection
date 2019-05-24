@@ -30,9 +30,11 @@ SemEval2018-T3-train-taskA_emoji_4-gram_frequency_non_ironic_vs_ironic_(ratio)_5
 SemEval2018-T3-train-taskA_emoji_4-emoji_frequency_ironic_vs_non_ironic_12.txt,15,0.04586594911937425
 SemEval2018-T3-train-taskA_emoji_3-gram_frequency_non_ironic_15.txt,39,0.11925146771037021
 SemEval2018-T3-train-taskA_emoji_4-gram_frequency_ironic_vs_non_ironic_(ratio)_9.txt,20,0.06115459882583707
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_15.txt,2747,8.399584148727982
 SemEval2018-T3-train-taskA_emoji_2-gram_frequency_ironic_vs_non_ironic_7.txt,87,0.2660225048923621
 SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_non_ironic_6.txt,73,0.2232142857142918
 SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_non_ironic_vs_ironic_(ratio)_3.txt,35,0.10702054794521132
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_18.txt,3180,9.723581213307241
 SemEval2018-T3-train-taskA_emoji_1-gram_frequency_non_ironic_vs_ironic_(ratio)_13.txt,156,0.47700587084148083
 SemEval2018-T3-train-taskA_emoji_3-emoji_frequency_6.txt,48,0.14677103718199191
 SemEval2018-T3-train-taskA_emoji_1-gram_frequency_non_ironic_vs_ironic_15.txt,567,1.733732876712324
@@ -57,6 +59,7 @@ SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_ironic_8.txt,54,0.16511741682
 SemEval2018-T3-train-taskA_emoji_1-gram_frequency_ironic_vs_non_ironic_(ratio)_7.txt,119,0.3638698630137043
 SemEval2018-T3-train-taskA_emoji_4-gram_frequency_ironic_vs_non_ironic_14.txt,27,0.08255870841487933
 SemEval2018-T3-train-taskA_emoji_3-gram_frequency_non_ironic_18.txt,45,0.13759784735812275
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_non_ironic_7.txt,1499,4.583537181996093
 SemEval2018-T3-train-taskA_emoji_4-emoji_frequency_ironic_vs_non_ironic_(ratio)_13.txt,35,0.10702054794521132
 SemEval2018-T3-train-taskA_emoji_3-emoji_frequency_non_ironic_vs_ironic_9.txt,38,0.11619373776908049
 SemEval2018-T3-train-taskA_emoji_4-emoji_frequency_non_ironic_vs_ironic_(ratio)_20.txt,23,0.07032778864970624
@@ -81,6 +84,7 @@ SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_non_ironic_vs_ironic_(ratio)_
 SemEval2018-T3-train-taskA_emoji_4-gram_frequency_ironic_9.txt,18,0.055039138943243415
 SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_ironic_vs_non_ironic_(ratio)_4.txt,59,0.18040606653620728
 SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_non_ironic_18.txt,324,0.9907045009784667
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_14.txt,2610,7.980675146771034
 SemEval2018-T3-train-taskA_emoji_4-gram_frequency_ironic_vs_non_ironic_(ratio)_1.txt,2,0.006115459882579444
 SemEval2018-T3-train-taskA_emoji_3-gram_frequency_ironic_2.txt,14,0.04280821917808453
 SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_ironic_1.txt,29,0.08867416829745878
@@ -113,6 +117,7 @@ SemEval2018-T3-train-taskA_emoji_4-gram_frequency_non_ironic_vs_ironic_(ratio)_1
 SemEval2018-T3-train-taskA_emoji_3-emoji_frequency_ironic_6.txt,24,0.07338551859099596
 SemEval2018-T3-train-taskA_emoji_1-gram_frequency_non_ironic_vs_ironic_3.txt,161,0.49229452054794365
 SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_non_ironic_vs_ironic_8.txt,53,0.16205968688845473
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_non_ironic_6.txt,1396,4.268590998043052
 SemEval2018-T3-train-taskA_emoji_4-emoji_frequency_ironic_8.txt,12,0.036692759295505084
 SemEval2018-T3-train-taskA_emoji_4-gram_frequency_6.txt,13,0.039750489236794806
 SemEval2018-T3-train-taskA_emoji_4-emoji_frequency_non_ironic_vs_ironic_(ratio)_7.txt,11,0.03363502935420115
@@ -162,6 +167,8 @@ SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_ironic_vs_non_ironic_(ratio)_
 SemEval2018-T3-train-taskA_emoji_1-gram_frequency_ironic_11.txt,1491,4.559075342465746
 SemEval2018-T3-train-taskA_emoji_2-gram_frequency_ironic_20.txt,205,0.6268346379647767
 SemEval2018-T3-train-taskA_emoji_1-gram_frequency_ironic_vs_non_ironic_(ratio)_17.txt,223,0.6818737769080201
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_19.txt,3343,10.221991193737765
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_non_ironic_1.txt,274,0.8378180039138954
 SemEval2018-T3-train-taskA_emoji_2-gram_frequency_ironic_vs_non_ironic_11.txt,117,0.3577544031311106
 SemEval2018-T3-train-taskA_emoji_1-gram_frequency_ironic_vs_non_ironic_(ratio)_1.txt,22,0.06727005870841651
 SemEval2018-T3-train-taskA_emoji_2-gram_frequency_non_ironic_vs_ironic_(ratio)_3.txt,26,0.0795009784735754
@@ -182,7 +189,9 @@ SemEval2018-T3-train-taskA_emoji_4-gram_frequency_non_ironic_vs_ironic_(ratio)_8
 SemEval2018-T3-train-taskA_emoji_2-gram_frequency_ironic_vs_non_ironic_(ratio)_10.txt,77,0.2354452054794507
 SemEval2018-T3-train-taskA_emoji_4-emoji_frequency_ironic_vs_non_ironic_5.txt,9,0.027519569471621708
 SemEval2018-T3-train-taskA_emoji_4-emoji_frequency_non_ironic_vs_ironic_12.txt,34,0.10396281800390739
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_non_ironic_8.txt,1827,5.5864726027397325
 SemEval2018-T3-train-taskA_emoji_3-emoji_frequency_20.txt,69,0.2109833659491187
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_non_ironic_10.txt,2052,6.274461839530332
 SemEval2018-T3-train-taskA_emoji_2-gram_frequency_ironic_7.txt,96,0.29354207436399804
 SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_ironic_vs_non_ironic_(ratio)_2.txt,10,0.03057729941291143
 SemEval2018-T3-train-taskA_emoji_3-gram_frequency_non_ironic_vs_ironic_(ratio)_18.txt,56,0.1712328767123239
@@ -192,6 +201,7 @@ SemEval2018-T3-train-taskA_emoji_4-gram_frequency_ironic_vs_non_ironic_(ratio)_7
 SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_ironic_4.txt,44,0.13454011741683303
 SemEval2018-T3-train-taskA_emoji_1-gram_frequency_ironic_12.txt,1590,4.861790606653614
 SemEval2018-T3-train-taskA_emoji_4-gram_frequency_7.txt,16,0.04892367906066397
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_4.txt,969,2.9629403131115453
 SemEval2018-T3-train-taskA_emoji_1-gram_frequency_4.txt,723,2.210738747553819
 SemEval2018-T3-train-taskA_emoji_3-emoji_frequency_ironic_vs_non_ironic_14.txt,21,0.06421232876712679
 SemEval2018-T3-train-taskA_emoji_1-gram_frequency_ironic_3.txt,558,1.7062133072407022
@@ -199,6 +209,7 @@ SemEval2018-T3-train-taskA_emoji_2-gram_frequency_non_ironic_vs_ironic_(ratio)_9
 SemEval2018-T3-train-taskA_emoji_4-emoji_frequency_4.txt,28,0.08561643835616906
 SemEval2018-T3-train-taskA_emoji_1-gram_frequency_ironic_vs_non_ironic_(ratio)_16.txt,216,0.6604696673189778
 SemEval2018-T3-train-taskA_emoji_3-gram_frequency_ironic_vs_non_ironic_8.txt,32,0.09784735812132794
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_non_ironic_17.txt,2948,9.0141878669276
 SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_5.txt,71,0.21709882583169815
 SemEval2018-T3-train-taskA_emoji_3-emoji_frequency_non_ironic_13.txt,55,0.16817514677103418
 SemEval2018-T3-train-taskA_emoji_2-gram_frequency_ironic_9.txt,119,0.3638698630137043
@@ -210,6 +221,7 @@ SemEval2018-T3-train-taskA_emoji_2-gram_frequency_ironic_vs_non_ironic_(ratio)_1
 SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_non_ironic_7.txt,76,0.23238747553816097
 SemEval2018-T3-train-taskA_emoji_1-gram_frequency_ironic_4.txt,674,2.060909980430523
 SemEval2018-T3-train-taskA_emoji_3-emoji_frequency_non_ironic_vs_ironic_(ratio)_1.txt,11,0.03363502935420115
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_11.txt,2180,6.665851272015658
 SemEval2018-T3-train-taskA_emoji_4-emoji_frequency_1.txt,19,0.05809686888453314
 SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_ironic_6.txt,180,0.550391389432491
 SemEval2018-T3-train-taskA_emoji_3-emoji_frequency_non_ironic_16.txt,58,0.17734833659491755
@@ -269,6 +281,7 @@ SemEval2018-T3-train-taskA_emoji_2-gram_frequency_13.txt,166,0.5075831702544065
 SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_ironic_vs_non_ironic_(ratio)_15.txt,147,0.4494863013698591
 SemEval2018-T3-train-taskA_emoji_4-emoji_frequency_non_ironic_vs_ironic_(ratio)_17.txt,20,0.06115459882583707
 SemEval2018-T3-train-taskA_emoji_1-gram_frequency_ironic_8.txt,1127,3.4460616438356197
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_non_ironic_18.txt,3057,9.347480430528378
 SemEval2018-T3-train-taskA_emoji_3-gram_frequency_ironic_10.txt,36,0.11007827788650104
 SemEval2018-T3-train-taskA_emoji_4-gram_frequency_ironic_13.txt,26,0.0795009784735754
 SemEval2018-T3-train-taskA_emoji_4-emoji_frequency_ironic_vs_non_ironic_(ratio)_11.txt,33,0.10090508806261766
@@ -365,6 +378,7 @@ SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_19.txt,378,1.1558219178082254
 SemEval2018-T3-train-taskA_emoji_3-emoji_frequency_14.txt,63,0.19263698630136616
 SemEval2018-T3-train-taskA_emoji_4-gram_frequency_ironic_5.txt,11,0.03363502935420115
 SemEval2018-T3-train-taskA_emoji_3-emoji_frequency_non_ironic_vs_ironic_15.txt,44,0.13454011741683303
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_non_ironic_15.txt,2718,8.310909980430523
 SemEval2018-T3-train-taskA_emoji_2-gram_frequency_non_ironic_vs_ironic_(ratio)_14.txt,90,0.2751956947162455
 SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_non_ironic_vs_ironic_(ratio)_19.txt,180,0.550391389432491
 SemEval2018-T3-train-taskA_emoji_1-gram_frequency_ironic_vs_non_ironic_(ratio)_3.txt,64,0.1956947162426559
@@ -425,6 +439,7 @@ SemEval2018-T3-train-taskA_emoji_3-gram_frequency_ironic_vs_non_ironic_9.txt,34,
 SemEval2018-T3-train-taskA_emoji_4-emoji_frequency_non_ironic_10.txt,32,0.09784735812132794
 SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_ironic_vs_non_ironic_(ratio)_6.txt,20,0.06115459882583707
 SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_non_ironic_vs_ironic_4.txt,40,0.12230919765165993
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_12.txt,2325,7.109222113502938
 SemEval2018-T3-train-taskA_emoji_3-emoji_frequency_non_ironic_vs_ironic_16.txt,45,0.13759784735812275
 SemEval2018-T3-train-taskA_emoji_2-gram_frequency_3.txt,61,0.18652152641878672
 SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_non_ironic_vs_ironic_10.txt,57,0.17429060665361362
@@ -435,6 +450,7 @@ SemEval2018-T3-train-taskA_emoji_3-emoji_frequency_ironic_20.txt,40,0.1223091976
 SemEval2018-T3-train-taskA_emoji_3-gram_frequency_ironic_vs_non_ironic_20.txt,56,0.1712328767123239
 SemEval2018-T3-train-taskA_emoji_4-gram_frequency_1.txt,4,0.012230919765173098
 SemEval2018-T3-train-taskA_emoji_2-gram_frequency_non_ironic_vs_ironic_15.txt,90,0.2751956947162455
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_7.txt,1489,4.552959882583167
 SemEval2018-T3-train-taskA_emoji_4-emoji_frequency_non_ironic_vs_ironic_14.txt,36,0.11007827788650104
 SemEval2018-T3-train-taskA_emoji_2-gram_frequency_ironic_vs_non_ironic_(ratio)_6.txt,51,0.1559442270058753
 SemEval2018-T3-train-taskA_emoji_2-gram_frequency_7.txt,109,0.33329256360077864
@@ -465,6 +481,7 @@ SemEval2018-T3-train-taskA_emoji_2-gram_frequency_11.txt,148,0.45254403131114884
 SemEval2018-T3-train-taskA_emoji_3-emoji_frequency_ironic_19.txt,39,0.11925146771037021
 SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_1.txt,91,0.2782534246575352
 SemEval2018-T3-train-taskA_emoji_2-gram_frequency_9.txt,129,0.3944471624266157
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_non_ironic_3.txt,708,2.1648727984344447
 SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_13.txt,101,0.30883072407044665
 SemEval2018-T3-train-taskA_emoji_1-gram_frequency_ironic_vs_non_ironic_3.txt,407,1.24449608610567
 SemEval2018-T3-train-taskA_emoji_3-emoji_frequency_ironic_vs_non_ironic_13.txt,20,0.06115459882583707
@@ -475,6 +492,7 @@ SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_non_ironic_4.txt,64,0.1956947
 SemEval2018-T3-train-taskA_emoji_4-gram_frequency_ironic_10.txt,23,0.07032778864970624
 SemEval2018-T3-train-taskA_emoji_1-gram_frequency_ironic_2.txt,380,1.1619373776908049
 SemEval2018-T3-train-taskA_emoji_2-gram_frequency_non_ironic_vs_ironic_2.txt,25,0.07644324853228568
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_non_ironic_5.txt,1146,3.504158512720153
 SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_ironic_vs_non_ironic_14.txt,253,0.7736056751467686
 SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_ironic_16.txt,69,0.2109833659491187
 SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_ironic_vs_non_ironic_(ratio)_2.txt,40,0.12230919765165993
@@ -543,11 +561,13 @@ SemEval2018-T3-train-taskA_emoji_4-emoji_frequency_non_ironic_13.txt,35,0.107020
 SemEval2018-T3-train-taskA_emoji_2-gram_frequency_non_ironic_vs_ironic_8.txt,64,0.1956947162426559
 SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_ironic_12.txt,61,0.18652152641878672
 SemEval2018-T3-train-taskA_emoji_4-gram_frequency_non_ironic_vs_ironic_(ratio)_9.txt,19,0.05809686888453314
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_10.txt,2047,6.259173189823869
 SemEval2018-T3-train-taskA_emoji_3-gram_frequency_non_ironic_vs_ironic_16.txt,41,0.12536692759294965
 SemEval2018-T3-train-taskA_emoji_4-emoji_frequency_non_ironic_vs_ironic_8.txt,30,0.0917318982387485
 SemEval2018-T3-train-taskA_emoji_3-emoji_frequency_non_ironic_vs_ironic_3.txt,29,0.08867416829745878
 SemEval2018-T3-train-taskA_emoji_2-gram_frequency_ironic_vs_non_ironic_5.txt,71,0.21709882583169815
 SemEval2018-T3-train-taskA_emoji_2-gram_frequency_ironic_17.txt,189,0.5779109589041127
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_6.txt,1322,4.042318982387471
 SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_20.txt,388,1.1863992172211368
 SemEval2018-T3-train-taskA_emoji_3-gram_frequency_15.txt,50,0.15288649706458557
 SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_non_ironic_vs_ironic_19.txt,99,0.3027152641878672
@@ -567,6 +587,7 @@ SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_non_ironic_vs_ironic_1.txt,21
 SemEval2018-T3-train-taskA_emoji_3-gram_frequency_non_ironic_vs_ironic_4.txt,8,0.024461839530331986
 SemEval2018-T3-train-taskA_emoji_3-gram_frequency_non_ironic_vs_ironic_(ratio)_4.txt,10,0.03057729941291143
 SemEval2018-T3-train-taskA_emoji_2-gram_frequency_ironic_vs_non_ironic_(ratio)_16.txt,106,0.32411937377690947
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_non_ironic_13.txt,2448,7.485322896281801
 SemEval2018-T3-train-taskA_emoji_3-emoji_frequency_12.txt,60,0.183463796477497
 SemEval2018-T3-train-taskA_emoji_4-emoji_frequency_non_ironic_vs_ironic_(ratio)_12.txt,15,0.04586594911937425
 SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_non_ironic_6.txt,180,0.550391389432491
@@ -579,6 +600,7 @@ SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_non_ironic_vs_ironic_(ratio)_
 SemEval2018-T3-train-taskA_emoji_4-emoji_frequency_ironic_vs_non_ironic_18.txt,21,0.06421232876712679
 SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_non_ironic_10.txt,230,0.7032778864970624
 SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_non_ironic_vs_ironic_11.txt,146,0.4464285714285694
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_5.txt,1209,3.6967954990215333
 SemEval2018-T3-train-taskA_emoji_4-gram_frequency_non_ironic_7.txt,16,0.04892367906066397
 SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_ironic_8.txt,206,0.6298923679060664
 SemEval2018-T3-train-taskA_emoji_1-gram_frequency_ironic_6.txt,916,2.8008806262230905
@@ -610,6 +632,7 @@ SemEval2018-T3-train-taskA_emoji_1-gram_frequency_ironic_15.txt,1838,5.620107632
 SemEval2018-T3-train-taskA_emoji_3-emoji_frequency_non_ironic_vs_ironic_(ratio)_9.txt,29,0.08867416829745878
 SemEval2018-T3-train-taskA_emoji_2-gram_frequency_ironic_vs_non_ironic_16.txt,155,0.4739481409001911
 SemEval2018-T3-train-taskA_emoji_3-emoji_frequency_15.txt,64,0.1956947162426559
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_non_ironic_16.txt,2860,8.745107632093934
 SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_ironic_vs_non_ironic_5.txt,16,0.04892367906066397
 SemEval2018-T3-train-taskA_emoji_1-gram_frequency_ironic_vs_non_ironic_(ratio)_8.txt,135,0.41279354207436825
 SemEval2018-T3-train-taskA_emoji_4-gram_frequency_non_ironic_vs_ironic_(ratio)_12.txt,26,0.0795009784735754
@@ -631,13 +654,16 @@ SemEval2018-T3-train-taskA_emoji_4-gram_frequency_ironic_vs_non_ironic_20.txt,33
 SemEval2018-T3-train-taskA_emoji_4-emoji_frequency_non_ironic_vs_ironic_7.txt,29,0.08867416829745878
 SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_non_ironic_vs_ironic_(ratio)_16.txt,79,0.24156066536203014
 SemEval2018-T3-train-taskA_emoji_1-gram_frequency_6.txt,983,3.00574853228963
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_8.txt,1664,5.088062622309195
 SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_non_ironic_17.txt,316,0.9662426614481348
 SemEval2018-T3-train-taskA_emoji_3-emoji_frequency_non_ironic_vs_ironic_(ratio)_2.txt,15,0.04586594911937425
 SemEval2018-T3-train-taskA_emoji_2-gram_frequency_ironic_vs_non_ironic_(ratio)_8.txt,63,0.19263698630136616
 SemEval2018-T3-train-taskA_emoji_2-gram_frequency_ironic_vs_non_ironic_(ratio)_18.txt,119,0.3638698630137043
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_non_ironic_12.txt,2336,7.142857142857139
 SemEval2018-T3-train-taskA_emoji_1-gram_frequency_non_ironic_vs_ironic_10.txt,387,1.1833414872798471
 SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_ironic_vs_non_ironic_(ratio)_13.txt,93,0.28436888454011466
 SemEval2018-T3-train-taskA_emoji_4-emoji_frequency_ironic_vs_non_ironic_(ratio)_15.txt,37,0.11313600782779076
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_non_ironic_11.txt,2178,6.6597358121330785
 SemEval2018-T3-train-taskA_emoji_1-gram_frequency_3.txt,558,1.7062133072407022
 SemEval2018-T3-train-taskA_emoji_4-emoji_frequency_ironic_vs_non_ironic_(ratio)_19.txt,41,0.12536692759294965
 SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_ironic_18.txt,71,0.21709882583169815
@@ -656,6 +682,7 @@ SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_ironic_3.txt,135,0.4127935420
 SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_ironic_vs_non_ironic_(ratio)_11.txt,110,0.33635029354206836
 SemEval2018-T3-train-taskA_emoji_3-emoji_frequency_ironic_vs_non_ironic_(ratio)_9.txt,51,0.1559442270058753
 SemEval2018-T3-train-taskA_emoji_1-gram_frequency_ironic_14.txt,1749,5.347969667318978
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_non_ironic_9.txt,1940,5.93199608610567
 SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_ironic_vs_non_ironic_8.txt,20,0.06115459882583707
 SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_ironic_vs_non_ironic_(ratio)_18.txt,108,0.3302348336594889
 SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_non_ironic_vs_ironic_(ratio)_17.txt,172,0.525929549902159
@@ -671,6 +698,7 @@ SemEval2018-T3-train-taskA_emoji_3-emoji_frequency_ironic_vs_non_ironic_15.txt,2
 SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_7.txt,212,0.6482387475538189
 SemEval2018-T3-train-taskA_emoji_4-emoji_frequency_ironic_vs_non_ironic_(ratio)_7.txt,29,0.08867416829745878
 SemEval2018-T3-train-taskA_emoji_3-gram_frequency_ironic_vs_non_ironic_(ratio)_10.txt,27,0.08255870841487933
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_2.txt,538,1.6450587084148793
 SemEval2018-T3-train-taskA_emoji_3-emoji_frequency_non_ironic_vs_ironic_19.txt,48,0.14677103718199191
 SemEval2018-T3-train-taskA_emoji_2-gram_frequency_non_ironic_vs_ironic_7.txt,60,0.183463796477497
 SemEval2018-T3-train-taskA_emoji_4-gram_frequency_non_ironic_vs_ironic_8.txt,18,0.055039138943243415
@@ -709,6 +737,7 @@ SemEval2018-T3-train-taskA_emoji_3-emoji_frequency_ironic_vs_non_ironic_(ratio)_
 SemEval2018-T3-train-taskA_emoji_3-emoji_frequency_non_ironic_6.txt,45,0.13759784735812275
 SemEval2018-T3-train-taskA_emoji_4-gram_frequency_non_ironic_14.txt,30,0.0917318982387485
 SemEval2018-T3-train-taskA_emoji_2-gram_frequency_ironic_11.txt,134,0.4097358121330785
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_non_ironic_20.txt,3317,10.14249021526419
 SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_non_ironic_vs_ironic_20.txt,100,0.3057729941291569
 SemEval2018-T3-train-taskA_emoji_3-emoji_frequency_7.txt,51,0.1559442270058753
 SemEval2018-T3-train-taskA_emoji_1-gram_frequency_non_ironic_5.txt,769,2.3513943248532314
@@ -800,6 +829,7 @@ SemEval2018-T3-train-taskA_emoji_4-gram_frequency_ironic_17.txt,32,0.09784735812
 SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_non_ironic_5.txt,69,0.2109833659491187
 SemEval2018-T3-train-taskA_emoji_3-gram_frequency_non_ironic_20.txt,49,0.14982876712328164
 SemEval2018-T3-train-taskA_emoji_3-gram_frequency_ironic_vs_non_ironic_10.txt,36,0.11007827788650104
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_9.txt,1863,5.696550880626219
 SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_non_ironic_vs_ironic_8.txt,123,0.37610078277886316
 SemEval2018-T3-train-taskA_emoji_1-gram_frequency_ironic_vs_non_ironic_10.txt,1088,3.3268101761252495
 SemEval2018-T3-train-taskA_emoji_2-gram_frequency_ironic_10.txt,127,0.38833170254403626
@@ -912,6 +942,7 @@ SemEval2018-T3-train-taskA_emoji_4-emoji_frequency_non_ironic_vs_ironic_6.txt,28
 SemEval2018-T3-train-taskA_emoji_4-gram_frequency_non_ironic_15.txt,32,0.09784735812132794
 SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_2.txt,120,0.366927592954994
 SemEval2018-T3-train-taskA_emoji_1-gram_frequency_non_ironic_17.txt,1920,5.870841487279847
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_16.txt,2891,8.839897260273972
 SemEval2018-T3-train-taskA_emoji_3-gram_frequency_non_ironic_vs_ironic_(ratio)_13.txt,42,0.12842465753425358
 SemEval2018-T3-train-taskA_emoji_3-gram_frequency_non_ironic_vs_ironic_(ratio)_1.txt,3,0.009173189823869166
 SemEval2018-T3-train-taskA_emoji_4-emoji_frequency_non_ironic_15.txt,37,0.11313600782779076
@@ -936,13 +967,16 @@ SemEval2018-T3-train-taskA_emoji_2-gram_frequency_non_ironic_vs_ironic_10.txt,73
 SemEval2018-T3-train-taskA_emoji_3-emoji_frequency_ironic_vs_non_ironic_(ratio)_1.txt,4,0.012230919765173098
 SemEval2018-T3-train-taskA_emoji_3-gram_frequency_non_ironic_vs_ironic_20.txt,49,0.14982876712328164
 SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_non_ironic_7.txt,194,0.5931996086105613
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_13.txt,2445,7.476149706457932
 SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_ironic_vs_non_ironic_15.txt,37,0.11313600782779076
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_non_ironic_2.txt,510,1.5594422700587103
 SemEval2018-T3-train-taskA_emoji_3-emoji_frequency_non_ironic_10.txt,52,0.159001956947165
 SemEval2018-T3-train-taskA_emoji_4-emoji_frequency_non_ironic_17.txt,39,0.11925146771037021
 SemEval2018-T3-train-taskA_emoji_4-emoji_frequency_non_ironic_vs_ironic_2.txt,22,0.06727005870841651
 SemEval2018-T3-train-taskA_emoji_4-gram_frequency_ironic_vs_non_ironic_7.txt,15,0.04586594911937425
 SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_non_ironic_vs_ironic_(ratio)_11.txt,105,0.32106164383561975
 SemEval2018-T3-train-taskA_emoji_4-gram_frequency_ironic_vs_non_ironic_(ratio)_12.txt,26,0.0795009784735754
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_1.txt,289,0.8836839530332696
 SemEval2018-T3-train-taskA_emoji_1-gram_frequency_ironic_5.txt,839,2.56543542074364
 SemEval2018-T3-train-taskA_emoji_4-gram_frequency_ironic_vs_non_ironic_(ratio)_4.txt,8,0.024461839530331986
 SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_non_ironic_vs_ironic_10.txt,140,0.42808219178081686
@@ -991,6 +1025,7 @@ SemEval2018-T3-train-taskA_emoji_4-emoji_frequency_non_ironic_vs_ironic_(ratio)_
 SemEval2018-T3-train-taskA_emoji_2-gram_frequency_ironic_vs_non_ironic_8.txt,96,0.29354207436399804
 SemEval2018-T3-train-taskA_emoji_3-gram_frequency_13.txt,44,0.13454011741683303
 SemEval2018-T3-train-taskA_emoji_4-gram_frequency_4.txt,7,0.021404109589042264
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_non_ironic_14.txt,2605,7.965386497064586
 SemEval2018-T3-train-taskA_emoji_4-gram_frequency_ironic_vs_non_ironic_1.txt,3,0.009173189823869166
 SemEval2018-T3-train-taskA_emoji_3-gram_frequency_non_ironic_10.txt,26,0.0795009784735754
 SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_non_ironic_vs_ironic_(ratio)_6.txt,47,0.1437133072407022
@@ -1005,6 +1040,7 @@ SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_non_ironic_vs_ironic_(ratio)_
 SemEval2018-T3-train-taskA_emoji_3-gram_frequency_non_ironic_vs_ironic_2.txt,8,0.024461839530331986
 SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_non_ironic_15.txt,101,0.30883072407044665
 SemEval2018-T3-train-taskA_emoji_2-gram_frequency_ironic_3.txt,52,0.159001956947165
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_17.txt,3041,9.298556751467714
 SemEval2018-T3-train-taskA_emoji_3-gram_frequency_ironic_vs_non_ironic_(ratio)_8.txt,22,0.06727005870841651
 SemEval2018-T3-train-taskA_emoji_4-gram_frequency_13.txt,29,0.08867416829745878
 SemEval2018-T3-train-taskA_emoji_4-emoji_frequency_non_ironic_vs_ironic_18.txt,40,0.12230919765165993
@@ -1025,6 +1061,7 @@ SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_non_ironic_19.txt,334,1.02128
 SemEval2018-T3-train-taskA_emoji_3-gram_frequency_ironic_19.txt,55,0.16817514677103418
 SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_non_ironic_9.txt,216,0.6604696673189778
 SemEval2018-T3-train-taskA_emoji_3-gram_frequency_7.txt,26,0.0795009784735754
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_20.txt,3482,10.647015655577306
 SemEval2018-T3-train-taskA_emoji_3-emoji_frequency_ironic_vs_non_ironic_(ratio)_17.txt,59,0.18040606653620728
 SemEval2018-T3-train-taskA_emoji_3-emoji_frequency_ironic_vs_non_ironic_8.txt,15,0.04586594911937425
 SemEval2018-T3-train-taskA_emoji_1-gram_frequency_non_ironic_vs_ironic_(ratio)_12.txt,132,0.40362035225048487
@@ -1089,8 +1126,10 @@ SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_ironic_vs_non_ironic_17.txt,3
 SemEval2018-T3-train-taskA_emoji_4-emoji_frequency_non_ironic_vs_ironic_3.txt,25,0.07644324853228568
 SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_ironic_19.txt,322,0.9845890410958873
 SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_ironic_vs_non_ironic_(ratio)_1.txt,3,0.009173189823869166
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_3.txt,795,2.430895303326807
 SemEval2018-T3-train-taskA_emoji_4-emoji_frequency_non_ironic_3.txt,25,0.07644324853228568
 SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_ironic_vs_non_ironic_(ratio)_17.txt,171,0.5228718199608551
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_non_ironic_19.txt,3154,9.644080234833666
 SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_19.txt,116,0.3546966731898209
 SemEval2018-T3-train-taskA_emoji_4-gram_frequency_non_ironic_vs_ironic_20.txt,42,0.12842465753425358
 SemEval2018-T3-train-taskA_emoji_3-emoji_frequency_ironic_vs_non_ironic_4.txt,9,0.027519569471621708
@@ -1109,6 +1148,7 @@ SemEval2018-T3-train-taskA_emoji_1-emoji_frequency_non_ironic_vs_ironic_(ratio)_
 SemEval2018-T3-train-taskA_emoji_3-gram_frequency_ironic_vs_non_ironic_(ratio)_19.txt,50,0.15288649706458557
 SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_non_ironic_1.txt,21,0.06421232876712679
 SemEval2018-T3-train-taskA_emoji_3-gram_frequency_16.txt,53,0.16205968688845473
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_non_ironic_4.txt,917,2.8039383561643803
 SemEval2018-T3-train-taskA_emoji_3-gram_frequency_14.txt,47,0.1437133072407022
 SemEval2018-T3-train-taskA_emoji_2-emoji_frequency_non_ironic_vs_ironic_(ratio)_5.txt,45,0.13759784735812275
 SemEval2018-T3-train-taskA_emoji_4-emoji_frequency_ironic_vs_non_ironic_2.txt,5,0.01528864970646282

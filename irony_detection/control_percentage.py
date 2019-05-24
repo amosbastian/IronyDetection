@@ -80,13 +80,15 @@ def random_words(frequencies, removal_percentages):
     return word_dictionary
 
 
-def ngram_removal(filename, ngrams, n):
+def ngram_removal(type, ngrams, n):
     dataset_filename = "SemEval2018-T3-train-taskA_emoji.txt"
+    out_filename = f"CONTROL-PERCENTAGE-{dataset_filename[:-4]}_{type}_{n}.txt"
 
-    logging.info(f"Removing top n-grams from {dataset_filename} using "
-                 f"{filename} (CONTROL)")
+    if n > 1:
+        dataset_filename = f"CONTROL-PERCENTAGE-{dataset_filename[:-4]}_{type}_{n - 1}.txt"
 
-    out_filename = f"CONTROL-PERCENTAGE-{dataset_filename[:-4]}_{filename[:-4]}_{n}.txt"
+    logging.info(f"Removing n-grams from {dataset_filename} "
+                 "(CONTROL-PERCENTAGE)")
 
     fout = open(f"{training_directory}{out_filename}", "w+")
     fout.write("Tweet index\tLabel\tTweet text\n")
@@ -111,6 +113,8 @@ def ngram_removal(filename, ngrams, n):
             split_line[2] = tweet
             fout.write("\t".join(split_line) + "\n")
 
+    fout.close()
+
 
 def save_control_csv(word_dictionary, type):
     with open(f"{DIR_PATH}/control_percentage_{type}.csv", "a") as f:
@@ -127,6 +131,10 @@ def control_handler():
 
     ironic_words = random_words(ironic_frequencies, ironic_percentages)
     non_ironic_words = random_words(non_ironic_frequencies, non_ironic_percentages)
+
+    for n in range(1, 21):
+        ngram_removal("ironic", ironic_words[n], n)
+        ngram_removal("non_ironic", non_ironic_words[n], n)
 
     save_control_csv(ironic_words, "ironic")
     save_control_csv(non_ironic_words, "non_ironic")
