@@ -14,6 +14,19 @@ filename_ironic = "1-gram_frequency_ironic.txt"
 filename_non_ironic = "1-gram_frequency_non_ironic.txt"
 
 
+def get_ngrams(filename):
+    ngram_list = []
+    with open(f"{output_directory}{filename}") as frequency_file:
+        for line in frequency_file.readlines():
+            if line.lower().startswith("position\t"):
+                continue
+
+            _, ngram = line.split("\t")[1:]
+            ngram_list.append(ngram.replace("\n", ""))
+
+    return ngram_list
+
+
 def ngram_frequencies(filename):
     frequency_list = []
     with open(f"{output_directory}{filename}") as frequency_file:
@@ -55,7 +68,10 @@ def percentages(filename):
     return percentages_list
 
 
-def random_words(frequencies, removal_percentages):
+def random_words(ngrams, removal_percentages):
+    all_frequencies = ngram_frequencies(filename_all)
+    frequencies = [x for x in all_frequencies if x[0] in ngrams]
+
     total_words = sum([x[1] for x in ngram_frequencies(filename_all)])
     word_dictionary = dict((i, []) for i in range(1, 21))
 
@@ -75,7 +91,7 @@ def random_words(frequencies, removal_percentages):
             number_to_remove -= frequency
             frequencies.remove(frequency_tuple)
 
-        word_dictionary[i + 1] = words_to_remove
+        word_dictionary[i + 1] = list(set(words_to_remove))
 
     return word_dictionary
 
@@ -123,14 +139,14 @@ def save_control_csv(word_dictionary, type):
 
 
 def control_handler():
-    ironic_frequencies = ngram_frequencies(filename_ironic)
+    ironic_ngrams = get_ngrams(filename_ironic)
     ironic_percentages = percentages("ironic")
 
-    non_ironic_frequencies = ngram_frequencies(filename_non_ironic)
+    non_ironic_ngrams = get_ngrams(filename_non_ironic)
     non_ironic_percentages = percentages("non_ironic")
 
-    ironic_words = random_words(ironic_frequencies, ironic_percentages)
-    non_ironic_words = random_words(non_ironic_frequencies, non_ironic_percentages)
+    ironic_words = random_words(ironic_ngrams, ironic_percentages)
+    non_ironic_words = random_words(non_ironic_ngrams, non_ironic_percentages)
 
     for n in range(1, 21):
         ngram_removal("ironic", ironic_words[n], n)
