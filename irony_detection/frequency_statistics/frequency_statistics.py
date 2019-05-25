@@ -13,6 +13,7 @@ default = ["SemEval2018-T3-train-taskA_emoji_tokenised.txt",
            "SemEval2018-T3-train-taskA_emoji.txt",
            "README.md"]
 
+
 def percentage(part, whole):
     return 100 * float(part) / float(whole)
 
@@ -198,6 +199,8 @@ def save_output(output_directory, key, filenames, total_words):
     fout = open(f"{DIR_PATH}/{output_directory}/words_removed_{key}.csv", "w+")
     fout.write("Training Set,Number of Words Removed,Percentage of Words Removed\n")
 
+    results = []
+
     for filename in filenames:
         if filename in default:
             continue
@@ -206,8 +209,10 @@ def save_output(output_directory, key, filenames, total_words):
         percentage_removed = 100 - percentage(word_count, total_words)
         words_removed = total_words - word_count
         fout.write(f"{filename},{words_removed},{percentage_removed}\n")
+        results.append((int(filename.split("_")[-1][:-4]), percentage_removed))
 
     fout.close()
+    return results
 
 
 def frequency_handler():
@@ -222,6 +227,30 @@ def frequency_handler():
         save_output(output_directory, key, filenames, total_words)
 
 
+def plot_control_percentage(ironic, non_ironic):
+    sorted_ironic = sorted(ironic, key=lambda x: int(x[0]))
+    sorted_non_ironic = sorted(non_ironic, key=lambda x: int(x[0]))
+
+    x_ironic = [result[0] for result in sorted_ironic]
+    y_ironic = [result[1] for result in sorted_ironic]
+
+    x_non_ironic = [result[0] for result in sorted_non_ironic]
+    y_non_ironic = [result[1] for result in sorted_non_ironic]
+
+    fig, ax = plt.subplots()
+    ax.plot(x_ironic, y_ironic, label="Ironic")
+    ax.plot(x_non_ironic, y_non_ironic, label="Non-ironic")
+
+    title = "Control percentage"
+    figures_directory = "control_percentage_figures"
+
+    ax.set(ylabel="% words removed", title="\n".join(wrap(title, 60)))
+    ax.grid()
+    matplotlib.pyplot.xticks(x_ironic)
+
+    fig.savefig(f"{DIR_PATH}/{figures_directory}/1-grams/1-gram_all.png")
+
+
 def control_percentage():
     ironic_filenames = []
     non_ironic_filenames = []
@@ -231,14 +260,16 @@ def control_percentage():
         if "control-percentage" not in filename.lower():
             continue
 
-        if "non_ironic" in filename.lower():
+        if "non_ironic_vs_ironic" in filename.lower():
             non_ironic_filenames.append(filename)
         else:
             ironic_filenames.append(filename)
 
-    save_output("control_percentage_output", "ironic", ironic_filenames, total_words)
-    save_output("control_percentage_output", "non_ironic", non_ironic_filenames, total_words)
-
+    result_ironic = save_output("control_percentage_output", "ironic",
+                                ironic_filenames, total_words)
+    result_non_ironic = save_output("control_percentage_output", "non_ironic",
+                                    non_ironic_filenames, total_words)
+    plot_control_percentage(result_ironic, result_non_ironic)
 
 if __name__ == "__main__":
     # frequency_handler()

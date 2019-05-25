@@ -10,8 +10,8 @@ output_directory = f"{DIR_PATH}/../output/"
 word_removal_directory = f"{DIR_PATH}/frequency_statistics/output/"
 
 filename_all = "1-gram_frequency.txt"
-filename_ironic = "1-gram_frequency_ironic.txt"
-filename_non_ironic = "1-gram_frequency_non_ironic.txt"
+filename_ironic = "1-gram_frequency_ironic_vs_non_ironic.txt"
+filename_non_ironic = "1-gram_frequency_non_ironic_vs_ironic.txt"
 
 
 def get_ngrams(filename):
@@ -140,20 +140,20 @@ def save_control_csv(word_dictionary, type):
 
 def control_handler():
     ironic_ngrams = get_ngrams(filename_ironic)
-    ironic_percentages = percentages("ironic")
+    ironic_percentages = percentages("ironic_vs_non_ironic")
 
     non_ironic_ngrams = get_ngrams(filename_non_ironic)
-    non_ironic_percentages = percentages("non_ironic")
+    non_ironic_percentages = percentages("non_ironic_vs_ironic")
 
     ironic_words = random_words(ironic_ngrams, ironic_percentages)
     non_ironic_words = random_words(non_ironic_ngrams, non_ironic_percentages)
 
     for n in range(1, 21):
-        ngram_removal("ironic", ironic_words[n], n)
-        ngram_removal("non_ironic", non_ironic_words[n], n)
+        ngram_removal("ironic_vs_non_ironic", ironic_words[n], n)
+        ngram_removal("non_ironic_vs_ironic", non_ironic_words[n], n)
 
-    save_control_csv(ironic_words, "ironic")
-    save_control_csv(non_ironic_words, "non_ironic")
+    save_control_csv(ironic_words, "ironic_vs_non_ironic")
+    save_control_csv(non_ironic_words, "non_ironic_vs_ironic")
 
 if __name__ == "__main__":
     control_handler()
