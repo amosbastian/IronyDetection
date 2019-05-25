@@ -22,15 +22,21 @@ def plot_handler(n, control=False):
     plot_dictionary = {
         "emoji_frequency_ironic_vs_non_ironic_(ratio)": ["Ironic vs. Non-ironic (ratio)"],
         "emoji_frequency_ironic_vs_non_ironic": ["Ironic vs. Non-ironic"],
+<<<<<<< HEAD
         "emoji_frequency_non_ironic_vs_ironic_(ratio)": ["Non-ironic vs. Ironic"],
         "emoji_frequency_non_ironic_vs_ironic": ["Non-ironic vs. Ironic"],
+=======
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
         "emoji_frequency_ironic": ["Ironic"],
         "emoji_frequency_non_ironic": ["Non-ironic"],
         "emoji_frequency": ["All"],
         "gram_frequency_ironic_vs_non_ironic_(ratio)": ["Ironic vs. Non-ironic (ratio)"],
         "gram_frequency_ironic_vs_non_ironic": ["Ironic vs. Non-ironic"],
+<<<<<<< HEAD
         "gram_frequency_non_ironic_vs_ironic_(ratio)": ["Non-ironic vs. Ironic (ratio)"],
         "gram_frequency_non_ironic_vs_ironic": ["Non-ironic vs. Ironic"],
+=======
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
         "gram_frequency_ironic": ["Ironic"],
         "gram_frequency_non_ironic": ["Non-ironic"],
         "gram_frequency": ["All"],

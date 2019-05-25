@@ -47,7 +47,11 @@ Tweet index	Label	Tweet text
 46	1	luv
 47	1	naturopaths sell aromatic herbs way apothecaries sell noxious poisons #naturopath #apothecary #herb #poison
 48	0	dixiessixty goal season goal jon sammels #arsenal vs #manutd httpstcowpbptdt lloydgallagher bigtant
+<<<<<<< HEAD
 49	0	really else fish besides fish rbrnetwork theoldbreed indyenigma diverdown
+=======
+49	0	really else fish besides fish theoldbreed indyenigma diverdown
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 50	0	malesurvivor think safe bet wont fit crime
 51	1	impossible late start dress right #studing #university #lazy
 52	1	youre already running late car wont start #fantasticfriday
@@ -156,7 +160,11 @@ Tweet index	Label	Tweet text
 155	0	nfullers week joke jessica niece :raising_hands:
 156	0	mooseebooks seriously bought giant tv play box
 157	1	haha fuck says someone #truegentlemen
+<<<<<<< HEAD
 158	0	dont want hall eventually ask trade hope consistency message change much might start
+=======
+158	0	dont want hall eventually ask trade hope consistency message change much might well start
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 159	0	roberth everydaysexism wow though sorry grandpa use mac days #welcometotheworld #neverarguewithfools
 160	0	myzzcryz liked first one never cared enough watch sequels said watch #reboot #chrispratt
 161	0	#workingbluesenoughvacationdays httptcozstyqirut
@@ -179,10 +187,17 @@ Tweet index	Label	Tweet text
 178	1	hours sleep yay loving life
 179	1	wow look hotshot #isthatajoke
 180	0	dirtydeathdog cant wait play #bfhardline beta <laugh> #epic
+<<<<<<< HEAD
 181	1	contemplating responding charliejnwalkers tweet saying remains pride sure go
 182	1	four hours sounds
 183	1	district line major signal failures delays fantastic
 184	1	scottishfa raecomm championsleague sure end
+=======
+181	1	contemplating responding charliejnwalkers tweet saying remains pride sure well go
+182	1	four hours sounds
+183	1	district line major signal failures delays fantastic
+184	1	scottishfa raecomm championsleague sure end well
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 185	0	country music photo editing type morning :sun: :musical_notes:
 186	1	lol micromax promising service httptcoaxgutgod
 187	0	hard choose pleasure pain #girl #december #love #dream #strong httptcogzhoqfty
@@ -230,7 +245,11 @@ Tweet index	Label	Tweet text
 229	1	really looked forward waking early finals
 230	1	listening fox news background opening presents
 231	1	bad anonymous occupy people support white supremacy
+<<<<<<< HEAD
 232	1	bigdomino cnn thats completely reasoned thought argument youve changed mind #ferguson
+=======
+232	1	bigdomino cnn well thats completely well reasoned thought argument youve changed mind #ferguson
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 233	0	badassbraeden yeah still laughing even funny still laughing
 234	0	bgracely hornchris gotta joke tootin horn somewhere
 235	0	gotta go thirdforthfifthwheels #winterthought
@@ -239,7 +258,11 @@ Tweet index	Label	Tweet text
 238	0	earn cash posting tweeting httptcomsbhz get started httptcogvibizzsh #cashforcontainers #homebasedbusiness #lol
 239	1	oracle windows
 240	1	last classes #trill except finals whoop
+<<<<<<< HEAD
 241	0	blame everything else rbrnetwork freeman thelexzane ananvii abptrocket drpeniswrinkle kusun
+=======
+241	0	blame everything else freeman thelexzane ananvii abptrocket drpeniswrinkle kusun
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 242	1	dropping oil prices thank goodness #pmharper worked hard trying tie economy oil gas sector #cdnpoli
 243	0	singing along songs korean part english sing korean accent
 244	0	save folks offically cntrlaltdeleting week
@@ -338,9 +361,15 @@ Tweet index	Label	Tweet text
 337	0	yes reply public dollars used whats lack transparency around union pearson express #topoli
 338	1	joeandevan boomeresiason cc boomerandcarton jets pick draft irony blows mind #nfldraft
 339	1	amandakaschube like need reminded bp cup competition dates
+<<<<<<< HEAD
 340	0	antoniaz montgomerysue torontoist awesome deserved
 341	1	forexeric heidilrn unsavoryagents yes vote satan hillaryclinton
 342	0	moron one ever said ball square #strawman rbrnetwork rattleduck
+=======
+340	0	antoniaz montgomerysue torontoist awesome well deserved
+341	1	forexeric heidilrn unsavoryagents yes vote satan hillaryclinton
+342	0	moron one ever said ball square #strawman rattleduck
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 343	0	friends bring fucked males females fool
 344	0	dollygarland garrettaddison thats quite interesting number coz managed read surely make
 345	1	markxa know abt goal never crossed line #holierthanthou #henryisalegend
@@ -417,7 +446,11 @@ Tweet index	Label	Tweet text
 416	1	drapermark susanbnj must tolerant embrace peaceful islamic faith muslims peaceful brothers
 417	1	today ill lecture crm investments shareholder value excited :smirking_face: sleepy :sleeping_face:
 418	1	cant wait hour drive back home #betarocks
+<<<<<<< HEAD
 419	1	left lunch home swansea canteen outdoing generous priced portion food httptcojnkffk
+=======
+419	1	left lunch home swansea canteen outdoing generous well priced portion food httptcojnkffk
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 420	1	stlguy sounds like plan strong kingdseals
 421	1	double standards always thing
 422	0	#has #seen wwwmonstermmorpg com since parados #monstermmorpg #bean
@@ -467,7 +500,11 @@ Tweet index	Label	Tweet text
 466	0	einstein would amused strider jumping around time
 467	1	bliss
 468	0	last #riga #self #finnishgirl #businesswoman pk riga hotel httptcosvvqcifq
+<<<<<<< HEAD
 469	1	mornings going nicely :smiling_face_with_smiling_eyes:
+=======
+469	1	well mornings going nicely :smiling_face_with_smiling_eyes:
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 470	1	sad dont christmas jumper missguided super fast delivery :thumbs_up:
 471	1	waking everyday running miles favorite part army
 472	0	#germany #ecbs #weidmann #says #german #growth #may #be #better #than #expected httptcogxfscmqy via reuters
@@ -500,17 +537,29 @@ Tweet index	Label	Tweet text
 499	1	cia report highlighting stark differences bt present former administrations approach natl security
 500	0	guys seriously need try game httpstcowyuhzbcrwj #bananabonanza
 501	1	jcolenc noticing
+<<<<<<< HEAD
 502	1	weekend overnow #twittertime dhave nice monday
+=======
+502	1	well weekend overnow #twittertime dhave nice monday
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 503	0	glad
 504	0	adambelz leeosp vruno whenever write anything word immigration happy theres backandforth
 505	0	kemmerinb gunna sit
 506	1	chxta probably contracted free
 507	1	xfinity yay another outage less hours keep good
+<<<<<<< HEAD
 508	0	happy birthday sillybrendan toasting honor tonight bradword casecleveland
 509	0	literally plans every night entire vacation
 510	1	kevin durant pts shooting nigga inefficient since came
 511	1	always look super cute guys come fix stuff condo
 512	0	lkoch wow neat nice mini tour belfast think asked one xmas larry
+=======
+508	0	happy birthday sillybrendan well toasting honor tonight bradword casecleveland
+509	0	literally plans every night entire vacation
+510	1	kevin durant pts shooting nigga inefficient since came
+511	1	always look super cute guys come fix stuff condo
+512	0	lkoch wow neat nice mini tour belfast well think asked one xmas larry
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 513	0	#new #color #new #beginning #new #goals #dont #giveup #never #life #should #be #easy skdar httptcobzmxeki
 514	0	randball gotta hand really :clapping_hands: :clapping_hands: :clapping_hands:
 515	1	jeremycee oldmanebro thank god kanye giving unknowns help
@@ -555,7 +604,11 @@ Tweet index	Label	Tweet text
 554	1	aaaaaaaaand back er hooray sleep
 555	1	yes course use lot daybecause violence illegal
 556	1	dads letting drywall christmas always wanted
+<<<<<<< HEAD
 557	0	feeling
+=======
+557	0	feeling well
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 558	1	httptcoxmzzkikn christmas number #accounting #absolutetosh
 559	0	#italy #cabinet #approves #first #planks #renzis #labour #reform httptcoiyhgkbcoks via reuters
 560	1	th anniversary #freespeechmovement brave critic abandoned conformist #press
@@ -571,7 +624,11 @@ Tweet index	Label	Tweet text
 570	0	moz randfish woot woot whiteboard fridays favorite friday activity
 571	1	life requires one strong different times wear red briefs pants u need lil lust see em #toomuch
 572	0	kelseydpeterson getmerked sign guest
+<<<<<<< HEAD
 573	0	squeezemylemon realsports mapleleafs torhabsfan played matt played
+=======
+573	0	squeezemylemon realsports mapleleafs torhabsfan well played matt well played
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 574	1	wheres rodgers brigade
 575	0	blissfulbrann holy fuck lyrics fit good movie interstellar #chills #freakyfriday
 576	0	porygon #are found wwwmonstermmorpg com #wild bulbiest follow monstermmorpg #working
@@ -580,7 +637,11 @@ Tweet index	Label	Tweet text
 579	0	today :pensive_face:
 580	0	timdobbsphoto need excuse pop open dream mcdonalds grand cru #champagneexcuses
 581	1	experts doubt north korea hacked sony « cbs dallas fort worth httptcoxiwlufege #hacker #hacked
+<<<<<<< HEAD
 582	0	ceddamack raiders guess see things play tonight
+=======
+582	0	ceddamack raiders guess well see things play tonight
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 583	1	hello flu thank fooling thinking gone missed much #flu #yaay
 584	1	word #trust coming mouths #holder #obama rich #hypocrisy #irs #racebaiters
 585	1	show valid railcard shes charges full price anyway service tamworth londonmidland
@@ -618,8 +679,13 @@ Tweet index	Label	Tweet text
 617	1	theotherrosie really big supporter #lawenforcement like sheriff clarke said theatrics #ferguson foxandfriends
 618	0	feels like playing refs games clean wall block refs took away ugh
 619	0	ed sheeran smashing tunes victorias secret catwalk ginger legend
+<<<<<<< HEAD
 620	0	sharnawoodcock pain isnt makin feel sick anymore :thumbs_up: better big fella :Santa_Claus: :wrapped_gift:
 621	0	thing racists theres one race human rbrnetwork dolphinman theoldbreed justin coutopanda
+=======
+620	0	sharnawoodcock well pain isnt makin feel sick anymore :thumbs_up: better big fella :Santa_Claus: :wrapped_gift:
+621	0	thing racists theres one race human dolphinman theoldbreed justin coutopanda
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 622	0	days left enter myfairdaily kalliee erincondren planner #giveaway httptcojglyhsmwiy enter win #bbloggers #lbloggers
 623	0	walking mall front group guys hear even momma got jesus lol everyone loves polly
 624	0	okay snow sleet #howaboutno :face_screaming_in_fear:
@@ -731,7 +797,11 @@ Tweet index	Label	Tweet text
 730	0	year wld filled w rainy days wont cool cool way start e year
 731	0	httptcodpkklcjp #landlord collects #rent #honeybees #beehive #bee #honey #italianbees httptcozpdngfwtjh
 732	1	bought people gifts year :flushed_face: :flushed_face: :flushed_face: :flushed_face: httptcodcnwttapn
+<<<<<<< HEAD
 733	1	done tesco making possible get emergency messages member staff
+=======
+733	1	well done tesco making possible get emergency messages member staff
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 734	1	remember buy books online waterstonesmk #servicewithasmile
 735	1	spenergypeople see response time dms good phone lines hold music legendary service guys
 736	1	clearing everything koenig #serialbrady
@@ -794,7 +864,11 @@ Tweet index	Label	Tweet text
 793	0	jaketapper cah tweetin bout #blacklivesmatter #icantbreathe newsvid httptcomsbhz start httptcogvibizzsh beatsebt
 794	0	smile smile smile smile smile million people staring pissed pants manic laughter smile
 795	0	casper friendly ghost levels #thingsmichelleobamathinksareracist
+<<<<<<< HEAD
 796	0	theres hotnostrilsrfun rapmonster rbrnetwork officialgumby orionslu httptcocwaaywuwgl
+=======
+796	0	theres hotnostrilsrfun rapmonster officialgumby orionslu httptcocwaaywuwgl
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 797	1	sufisal muhammadali putting muhammad ali find twitter id quite blasphemic offending
 798	0	yeah english stop saying janes word
 799	0	communitymike whats law parking residential street opposite side road facing wrong direction #curiosity
@@ -813,14 +887,22 @@ Tweet index	Label	Tweet text
 812	1	jordan fan :face_with_tongue: hater httptcodanzveuucm
 813	1	radhikamukherji r women considered inferiormen society even wen families men need womendecision making
 814	0	errolnazareth sevangeline shakurasaida fine company
+<<<<<<< HEAD
 815	1	thats becky london nan big girl dan start new job tomorrow #feelingabandoned haha
+=======
+815	1	well thats becky london nan big girl dan start new job tomorrow #feelingabandoned haha
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 816	1	okay know playing loud music quiet hours perfectly fine #somepplhavetostudy
 817	0	tombull matthewbull american mum
 818	0	beginning look lot like intravenous #selfie #xmasdo #xmasparty officialmrstorm httptcourmujxpdg
 819	1	loving family
 820	0	probably scarred cleaning lady half death didnt know home
 821	1	even ive already called cops twice damn job :unamused_face:
+<<<<<<< HEAD
 822	0	crap mac shutdown corrupted iphoto hours rebuild ahead might eat drink #festivefattybumbum
+=======
+822	0	crap mac shutdown corrupted iphoto hours rebuild ahead might well eat drink #festivefattybumbum
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 823	1	hear bloodcurdling scream morning
 824	1	successfully avoided everything season ive seen theres one timeline indy
 825	1	faonews amisoutlook amazingly small opportunities sustain life going feeding animals kill
@@ -839,7 +921,11 @@ Tweet index	Label	Tweet text
 838	0	restlessduncan srduncan accept way
 839	1	jimmyk motherjones nickbaumann wilfully ignorant embraces hate still think hold moral high ground
 840	0	kylecgshore kiss cheek next time enough
+<<<<<<< HEAD
 841	1	salgovernale clue talking thats first
+=======
+841	1	salgovernale clue talking well thats first
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 842	0	bad game last night way go packers httptcovvsvsenmf
 843	1	stillfallin christmas
 844	0	florida authorities say police officer shot killed httptcodjcjlrberw #florida #tarponsprings #tampabay
@@ -870,7 +956,11 @@ Tweet index	Label	Tweet text
 869	0	listening rain bed #peacefull :umbrella_with_rain_drops: :sweat_droplets: :droplet: :sweat_droplets:
 870	1	yay getting pink eye #whyme
 871	1	wow banter willhart
+<<<<<<< HEAD
 872	1	dna richard iii thrown surprise evidence infidelity family tree httptcotxuztrnax shocked
+=======
+872	1	dna richard iii thrown surprise evidence infidelity family tree httptcotxuztrnax well shocked
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 873	1	isnt sleep hours feel like million bucks #gettingold
 874	0	dianewilmot deray honestly havent clue id hope since surveillance cams ive seen show barely anything
 875	1	people dont get best
@@ -884,7 +974,11 @@ Tweet index	Label	Tweet text
 883	0	holding rule anymore
 884	0	burninggoats doubt wonder xmas makes ppl crazy
 885	0	ladysandersfarm intreegme get yo lazy butt outta bed didnt proving point
+<<<<<<< HEAD
 886	0	much lies deceit timowensby rbrnetwork theoldbreed realsmartguy dfwalertsctc
+=======
+886	0	much lies deceit timowensby theoldbreed realsmartguy dfwalertsctc
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 887	0	liked youtube video jdfromny httptcooebmtmipj wwe k ps career mode ep triple threat wwe k
 888	1	hey hltvorg denialcsgo decided want replace denialfugly new player #nashuffle nobody safe #csgo
 889	0	time change crazy everyones like woohoo lets live life like slept yet
@@ -939,14 +1033,22 @@ Tweet index	Label	Tweet text
 938	1	nypdnews yall job keeping people safe
 939	0	dont think would matter metric english doesnt understand math chillytimbo brownbearmike
 940	0	wings dont wings course youre boy
+<<<<<<< HEAD
 941	1	uofl student ticket policy thought plan good job sga #ihateyou
+=======
+941	1	uofl student ticket policy well thought plan good job sga #ihateyou
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 942	0	:oncoming_fist: #fistbump #positive #focus #starve #distractions #werk #motivation #createpath #uplift #success httptconzppxjf
 943	0	rants pregnant judged buying bottle wine poses weekly belly pics front wine rack #fail
 944	1	defothedinosaur get around
 945	0	gazthegooner right know john parker pisshead parkzthedon
 946	0	#femalecondoms #herpes #curable #can #be #managed httptcoytcnyzx
 947	1	eventful weekend
+<<<<<<< HEAD
 948	1	mls ussoccer awesome destination site high population k super easy get lots sites
+=======
+948	1	mls ussoccer awesome destination site high population k super easy get lots sites well
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 949	0	kyle wont let yeah grown ass men fast cars gives af lol bring room hooah see ya bit
 950	0	parlett thats wrong watch films follow twitter
 951	0	rorywhite nickstafford cant remember last time saw newish gti ever seen golf r changed
@@ -982,7 +1084,11 @@ Tweet index	Label	Tweet text
 981	0	didnt time wake bake mornin winnin :pouting_face: :person_gesturing_NO:
 982	1	awake early christmasfeeling ill banging head bunged shivering need
 983	0	beginning look lot like christmas #timetodecorate #tistheseason httptcomhcrrzn
+<<<<<<< HEAD
 984	1	sony studio bosses employees dont worry fine httptcoyvvoiiwxtu know id feel better httptcousutlmo
+=======
+984	1	sony studio bosses employees dont worry well fine httptcoyvvoiiwxtu know id feel better httptcousutlmo
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 985	1	patrickmchall wakondaclub bet fairways greens rival wakondagrounds
 986	1	jordanbrown haha quite right mate coonty workers got aff easy al tell ye oot workin like hamilton accie :person_wearing_turban: :face_with_tears_of_joy: :face_with_tears_of_joy:
 987	1	lifes like bird pretty cute craps head #gharwapsi #hoursofcrazy #poweroffive #lol #anticonversionlaw
@@ -1160,7 +1266,11 @@ Tweet index	Label	Tweet text
 1159	0	plan using last battery listening countingcrows countingcrowsto get #big ☆
 1160	0	walked #frodos path #lotr #lotro geek quota week already met p heres start httptcomxhpcrm
 1161	1	one essay submitted start next one #thirdyearlife #loveit
+<<<<<<< HEAD
 1162	0	ayjamal yara restless soul youre aware like skin perspective comforting expects
+=======
+1162	0	ayjamal yara restless soul youre well aware like skin perspective comforting expects
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 1163	0	local theater physical marquee letters rearranged duty change interview
 1164	1	night nights row job #nightauditadventures #resortjobprobs #fb
 1165	0	girl learn cherylchx #it #is #everyday #chezza #sometimes #do #work #andnotgetcaughtbymr httptcoxutpdaao
@@ -1171,7 +1281,11 @@ Tweet index	Label	Tweet text
 1170	1	snap chatting sister times #shelovesitwhenisendthatmany httptcoxbdpphfx
 1171	0	lagopodous like rabbits footnot easy drop conversation never know
 1172	1	standard christmas newsfeed diamonds everywhere everyones engaged congratulations #original #christmas #engaged
+<<<<<<< HEAD
 1173	0	fits outlaw brownbearmike realsmartguy rbrnetwork
+=======
+1173	0	fits outlaw brownbearmike realsmartguy
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 1174	0	#to #our #countries #special #dedication #to #ma #syrian #friends #youre #alone #instalisten #by #heart #voice httptcojohthvbkow
 1175	0	people instagram put pointless hashtags #can #you
 1176	0	currently bus wanker hate people :confused_face: #stinks #gobonastick #dickheads
@@ -1183,7 +1297,11 @@ Tweet index	Label	Tweet text
 1182	0	iiiiiiii best boyfriend everrrrrrrrr
 1183	1	bombguy chelsea fan natural sentimental arsenal fan natural stupidspelling
 1184	0	sidewalkjr passing judgment many binds actually creativity vodka versatile liquor
+<<<<<<< HEAD
 1185	0	yet cant provide source shows rbrnetwork theoldbreed dolphinman josephwarrendr justin coutopanda
+=======
+1185	0	yet cant provide source shows theoldbreed dolphinman josephwarrendr justin coutopanda
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 1186	1	eu servers
 1187	1	answer one criticize #feminism httptcosytcfcgcrq #uglygirlsclub #fourthwave
 1188	1	justanothermo islam religion peace christians hurt anybody get right
@@ -1216,7 +1334,11 @@ Tweet index	Label	Tweet text
 1215	0	hosienation relaxed waiting facts come ive listened blaine hammer players similar
 1216	0	insidethehall ryancorazza keep seeing noon pm eastern noon eastern need plan morning accordingly please advise
 1217	1	appreciate raheelk spared suspending accounts blocked us
+<<<<<<< HEAD
 1218	0	delusion people killed cuz obama black myth rbrnetwork jonjaygroden ananvii joehilgerman freeman
+=======
+1218	0	delusion people killed cuz obama black myth jonjaygroden ananvii joehilgerman freeman
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 1219	0	mehrtarar thei reights protest ends rights begin cannot take right earning livelihood free movement
 1220	0	baking bread hanging glass wine leggings sweatshirt football heaven snow hadnt turned rain
 1221	1	cringetalk geob imagine never would guessed
@@ -1293,13 +1415,21 @@ Tweet index	Label	Tweet text
 1292	0	#comptroller #citibike #stations #bikes #being #properly #maintained citibike gears expand httptcobpaikunft
 1293	1	ooh someone knows click unfollow button impressed #beforecoffee httptcocmuldrd
 1294	0	ready get drunk tonight
+<<<<<<< HEAD
 1295	0	think new sweater bought maternity sweater super cozy
+=======
+1295	0	think new sweater bought maternity sweater well super cozy
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 1296	1	double dance boys makes monday worthwhile
 1297	1	obama wants closer relations marxist nation shocked tell shocked #cuba httptcoasakjz
 1298	0	bigbillybmoney haha aint :face_with_tears_of_joy: :face_with_tears_of_joy: aint even seen em
 1299	1	able think self angry nice gift #itsacurse
 1300	0	johnmcternan thesnp paper supported blackshirts
+<<<<<<< HEAD
 1301	0	one lying rbrnetwork theoldbreed dolphinman josephwarrendr justin
+=======
+1301	0	one lying theoldbreed dolphinman josephwarrendr justin
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 1302	1	cool know people talk shit night
 1303	0	espngreeny osu opponents record much better baylor outright conf champs wins tms winning records baylor
 1304	1	dudleymbc happy new year reply
@@ -1310,7 +1440,11 @@ Tweet index	Label	Tweet text
 1309	0	oomf chowed moms car
 1310	0	stop living like king youre one using real life #exodusmovie
 1311	1	think might artist #flowers #pretty #love #beautiful #painting #art #nature #lchs httptcogqzyivapn
+<<<<<<< HEAD
 1312	0	really stoked going abroad fall next week thats completely different reasons #imissmyboyfriend
+=======
+1312	0	really stoked going abroad fall well next week thats completely different reasons #imissmyboyfriend
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 1313	0	look behind tara ella starbucks #mytopgirls omni santry httptcofdskpjc
 1314	1	fausalien dont like yellow things yellow hi kapitana nagaaral kmi ni gelalienlover asdfghjkl huhuhu
 1315	0	ya jerry heck
@@ -1330,7 +1464,11 @@ Tweet index	Label	Tweet text
 1329	0	cleartalkingcom google drive review httptcoaqdorjwb
 1330	0	tumblrthings dont say anything retweet httpstcoovhjyzfp lloydgallagher bigtant boydie
 1331	1	lucasharriss ok hope rain soon :confounded_face:
+<<<<<<< HEAD
 1332	0	httptcoizmygpj nope fit definition rbrnetwork joehilgerman freeman ananvii abptrocket
+=======
+1332	0	httptcoizmygpj nope fit definition joehilgerman freeman ananvii abptrocket
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 1333	1	second row late mta service definitely worth fare hike httptcodqmsbjvhg
 1334	1	yeah diet :pizza: httptcorfgzvzubc
 1335	0	#notcies #eu ebola leaves hundreds thousands facing hunger three worsthit countries httptcogxser
@@ -1341,7 +1479,11 @@ Tweet index	Label	Tweet text
 1340	1	j cole song virgin virgin #musicalgenius #innovation
 1341	0	spotjso update spot good w post stuff blog httptcojummwiayt
 1342	0	httptcojurdwnoqz ugly christmas sweater womens sz httptcorcxsqxzkw
+<<<<<<< HEAD
 1343	1	way start morning :grinning_face:
+=======
+1343	1	well way start morning :grinning_face:
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 1344	1	see play wasnt reviewed wasnt even close httptcojwulbpvm
 1345	0	catching rhoa #love drama
 1346	0	never #australia dependant govt money #sad #socialism #unrealistic people spend earn
@@ -1366,7 +1508,11 @@ Tweet index	Label	Tweet text
 1365	1	kirsch united hope people missed connecting flights take joy wonderful experience #sorrynotsorry
 1366	1	novusordowatch caught attendinggasp latin mass
 1367	1	gcash stay tweet cant stay hang #truebro
+<<<<<<< HEAD
 1368	0	lol website suspended jumbopaperclips rbrnetwork
+=======
+1368	0	lol website suspended jumbopaperclips
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 1369	1	worst consider things like conservative tribune credible source information totally bias
 1370	0	#redsox rt pgammo meanwhile caguas rusney castillo goes mammoth hr man alex cora loves guy
 1371	1	want thank elenat tumblr spoiling #bofa honestly fuck #martinfreeman
@@ -1409,7 +1555,11 @@ Tweet index	Label	Tweet text
 1408	1	caboosemichaelj yeah see success ladies totally excited sex
 1409	0	senate confirmed new cabinet member nd amendment supporters furious senate confirme httptcotvnfnwtn
 1410	1	nothing studied test fckn greaaat
+<<<<<<< HEAD
 1411	0	marty posts facts proof make shit rbrnetwork indyenigma theoldbreed justin
+=======
+1411	0	marty posts facts proof make shit indyenigma theoldbreed justin
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 1412	0	falling asleep sound rain relaxing :umbrella_with_rain_drops:
 1413	0	okso two #absolutefavs ashamed admit actually cried httptcopedcoimlg
 1414	0	rbr tonybarrettimes indeed two people opposite political divide slinging insults twitter coming
@@ -1456,7 +1606,11 @@ Tweet index	Label	Tweet text
 1455	1	dannyv bagmansgirl yes want honor someone died ill go steal tv xbox whatever else feel entitled
 1456	0	long gold layered pipe necklace set leave email invoice httptcokoeosmzcpj
 1457	1	dang selfie game point drinking #actuallysorry
+<<<<<<< HEAD
 1458	0	lot laughs kenmalinowski hiramabiffarch hotnostrilsrfun prlgl rbrnetwork
+=======
+1458	0	lot laughs kenmalinowski hiramabiffarch hotnostrilsrfun prlgl
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 1459	1	three geeks bring whole microsoft sony networksmy annual firewall subscription worth every penny
 1460	1	good news #aca husbands insurance premium jumped one year hooray #thanksobama
 1461	0	aadashusain :thumbs_up:
@@ -1527,7 +1681,11 @@ Tweet index	Label	Tweet text
 1526	1	people #billcosby looked upon ones coming defense isnt raceits rape httptcopdgucppkv
 1527	0	louiserosalia good banter :face_with_tears_of_joy: :face_with_tears_of_joy: :face_with_tears_of_joy:
 1528	1	yelled #someone #telling #something #youre #mum #mistake wasit actually mum
+<<<<<<< HEAD
 1529	0	also top lol timowensby rbrnetwork indyenigma calfreedommom
+=======
+1529	0	also top lol timowensby indyenigma calfreedommom
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 1530	0	ninawmakeup #chance #till #january #this good #you always make #smile
 1531	0	doesnt convey want though #twitterproblemsforme
 1532	0	hard take people seriously cant spell think grammar type cracker
@@ -1550,7 +1708,11 @@ Tweet index	Label	Tweet text
 1549	1	sat yet another stationary fgw train minutes explanation driver service top drawer
 1550	0	bavarianshady u simply cant win viggiekopite twitter fight p
 1551	0	dariusporter ohhhh yeaah girl favorite couple wants come hang lol bruh wtf lol
+<<<<<<< HEAD
 1552	0	proof lacks reading comprehension skills ananvii rbrnetwork dolphinman graves
+=======
+1552	0	proof lacks reading comprehension skills ananvii dolphinman graves
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 1553	0	mmmm rt phemoi temmyafc faved nifemisinzu southampton wins ill post nude
 1554	1	hmrccustomers know wrong dont httptcowsrvrcs please help us #euvat
 1555	0	tomwookieford agreed cool place rocks
@@ -1572,7 +1734,11 @@ Tweet index	Label	Tweet text
 1571	1	bush govt prosecuted geneva convention torture cia methods vp admission exposed httptcosvjclfub
 1572	1	got email law school saying people infringed copyright referencing properlyin essay copyright
 1573	0	mom tonight refreshing real tbt
+<<<<<<< HEAD
 1574	0	means square kevinlicklider timowensby rbrnetwork indyenigma calfreedommom
+=======
+1574	0	means square kevinlicklider timowensby indyenigma calfreedommom
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 1575	1	bold bakery sarahbrockett #bakery httptcozlzxadz
 1576	1	maldives water yet experiencing water shortage
 1577	0	getting night heli shots crotchedmountain chudnor djiglobal gopro #nh #skiing httptcozslkcptkx
@@ -1645,7 +1811,11 @@ Tweet index	Label	Tweet text
 1644	0	moon pictures like moon made light bulbs #the #moon httptcooeufgvo
 1645	0	schmidtstl automaticg think backed playoffs playoff matchup tacocorp v gronkey punch
 1646	0	yeah official #im #crazy httptcobgcldjqir
+<<<<<<< HEAD
 1647	1	looks like back square batie bridge going go #boldandbeautiful
+=======
+1647	1	well looks like back square batie bridge going go well #boldandbeautiful
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 1648	1	antoineraps edifyin fuck ho saturnalia nigga
 1649	1	karenlawford adding #traditional makes statement #legit #justbecause
 1650	1	policepoliceacp officers defensethat scary looking phone #blacklivesmatter
@@ -1684,7 +1854,11 @@ Tweet index	Label	Tweet text
 1683	0	#uniform #unity #lmfair
 1684	1	nsroadspolicing stedspolice look audi driver breaking lawhow strange
 1685	1	#ptiukgonawazgocampaignshow peaceful protest infront lancaster house greet pm respect
+<<<<<<< HEAD
 1686	0	khushsundar true sissy said fit live man
+=======
+1686	0	khushsundar true sissy well said fit live man
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 1687	1	even math cells theyre working ahhh hahaha #mathisfun
 1688	0	kitty aaaaint happy #cat #happy #today httptcoaydmcszjd
 1689	1	woke crying nightmare gonna
@@ -1750,11 +1924,19 @@ Tweet index	Label	Tweet text
 1749	0	wickedly ignorant bout black americans see racism everything figment imagination #cannot trumped jcan hypocrisy #nnn
 1750	0	#bibotour #champwithin founder traciscampbell wciuyouandme wdancers ricky gracey #chicago #women
 1751	0	youre moment every secondevery scent every floweras girl
+<<<<<<< HEAD
 1752	0	find one local pd reported drop rbrnetwork theoldbreed dolphinman josephwarrendr justin coutopanda
 1753	1	next spring httptconbwoumke
 1754	0	chillax bitches :squinting_face_with_tongue: face squished #fireball httptcojniwuipj
 1755	0	cnsnews anncoulter obamanomics fs unemployment insurance economic stimulus ft pt frees us follow dreams
 1756	1	greateranglia really done another short formation get stand rd row kel lls
+=======
+1752	0	find one local pd reported drop theoldbreed dolphinman josephwarrendr justin coutopanda
+1753	1	next spring httptconbwoumke
+1754	0	chillax bitches :squinting_face_with_tongue: face squished #fireball httptcojniwuipj
+1755	0	cnsnews anncoulter obamanomics fs unemployment insurance economic stimulus ft pt frees us follow dreams
+1756	1	greateranglia really well done another short formation get stand rd row kel lls
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 1757	1	winning sweet hamper christmas fete jellybean damaged tooth
 1758	0	getting shit together like #isthenewturnup #myboos #funtimes #makingmemories httptcoelqmutdtws
 1759	1	ahhh finals week ill throw kegger house survivors :skull: :skull: :skull: #motivating #rip
@@ -1825,7 +2007,11 @@ Tweet index	Label	Tweet text
 1824	0	#legend says stand front mirrorsay cant even times girl #yogapants appeargive pumpkin spice latte
 1825	0	photo invoices sent httptcowzlnwsrjel
 1826	0	read httptcohbeabhklw news #media #struggle #to #save #obama #the #country
+<<<<<<< HEAD
 1827	1	lol done swans
+=======
+1827	1	lol well done swans
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 1828	0	found picture lisazamorano trying kill #bff #seniorbrunch moutain meadows httptcozdsetth
 1829	0	reubenzj unfortunately hey daddy didnt think daughterd gaming fifa youraveragedaddysgirl
 1830	0	dream celebrate christmas :smiling_face_with_heart-eyes:
@@ -1850,7 +2036,11 @@ Tweet index	Label	Tweet text
 1849	0	say something stupid beat
 1850	0	#notcies #eu end fish discards delayed end fish discards delayed copyright ep eu reporter vie httptcotnekjjc
 1851	0	really sure still alive writing paper right napping instead sleeping weekends isnt cutting #finals
+<<<<<<< HEAD
 1852	0	stuartscott espn rest stuart man grace courage may family find peace
+=======
+1852	0	stuartscott espn rest well stuart man grace courage may family find peace
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 1853	0	weerockwhisky apricots pears boozy belgian goodness winter warmer
 1854	0	couldnt asked better night
 1855	0	themacallan weerockwhisky patio tumbler goodness #macdays
@@ -1890,7 +2080,11 @@ Tweet index	Label	Tweet text
 1889	1	kevinncyrus lol course best
 1890	0	jodalatour foxnews would said gop africans brought want pick cotton
 1891	1	kaist come give chance trust worthy sns warriors followers uberright wing portal
+<<<<<<< HEAD
 1892	1	went
+=======
+1892	1	went well
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 1893	1	tobiashellquist wow fluent finnish
 1894	1	#socialmedia perfectly normal talk people pictures
 1895	1	cyclocosm hey word ban home page like two three times though #acknowledgementisfirststep
@@ -1911,8 +2105,13 @@ Tweet index	Label	Tweet text
 1910	1	wonderful weather havingi might need sunscreen today :smiling_face_with_sunglasses: 󾍁
 1911	1	grocery store pharmacy sensible grpress offices apartments owners monroe avenue factory ponder options
 1912	1	least tan looks good :flushed_face: :face_with_tears_of_joy: need learn appreciate pale skin :see-no-evil_monkey:
+<<<<<<< HEAD
 1913	1	today gonna :OK_hand:
 1914	0	complex word understand bigjdog rbrnetwork dywanwii
+=======
+1913	1	well today gonna :OK_hand:
+1914	0	complex word understand bigjdog dywanwii
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 1915	1	beauty :unamused_face: #manitibaprobs
 1916	1	cramps front husbands knee back yeah sleep seems possible tonight #suckitmothernature
 1917	1	shame third time pregnant duchess wears designer dress third time new york httptcohkxpfkkwz via femail
@@ -1921,7 +2120,11 @@ Tweet index	Label	Tweet text
 1920	0	photo abstract tribal bubble jumpsuit size sxl cost httptcocjnjwxwnu
 1921	1	sums week really #nursinglife #workingdaysandnights httptcoxvnjbissy
 1922	1	kseaboldt pace kcroyals activity winter meetings giving vertigo
+<<<<<<< HEAD
 1923	0	says women blacks different species dolphinman rbrnetwork harrythetech timowensby theoldbreed
+=======
+1923	0	says women blacks different species dolphinman harrythetech timowensby theoldbreed
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 1924	0	literally get pamper tomorrow get cray julia raven bay #whatmorecouldaguyaskfor
 1925	1	excited spend next hours school
 1926	1	er sucked tonight urgent care tomorrow yay #fml #ugh
@@ -1986,7 +2189,11 @@ Tweet index	Label	Tweet text
 1985	1	laboureoin davidcameron would need take twitter peddle piffle
 1986	0	lovely first friends family swim sort cleanse curry less time social media time others #startasyoumeantogoon
 1987	0	craigavonc left blue bin per calendar lifted checked website indicates green bin happy
+<<<<<<< HEAD
 1988	0	outtaherrrrreee face peyton today one league hope td passes theyre thomas lol
+=======
+1988	0	outtaherrrrreee well face peyton today one league hope td passes theyre thomas lol
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 1989	0	good game bad game good game bad game :expressionless_face: :pouting_face:
 1990	0	half hour walk #proud
 1991	1	shotofpatron #noodlescene anyone zen wait #deadhenry #bouncebackannie silly makes sense
@@ -2092,7 +2299,11 @@ Tweet index	Label	Tweet text
 2091	0	decent christmas party change added bonus missing last train change
 2092	1	fact sick birthday
 2093	0	knitting scarf yes knitting scarf manual dexterity like knitting problems
+<<<<<<< HEAD
 2094	0	look dont #wrestling #sportsentertainment #wwe #raw #smackdown #co httpstcoftcvajyult
+=======
+2094	0	well look dont #wrestling #sportsentertainment #wwe #raw #smackdown #co httpstcoftcvajyult
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 2095	0	mediumvillain deray blacks arent elite enough die hospitals remember thats reserved police casualties
 2096	1	serjeyms years class picture awesome really awesome :oncoming_fist: hahahahaha :face_with_tears_of_joy:
 2097	1	surprised coworker going show today #flurries
@@ -2106,7 +2317,11 @@ Tweet index	Label	Tweet text
 2105	1	ay hours nareceive ko rin yung message haha globe
 2106	0	fntfc flaminggrillpub ntfc saintsrugby whats prices like
 2107	1	#moment dont wanna tell person fuckin someone else cause might go fuck else lol oo #truth
+<<<<<<< HEAD
 2108	1	sooooooo #bears looking offensive coordinator bodes next season #whatamess
+=======
+2108	1	sooooooo #bears looking offensive coordinator well bodes well next season #whatamess
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 2109	1	hindu tries defend religion communal #gharwapsi
 2110	0	mehi dont think suit person neil caffrey #tvquotes #whitecollar
 2111	1	cramming psych pages brain even though learnt cramming isnt effective
@@ -2146,7 +2361,11 @@ Tweet index	Label	Tweet text
 2145	1	suuzeeen grabe affordable na affordable
 2146	0	ajmaljami negation sometimes peace achieved way accept content constant searing
 2147	0	perty sunrise #fs timelapse mountain httptcovybcamsya
+<<<<<<< HEAD
 2148	1	always good time losing bay lylestor lampi bubbs
+=======
+2148	1	well always good time losing bay lylestor lampi bubbs
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 2149	0	promote #edm would add jazz ppl anything b popular #soobvious #wtf #attentionwhore #keepitreal httptcopivorik
 2150	0	jowrotethis wow rickman really looks lot different blond hair
 2151	0	grandma tells made raviolis eat know yelled back fuck dont want ravioli nigga
@@ -2160,7 +2379,11 @@ Tweet index	Label	Tweet text
 2159	1	depfm think joke
 2160	0	could jihadist hello jihadists radical islamists terrorists #sydneysiege #daesh
 2161	1	mericamcfreedom salon bill makes much money making speeches hes honest
+<<<<<<< HEAD
 2162	1	today started
+=======
+2162	1	well today started
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 2163	0	friendly reminder #motto #advice #you #are #defined #by #your #past httptcowmppiygw
 2164	1	arent loving snow #stockport httptcojhglxaun
 2165	0	go subscribe boutitmen youtube httpstcowlhydaexl good music
@@ -2225,7 +2448,11 @@ Tweet index	Label	Tweet text
 2224	1	bed time stories awesome #theyllgiveyounightmares #ohwell #youaskedforit
 2225	1	thankful stat teacher dropping lowest quiz cupofjavi #lifesaved
 2226	1	sounds like loads snow freezing drizzle rain kmh winds httptcofeapvmwlc
+<<<<<<< HEAD
 2227	1	harrys daleharris rioferdy done twitter followers succeeded life
+=======
+2227	1	harrys daleharris rioferdy well done twitter followers succeeded life
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 2228	1	still gonna prime
 2229	0	ironspike rt randalolson baby name #datavizsource httptcojcrsursvld httptcobcvzigfnks
 2230	0	lets pretend
@@ -2336,7 +2563,11 @@ Tweet index	Label	Tweet text
 2336	0	diversechurch whales morning httptcoeuuxiufcb
 2337	0	get raw
 2338	0	bigbillybmoney haha noo dont need new boobs old ones fabulous :squinting_face_with_tongue: :squinting_face_with_tongue: :squinting_face_with_tongue:
+<<<<<<< HEAD
 2339	1	week start #fml
+=======
+2339	1	well week start #fml
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 2340	0	ggstudiocongratulations gg giving us amazing collections yrsin fact planning u prospictive :smiling_face_with_smiling_eyes:
 2341	0	#all #cute #dude #girlygirl #im #into #is please rt httptcolbihbe httptcothyrbdtg
 2342	1	keep telling friends busy need stop blowing cant stop httptcobhiwoejm
@@ -2467,12 +2698,20 @@ Tweet index	Label	Tweet text
 2467	0	ebcooper condone murder rude peoplefile nincompoop update
 2468	0	#minivan #mom #ebony #wilkerson #guilty #by #reason #of #insanity #judge florida judge ruled friday httptcojblfejxft
 2469	0	davebett long yeah directors cut longer :beaming_face_with_smiling_eyes: need see penguins madagascar btw
+<<<<<<< HEAD
 2470	0	today go fuck
+=======
+2470	0	well today go fuck
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 2471	1	working hour getting paid
 2472	1	wake grumpy #effroommates #yourtooloud #personalalarmclock #notnecessary #bequieter #ugh
 2473	1	luxtonr adamjamesberack lfc worst start years still efc funny #wishwehadamilstriker
 2474	0	kidding unacceptable httptcozijtdi
+<<<<<<< HEAD
 2475	1	nmu computer took poop hopefully start back later #whatdoiexpect #nmucomputersarethebest :expressionless_face: :unamused_face:
+=======
+2475	1	well nmu computer took poop hopefully start back later #whatdoiexpect #nmucomputersarethebest :expressionless_face: :unamused_face:
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 2476	1	one year eye twitching #sofun
 2477	0	case somebody breaks apartment :kitchen_knife: :dizzy_face: httptcoihkkayo
 2478	1	pizzaexpress still response pizzaexpress #greatcustomerrelations
@@ -2547,7 +2786,11 @@ Tweet index	Label	Tweet text
 2547	0	rockprincess texasfreedom progressive socialism liberalism must push victim hood idea order continue
 2548	1	cheers another good
 2549	0	#nuffsaid #stupidity #hadenough lols :face_with_tears_of_joy: :grinning_face_with_big_eyes: httptcoiszexuln
+<<<<<<< HEAD
 2550	1	end rt jonathancohn militarystyle tech finds way school district safety measures httptcougfwtczlvk
+=======
+2550	1	end well rt jonathancohn militarystyle tech finds way school district safety measures httptcougfwtczlvk
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 2551	1	missed middle school drama
 2552	1	mikecoogan sky news says died like dropped dead hospital lol real honest reporting
 2553	0	togepi shed wwwmonstermmorpg com #shell fally #monstermmorpg #bagon
@@ -2564,7 +2807,11 @@ Tweet index	Label	Tweet text
 2564	0	lennutrajektoor warmly ment
 2565	0	traceyjrobbins jrfuk link says requested page could foundwas intentional
 2566	1	samedwards fihhockey really absolutely belt especially towards tom boon #deeprespect
+<<<<<<< HEAD
 2567	1	bdstratton csimpsn arent brightest bulb chandelier
+=======
+2567	1	bdstratton csimpsn well arent brightest bulb chandelier
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 2568	1	xheeners know
 2569	1	remember one episode santana wanted dancer forgot altogether good times good times #glee
 2570	0	carriemuskat busterespn sounds like #cubs wont room lester battery mate david ross
@@ -2578,7 +2825,11 @@ Tweet index	Label	Tweet text
 2578	1	trust get people :OK_hand:
 2579	0	themindofjdubb fact liberal school system yes conservativeno make racistbefore accuse
 2580	0	#a #terror #organization #hamas man killed injured suspicious explosion #gaza httptcolznihvqhfi #israel
+<<<<<<< HEAD
 2581	0	redefined network mean lone moron talking youtube rbrnetwork joehilgerman freeman abptrocket
+=======
+2581	0	redefined network mean lone moron talking youtube joehilgerman freeman abptrocket
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 2582	0	voice reason crying wilderness hysteria httptcoghwycsmbw via sharethis
 2583	1	nhs
 2584	0	worlds biggest online job click get started httptcofpjozuijr
@@ -2644,7 +2895,11 @@ Tweet index	Label	Tweet text
 2644	1	hindus depend western researcherswho explain whats written hindu scriptures rupasubramanya #facepalm
 2645	1	managing fall flat face library stairs made top list proudest student moments
 2646	0	ahtohg connecting always look forward exchange thoughts n ideas #entrepreneur working #green n #sustainability
+<<<<<<< HEAD
 2647	0	btw dummy limits rbrnetwork freeman thelexzane ananvii abptrocket kusun
+=======
+2647	0	btw dummy limits freeman thelexzane ananvii abptrocket kusun
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 2648	0	need pillow fall asleep mymalsh
 2649	0	dont think get embarrassing trashy really scute
 2650	1	wow feel bad actually job teacher #stopcomplaing
@@ -2664,7 +2919,11 @@ Tweet index	Label	Tweet text
 2664	0	nyormnyorm iamedem nice original
 2665	0	miss close :pensive_face:
 2666	1	loveeee finals soooo much getting sleep best part :astonished_face: :pistol:
+<<<<<<< HEAD
 2667	0	race human dont look things myth races jtarleta rbrnetwork
+=======
+2667	0	race human dont look things myth races jtarleta
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 2668	0	still wondering popup save password still pops even tick keep logged sarcastic
 2669	1	slavetothemic sharing mike opinion means lot us #orisit
 2670	1	funny sit minutes noticed #mtvstars taylor swift
@@ -2725,12 +2984,20 @@ Tweet index	Label	Tweet text
 2725	0	ajb shouldnt yous school
 2726	0	photo #tea #art #abstract #color #colors #fun #how #are #you #artist #spainish #exhibit #spain httptcotjneqknwdo
 2727	1	absolutely appalling service fgw cant wait rise fares next month #excuses #joke
+<<<<<<< HEAD
 2728	0	wait citydata become fox news site soon theoldbreed rbrnetwork dolphinman josephwarrendr
+=======
+2728	0	wait citydata become fox news site soon theoldbreed dolphinman josephwarrendr
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 2729	0	everyone understand thats life #goodnight #gatecrasher httptcoxjqrtexs
 2730	1	nathanfillion resemblance uncanny #firefly castleabc httptcorywjkntuer
 2731	0	#canned #food #lot #of #space #interiordecor please rt httptcoteefiqvby httptcoqyjzjwz
 2732	1	christmas gift sweetest friends #blessed httptcofrftpjstn
+<<<<<<< HEAD
 2733	1	positive note stay awake another hour go get blood done #positivenote stuff
+=======
+2733	1	well positive note stay awake another hour go get blood done #positivenote stuff
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 2734	1	waking early morning #hockeytournament #reflife #zebras
 2735	0	cleartalkingcom cell phone accessories accessory kits audio adapters batteries bluetooth speakers httptcolxhkhdw
 2736	0	samanthaaababby completely suck sub haha going
@@ -2753,7 +3020,11 @@ Tweet index	Label	Tweet text
 2753	0	httptcoydnfilw #wow #crazykids httptcotflatecu fix #outofcontrolkids #drphi httptcodalkwpzk
 2754	0	#tblightning action along boards amaliearena #tampa #fuji #x #boltssocial #bethethunder httptcoexdruepkm
 2755	0	cut dominant tweeting finger milo tin see survivor
+<<<<<<< HEAD
 2756	1	comes another page paper #ilovecollege
+=======
+2756	1	well comes another page paper #ilovecollege
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 2757	0	gotta baps hoe thou
 2758	1	currently writing plan stop procrastinating leaving paper untouched
 2759	1	security engineers security guards #hackers #security
@@ -2799,13 +3070,21 @@ Tweet index	Label	Tweet text
 2799	1	hoodcertified hey profile says heart jesus cant bad foxdeportes erikareidt
 2800	1	imranj logic invention kuffar everything makes perfect sense like monkeys stoning monkeys
 2801	1	hunch herebut think steven gerrard leavingpossibly going mls #hesnodeed
+<<<<<<< HEAD
 2802	0	deepgreendesign since hes basically employee oil gas sector would make sense operates way
+=======
+2802	0	deepgreendesign well since hes basically employee oil gas sector would make sense operates way
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 2803	0	hangin dawg #eyesup httptcouzvbwcvze
 2804	1	sitting around listening sad music really helps depression
 2805	1	still awake sooo thats nice
 2806	1	watching move begin verisimilitude overpowering like back music business
 2807	1	mom
+<<<<<<< HEAD
 2808	0	people dont listenah guess theyll learn hard way
+=======
+2808	0	people dont listenah well guess theyll learn hard way
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 2809	0	imagine high school today delusional dad making fool internet thepanda
 2810	0	atviassist finally open <laugh> used youtube video help much httptcogazvpumbcd
 2811	0	funky taste chocolate chunky monkey cup george junglecup lick
@@ -2849,7 +3128,11 @@ Tweet index	Label	Tweet text
 2849	0	#bigdata #analytics look compared #cynefin causeeffect decision framework httpstcolhsxbgtl
 2850	1	smh yesterday losing voice today woke mean ass cough headache :unamused_face: christmas could better
 2851	0	#all #and #for #hot #rachel #style #fashionplease rt httptcoecfzuga httptcobfvvnqz
+<<<<<<< HEAD
 2852	1	thats living till yrs old #sarci #wit #low #constant httptconzmfsodo
+=======
+2852	1	well thats living till yrs old #sarci #wit #low #constant httptconzmfsodo
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 2853	0	#chattyman never fails make laugh chattyman talk show tv #loveit
 2854	0	women crazy ass shit guy least break heart
 2855	0	gioneeindia latest album free universe #supersonicwithgionee #mumbai
@@ -2887,7 +3170,11 @@ Tweet index	Label	Tweet text
 2887	0	check latest blog post myfairdaily pins really httptcoelhwjjj #lbloggers #lifestyle #pinterest #triedandtrue
 2888	0	going survive today wo breaking tears least twice possibly passing nighter library bad idea
 2889	0	much
+<<<<<<< HEAD
 2890	1	caminman beejaycee know erickson
+=======
+2890	1	caminman beejaycee know well erickson
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 2891	1	give people break say without supporting cast none works would made tosh nobody get #extras
 2892	0	lord mercy us worlds powerful nation ruled two families #bush #clinton #wasps #elxn httptcoaoghv
 2893	1	davidvitty watch blues chelseas course
@@ -2904,7 +3191,11 @@ Tweet index	Label	Tweet text
 2904	1	execute commands beginning job used end persons life thats
 2905	0	pret hmmm interesting jurys edging towards right side favourable #hopethathelps
 2906	1	lovely morning #delhi government bans #uber looks like rape stop delhi #aretheyserious
+<<<<<<< HEAD
 2907	1	grantolding watchedmaking clip drive rescored see easily composers httptcogkcyrulcpm
+=======
+2907	1	well grantolding watchedmaking clip drive rescored see easily composers httptcogkcyrulcpm
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 2908	0	staring boobs hunim looking heart #relax
 2909	0	fact color guard rifle named stitch got stitches plus stitch fav
 2910	0	crazyshikoh yes :thumbs_up: taste slight aroma tea :smiling_face_with_heart-eyes:
@@ -2950,11 +3241,19 @@ Tweet index	Label	Tweet text
 2950	0	melcarey lohan anymore :beaming_face_with_smiling_eyes: detox weeks new week tomorrow :face_blowing_a_kiss:
 2951	1	hate httptcoiywgasqrl
 2952	0	could stop losing planes would
+<<<<<<< HEAD
 2953	0	yeah funny hell hondolane brownbearmike billvanglahn dolphinman springthunder timowensby rbrnetwork
 2954	0	everyone got selfie stick year ive one ages saying #mainsteam #trendsetter
 2955	0	xiaomi passed uber worlds valuable #startup #growth #nyc httptcobfrosaw
 2956	0	xvictorialeighx annagmorey hell ever
 2957	1	jenwilliamsmen policygmcvo captures spirit devolution
+=======
+2953	0	yeah funny hell hondolane brownbearmike billvanglahn dolphinman springthunder timowensby
+2954	0	everyone got selfie stick year ive one ages saying #mainsteam #trendsetter
+2955	0	xiaomi passed uber worlds valuable #startup #growth #nyc httptcobfrosaw
+2956	0	xvictorialeighx annagmorey hell ever
+2957	1	jenwilliamsmen policygmcvo captures spirit devolution well
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 2958	1	sorry doesnt make sense make even tough thats going produce players httptcorjrlaqhwyd
 2959	0	really excited tomorrow means assignments responsibilities today
 2960	0	rachelryan jamieyuccas lifetimefitness wcco better
@@ -2965,7 +3264,11 @@ Tweet index	Label	Tweet text
 2965	0	torbay #dementia #action #alliance #living dementia #dying peter js ashley
 2966	1	kevdgrussing makes proud american
 2967	1	wouldve imagined #jakeplummer smokes weed regularly #outsidethelines
+<<<<<<< HEAD
 2968	1	done conservatives youre job skynews ae waiting times worst since records began httptcobkkezqteul
+=======
+2968	1	well done conservatives youre job skynews ae waiting times worst since records began httptcobkkezqteul
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 2969	1	cant retweet tweets important issue needs resolved
 2970	0	nice soak bubble bath :face_blowing_a_kiss: :face_blowing_a_kiss: :face_blowing_a_kiss:
 2971	0	thank wizardsmagic requiring facebook participate twitch chat really good way push away interested players
@@ -2994,7 +3297,11 @@ Tweet index	Label	Tweet text
 2994	0	keirsimmons another bush whitehouse
 2995	1	kateupton pretty better play free #skinnerbox game sure wont ask money levels
 2996	0	ã ¢ ëœå find hip hop mixtape promotion packages httptcovrhzyjisp
+<<<<<<< HEAD
 2997	1	throwing always :smiling_face:
+=======
+2997	1	well throwing always :smiling_face:
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 2998	1	hour nap ct scan hospital perfect timing
 2999	1	nice see continuity gender struggles
 3000	0	sad hear stuartscott passing family friends prayers today #rip espn
@@ -3030,7 +3337,11 @@ Tweet index	Label	Tweet text
 3030	0	clovis cartoon tuesday december httptcoijmbpmowvl #jamaicaobserverandroidapp via jamaicaobserver real mccoy
 3031	1	layin go bedcollege guys doesnt stress keep night make cry
 3032	0	pretty sure sat behind sorensensci mcdonalds drive peeked see movie playing :face_with_tears_of_joy:
+<<<<<<< HEAD
 3033	0	senrandpaul #chrischristy among republican voters #jebbush think could democrats dont like
+=======
+3033	0	senrandpaul #chrischristy well among republican voters #jebbush think could well democrats dont like
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 3034	1	nights like tonight reason able carry weekend #suchagoodweek
 3035	1	wow frizzy hair gets
 3036	0	dbrauer #goodmorning fromthebarn jontevlin plattmsp mplsgilyard
@@ -3077,7 +3388,11 @@ Tweet index	Label	Tweet text
 3077	0	#notcies #eu moscovici quizzed extra time three eu countries hit eurozone targets httptcoabmsdcl
 3078	1	fucking excited th wheel another new years eve cant blame anybody super picky men
 3079	1	going game tonight sounds
+<<<<<<< HEAD
 3080	0	stuhirst people ask would without mccormack
+=======
+3080	0	stuhirst well people ask would without mccormack
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 3081	1	important today family health rather nba action
 3082	1	twitterlesstrod best pickup lines
 3083	0	tmobilehelp iphone purchased fullprice still need mobile device unlock code internationally #uncarrier
@@ -3088,7 +3403,11 @@ Tweet index	Label	Tweet text
 3088	1	ready tax final
 3089	1	thesunshowbiz scottishsun please publicise
 3090	0	course #lucky #myloves #sundayfunday #lastsunday httptcoxhjpudk
+<<<<<<< HEAD
 3091	1	johnnyvolk espnnfl hmmm next year saying teams moved sd la
+=======
+3091	1	johnnyvolk espnnfl hmmm next year well saying teams moved sd la
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 3092	1	lmao may drunk level maturity time high lmfaoo :face_with_tears_of_joy: :face_with_tears_of_joy: :face_with_tears_of_joy:
 3093	0	null much know periods httptcoevksrfvqh via playbuzz
 3094	1	kwelch really
@@ -3158,10 +3477,17 @@ Tweet index	Label	Tweet text
 3158	1	arzuri yes mother wish
 3159	0	ill assume rex grossman starting
 3160	1	ironic selenagomez song come #ipod justinbieber song #selenagomez #justinbeiber
+<<<<<<< HEAD
 3161	0	lets forget rbrnetwork hotnostrilsrfun graves orionslu directrhythm httptcolqkpahsnj
 3162	1	walking school awesome
 3163	1	taking subway alone
 3164	1	vtuk shaunesden livingqwales rightsurveyors ha ha christmas cat looks impressed
+=======
+3161	0	lets forget hotnostrilsrfun graves orionslu directrhythm httptcolqkpahsnj
+3162	1	walking school awesome
+3163	1	taking subway alone
+3164	1	vtuk shaunesden livingqwales rightsurveyors ha ha christmas cat looks well impressed
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 3165	0	lexiirachelle cup tea total ass switched coffee :victory_hand: :face_with_tears_of_joy: :raising_hands:
 3166	0	#do #fear #to #be #eccentric #in #opinion #for #every #opinion #now #accepted #was #once #eccentric bertrand russell
 3167	0	instinctfitness thats steps dig
@@ -3226,7 +3552,11 @@ Tweet index	Label	Tweet text
 3226	0	abbyzeigler babyanimalpics splainittome mestudmuffin tweeted yesterday
 3227	1	yahoonews police turned violent truth headlines
 3228	0	injuryexpert make id beer ten talk baseball youre good dude
+<<<<<<< HEAD
 3229	1	sure cereal box decorated accurate representation know book
+=======
+3229	1	sure cereal box decorated accurate representation well know book
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 3230	1	hear trainees watching training dvd break sounds p
 3231	1	yet another angry #bluehand moron blocks one tweet p httpstcosdklzwrd
 3232	0	bmatcham whats ridiculous hashtagging #massive #twat
@@ -3252,11 +3582,19 @@ Tweet index	Label	Tweet text
 3252	0	wondering weather drinks tonight :Santa_Claus: :wrapped_gift: :wrapped_gift: :Christmas_tree:
 3253	1	going watch movie murder merry christmas
 3254	1	hours finally getting freaking sleep #happyholidays #alwaysworking
+<<<<<<< HEAD
 3255	1	obviously going go fantastically
 3256	1	tonygrossi way could mean track record whatsoever
 3257	1	casual stroll lauralobaugh rochester #funinthesun key west islands florida usa httptcoggazzib
 3258	0	coffee prioritizing mess trying #grown clearly
 3259	0	lol actually use email timowensby rbrnetwork dolphinman theoldbreed realsmartguy
+=======
+3255	1	obviously going go fantastically well
+3256	1	tonygrossi way could mean track record whatsoever
+3257	1	casual stroll lauralobaugh rochester #funinthesun key west islands florida usa httptcoggazzib
+3258	0	coffee prioritizing mess trying #grown clearly
+3259	0	lol actually use email timowensby dolphinman theoldbreed realsmartguy
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 3260	0	christmas less week away wtaf
 3261	1	making pair lungs tobacco boxes ive collected sculpture project httptcogiqmuizgve
 3262	0	socialnetnanny jamieyuccas big guy like sephora jcpenny killer
@@ -3278,7 +3616,11 @@ Tweet index	Label	Tweet text
 3278	0	colleague told uncle duped acid saddam husseins thugs usual office banter
 3279	0	kiwi heineken drinking steinlager pure new zealand breweries limited raglan golf club httptcosuzfbfxlk #photo
 3280	0	funny think literally books whatever want life httptcolxfkhvszm
+<<<<<<< HEAD
 3281	1	time feeling :unamused_face:
+=======
+3281	1	time feeling well :unamused_face:
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 3282	1	jenditchburn much important unilaterally remove restrictions oil gas sector
 3283	0	much tomorrow think maybe ill take nap
 3284	0	jimrome product aaron rodgers eric decker pretty good last year situational jordy cashes hell nonfactor
@@ -3328,7 +3670,11 @@ Tweet index	Label	Tweet text
 3328	0	ill go hawaiibye bye friends ill back :beaming_face_with_smiling_eyes: :beaming_face_with_smiling_eyes: #hawaii #trip #with #myfamiry #because #girlfriend httptcoerenxde
 3329	0	#blackonblackcrime comitted #blacklivesmatter #protest #ferguson httptcosepgzybzbpost rts httptcooxybfwwwb
 3330	0	#sometimes best thing dois think worry obsessjust faith everything willwork #best
+<<<<<<< HEAD
 3331	1	clearly wrote last tweet
+=======
+3331	1	well clearly wrote last tweet
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 3332	0	goodgary okay went court case got adjourned till january backs playing pain :weary_face: wbu x
 3333	0	miriammockbill must b #blood lol x
 3334	0	strong showing pittsburgh sports weekend steelers gopittfootball seasons #stillafan
@@ -3362,7 +3708,11 @@ Tweet index	Label	Tweet text
 3362	1	yeah cool fucking woke
 3363	1	aegis nice lazy search google scholar couldnt find free copy openaccess win
 3364	0	foxnews feds studies gays different species add word lesbian study double grant
+<<<<<<< HEAD
 3365	1	one thing another hey like new exhaust #pissed #grrrr
+=======
+3365	1	well one thing another hey like new exhaust #pissed #grrrr
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 3366	0	#elf #why moving httptcozcrjaowpqz
 3367	1	maths tutorial exactly need right #lol #struggle #uni
 3368	1	strange far everyone seems good moodmaybe actually napping still drunk still time grumpy return
@@ -3493,7 +3843,11 @@ Tweet index	Label	Tweet text
 3493	0	hungover ill end staying
 3494	0	thepdempsey ha yeah opinion like mine means nothing theyre
 3495	0	#ministers #criticised #over #train #deals httptcoiiqajzqixz
+<<<<<<< HEAD
 3496	1	nice text wake
+=======
+3496	1	well nice text wake
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 3497	1	adverts woman black say wont sleep weeksway sell :flushed_face: #sheneverleft
 3498	1	spiky popularity name spike us rt randalolson baby name #dataviz source httptcowamozlfwo
 3499	1	jfk baggage idiots accused stealing shit right outa luggageshockedummmm hire moronsput army
@@ -3522,7 +3876,11 @@ Tweet index	Label	Tweet text
 3522	1	photo celinedion pool via richpayne really brightened morning httptcoulhqftbcdp
 3523	0	philoliverh nat yea keep bardgin stuff dont even care get hobby sjws also babymetal nice
 3524	1	cant believe ash made funny #tolo #never httptcolnhrhaq
+<<<<<<< HEAD
 3525	1	likely end vaccines exactly need health human services httptcozhlvxwihfl
+=======
+3525	1	likely end well vaccines exactly need health human services httptcozhlvxwihfl
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 3526	1	sleeping best
 3527	1	cant even watch anime japan
 3528	0	finally went doctor feeling much better
@@ -3530,8 +3888,13 @@ Tweet index	Label	Tweet text
 3530	1	thank u u beautiful ppl talk extra loud trying watch tv guys much #srslyofallrooms
 3531	0	fitmotivator results excuses
 3532	1	got early get earlier bus miss waitwell starting wonderful
+<<<<<<< HEAD
 3533	1	today start might monday
 3534	1	washingtonpost wow things going change never heard opposition please vote works
+=======
+3533	1	well today start might well monday
+3534	1	washingtonpost wow things going change never heard opposition please vote works well
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 3535	1	slate personal protection nd amendment nothing see #smfh
 3536	1	oimagenta abt say sure whether oxford brookes uni part oxford uni yet cv impressive still
 3537	1	loooove arguing insurance company
@@ -3547,7 +3910,11 @@ Tweet index	Label	Tweet text
 3547	0	amen thats due respect httptcovwipkscxzv
 3548	1	olivianforever yeah nd #holdtheapplause hahaha lol
 3549	0	finals stress free cant wait :airplane: :red_heart: :Christmas_tree:
+<<<<<<< HEAD
 3550	0	never expected would lie much back first encountered rbrnetwork brianbullinger goteamslots
+=======
+3550	0	never expected would lie much back first encountered brianbullinger goteamslots
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 3551	1	collegegameday fanfreakintastic cant wait
 3552	1	point effort coming one direction left ° change direction
 3553	1	absolutely lesson half half today #zzzz
@@ -3597,9 +3964,15 @@ Tweet index	Label	Tweet text
 3597	1	decided change kings trunks gold logos green tights blue creative
 3598	1	ill watch #takemeout like rest country hope theres adorable girl ditsy hahahaha #zzzz
 3599	1	mrozatheist presumably evidence back claim simply feeling based interactions
+<<<<<<< HEAD
 3600	0	false slavery based economics rbrnetwork godlypghdad ananvii billvanglahn joehilgerman freeman
 3601	0	follow friday everyday help new ones feel good twitter
 3602	0	use instagram get free followers httptcopqbwadcdkj httptcojonycqo
+=======
+3600	0	false slavery based economics godlypghdad ananvii billvanglahn joehilgerman freeman
+3601	0	follow friday everyday help new ones feel good twitter
+3602	0	use instagram well get free followers httptcopqbwadcdkj httptcojonycqo
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 3603	1	easiest final life glad studied hours
 3604	0	lamar entertainment putting money making #tbt right team httptcojzfrsfxsbo
 3605	0	last movies ive seen alan arkin argo grudgematch absolutely rolling
@@ -3615,15 +3988,24 @@ Tweet index	Label	Tweet text
 3615	0	big lorenzdaley ur post cunts run photos :unamused_face: #its #a #struggle #its #a #problem check da n httptcoyhnuwmflme
 3616	1	called morning even hours sleep #thanks #splitshift
 3617	0	second major nosebleed halted training efforts nares means war
+<<<<<<< HEAD
 3618	0	srduncan restlessduncan worse better stark raving
+=======
+3618	0	srduncan restlessduncan well worse better stark raving
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 3619	0	prediction erv santana disinterested playing twins aka didnt offer enough
 3620	0	neilby parkzthedon :grinning_squinting_face: :grinning_squinting_face: would get floored one poke :see-no-evil_monkey: :smiling_face: :smiling_face: :OK_hand:
 3621	1	get friendzoned someone trying friendzonesigh
 3622	0	music always office currently listening kids bop hanukkah spotify recommendations #onlyatnycr
 3623	1	yo got ten squad members khajo chris said tears upyou aint gang member kevin responded #thuglife
 3624	0	livwarfield part article :clapping_hands: :purple_heart: :backhand_index_pointing_right: :cross_mark: :heavy_large_circle: :backhand_index_pointing_left: :folded_hands: :raising_hands: uexpected httptcowxikqowd
+<<<<<<< HEAD
 3625	0	know hands dont shoot thing proven false right rbrnetwork redtaurus
 3626	1	dear #usps address comes matter name theres mistake fix #thanksfortheannoyingnote
+=======
+3625	0	know hands dont shoot thing proven false right redtaurus
+3626	1	dear #usps address comes matter name theres mistake well fix #thanksfortheannoyingnote
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 3627	1	checked twitter snapchat cant tell someone please help :winking_face_with_tongue:
 3628	1	hell breaking loose ahhhh everybody freak
 3629	1	gavaskar freakin genius httpstcoiawlkmeoe
@@ -3696,7 +4078,11 @@ Tweet index	Label	Tweet text
 3696	0	incredible rt busterespn red sox agreement justin masterson
 3697	1	muayguyblog efcworldwide verbal submission
 3698	1	finals week plus hearing grandma icu amazing #letmegohome
+<<<<<<< HEAD
 3699	1	said nigelfarage one fed women breastfeeding ostentatiously
+=======
+3699	1	well said nigelfarage one fed women breastfeeding ostentatiously
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 3700	0	willuk bluebellgray like youre maldives #seaandwhitesands
 3701	1	good choice stay late lys #study #finalsweek #deathofme
 3702	1	rrhhmmss timechols penneeee agree see videos photos taken two hours shooting
@@ -3727,7 +4113,11 @@ Tweet index	Label	Tweet text
 3727	0	posting tweet doesnt mean dont use twitter
 3728	0	messed today guys thought #fail #itsabovemypaygradetocare #stillcare #lesigh
 3729	1	theres million trillion things id rather rather profound lyrics big sean profound #worstsongever
+<<<<<<< HEAD
 3730	1	congratulations adeleferguson deserved hope enjoy notification twitter httptcolzdddchx
+=======
+3730	1	congratulations adeleferguson well deserved hope enjoy notification twitter httptcolzdddchx
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 3731	1	sony got hacked man big surprise httptconhtetkigx
 3732	1	dodgers gonna miss therealmattkemp flashgjr hanleyramirez others least got howie kendrick #notstoked #wtf
 3733	0	latinapicsdaily gay bang
@@ -3758,7 +4148,11 @@ Tweet index	Label	Tweet text
 3758	1	far today ruined mug ive cried twice ive gotten things todo list done furious #goodstarttotheday
 3759	1	able sleep right
 3760	0	velvet rhinestones babydollsizemedium largecomes softly padded wired shelf cups httptcolspwyohrt
+<<<<<<< HEAD
 3761	0	nadhirxx say :bust_in_silhouette:
+=======
+3761	0	nadhirxx well say :bust_in_silhouette:
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 3762	1	wonderful time fiscal year
 3763	1	slate please book one appointments tell happens httptcozrilqmgiop
 3764	1	mornings start like
@@ -3774,7 +4168,11 @@ Tweet index	Label	Tweet text
 3774	1	gas hauling semi flammable signs driver smoking #truestory #i #texas
 3775	1	sexualgif ur boyfriend interrupts selfie httptcokvzvcznu yeah happens time
 3776	0	opedmarketing snowing canada hills minute hoping white christmas
+<<<<<<< HEAD
 3777	0	takes calls phone thing works thelexzane rbrnetwork billvanglahn ssgangle stevenswenson joehilgerman
+=======
+3777	0	takes calls phone thing works thelexzane billvanglahn ssgangle stevenswenson joehilgerman
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 3778	1	daddywarpig soulbrotherkab smirtington quietuswolfe #gamergate weaponized ninjas trained assasins creed
 3779	0	brrrrrrr kinda feel would go kitchen make coffee
 3780	0	jaketapper proof youll never lose betting intelligence electorate anyone believe word says
@@ -3829,6 +4227,10 @@ Tweet index	Label	Tweet text
 3829	1	glad theres typhoon go holiday weeks #fml
 3830	0	banditelli regarding psu president
 3831	0	banditelli still bothers see follow report
+<<<<<<< HEAD
 3832	0	ive listened woods going listen fob #nosurprisethere
+=======
+3832	0	well ive listened woods going listen fob #nosurprisethere
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 3833	0	hummingbirds #are #experts #at #hovering #after #all #background #motion hovering ability httptcoeihbpzr
 3834	0	thing missing session gym want every body part though cv #possible

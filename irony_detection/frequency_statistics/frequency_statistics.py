@@ -9,9 +9,12 @@ import matplotlib.pyplot as plt
 
 DIR_PATH = os.path.dirname(os.path.realpath(__file__))
 training_directory = f"{DIR_PATH}/../../datasets/train/"
+<<<<<<< HEAD
 default = ["SemEval2018-T3-train-taskA_emoji_tokenised.txt",
            "SemEval2018-T3-train-taskA_emoji.txt",
            "README.md"]
+=======
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 
 
 def percentage(part, whole):
@@ -45,7 +48,11 @@ def group_training_sets():
     }
 
     for filename in os.listdir(training_directory):
+<<<<<<< HEAD
         if "CONTROL" in filename and "PERCENTAGE" not in filename:
+=======
+        if "CONTROL" in filename:
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
             groups["control"].append(filename)
             continue
 
@@ -79,15 +86,21 @@ def plot_handler(n, control=False):
     plot_dictionary = {
         "emoji_frequency_ironic_vs_non_ironic_(ratio)": ["Ironic vs. Non-ironic (ratio)"],
         "emoji_frequency_ironic_vs_non_ironic": ["Ironic vs. Non-ironic"],
+<<<<<<< HEAD
         "emoji_frequency_non_ironic_vs_ironic_(ratio)": ["Non-ironic vs. Ironic"],
         "emoji_frequency_non_ironic_vs_ironic": ["Non-ironic vs. Ironic"],
+=======
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
         "emoji_frequency_ironic": ["Ironic"],
         "emoji_frequency_non_ironic": ["Non-ironic"],
         "emoji_frequency": ["All"],
         "gram_frequency_ironic_vs_non_ironic_(ratio)": ["Ironic vs. Non-ironic (ratio)"],
         "gram_frequency_ironic_vs_non_ironic": ["Ironic vs. Non-ironic"],
+<<<<<<< HEAD
         "gram_frequency_non_ironic_vs_ironic_(ratio)": ["Non-ironic vs. Ironic (ratio)"],
         "gram_frequency_non_ironic_vs_ironic": ["Non-ironic vs. Ironic"],
+=======
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
         "gram_frequency_ironic": ["Ironic"],
         "gram_frequency_non_ironic": ["Non-ironic"],
         "gram_frequency": ["All"],
@@ -195,6 +208,7 @@ def plot_all(n, plot_dictionary, control=False):
         fig.savefig(f"{DIR_PATH}/{figures_directory}/{n}-grams/{plot_filename}.png")
 
 
+<<<<<<< HEAD
 def save_output(output_directory, key, filenames, total_words):
     fout = open(f"{DIR_PATH}/{output_directory}/words_removed_{key}.csv", "w+")
     fout.write("Training Set,Number of Words Removed,Percentage of Words Removed\n")
@@ -216,6 +230,13 @@ def save_output(output_directory, key, filenames, total_words):
 
 
 def frequency_handler():
+=======
+def frequency_handler():
+    default = ["SemEval2018-T3-train-taskA_emoji_tokenised.txt",
+               "SemEval2018-T3-train-taskA_emoji.txt",
+               "README.md"]
+
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
     total_words = count_words(default[0])
     groups = group_training_sets()
 
@@ -224,6 +245,7 @@ def frequency_handler():
         if "control" in key:
             output_directory = "control_output"
 
+<<<<<<< HEAD
         save_output(output_directory, key, filenames, total_words)
 
 
@@ -278,3 +300,23 @@ if __name__ == "__main__":
 
     # plot_handler(1, True)
     control_percentage()
+=======
+        fout = open(f"{DIR_PATH}/{output_directory}/words_removed_{key}.csv", "w+")
+        fout.write("Training Set,Number of Words Removed,Percentage of Words Removed\n")
+
+        for filename in filenames:
+            if filename in default:
+                continue
+
+            word_count = count_words(filename)
+            percentage_removed = 100 - percentage(word_count, total_words)
+            words_removed = total_words - word_count
+            fout.write(f"{filename},{words_removed},{percentage_removed}\n")
+
+if __name__ == "__main__":
+    # frequency_handler()
+    for n in range(1, 5):
+        plot_handler(n)
+
+    plot_handler(1, True)
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2

@@ -88,7 +88,11 @@ class MLP(object):
         grads, _ = tf.clip_by_global_norm(tf.gradients(loss, tf_vars), self.clip_ratio)
         opt_op = opt_func.apply_gradients(zip(grads, tf_vars))
 
+<<<<<<< HEAD
         with tf.device('/device:GPU:0'):
+=======
+        with tf.device('/cpu:0'):
+>>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
             # Perform training
             config = tf.ConfigProto()
             config.gpu_options.allow_growth = True
