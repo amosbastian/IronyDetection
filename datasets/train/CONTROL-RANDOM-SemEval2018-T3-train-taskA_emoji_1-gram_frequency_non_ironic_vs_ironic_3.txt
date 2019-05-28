@@ -654,7 +654,7 @@ Tweet index	Label	Tweet text
 653	1	pediatric grand rounds statin therapy dyslipidemia obesity breakfast offer grand platters donuts
 654	1	stomach upset stomach upset
 655	0	thehockeynews thnryankennedy bad kid az hockey doesnt work desert
-656	0	ohio state putting #onwisconsin match
+656	0	state putting #onwisconsin match
 657	1	love see people read facebook private message dont reply
 658	0	need new boots birthday new boots mean like pairs :grinning_face_with_smiling_eyes: :grinning_face_with_smiling_eyes: #ineednewboots #boots
 659	1	ever caring rupertmurdoch gets see siege ending first great journalism
@@ -713,7 +713,7 @@ Tweet index	Label	Tweet text
 712	1	isnt best youre really tired finally get bed youre wide awake love
 713	1	travel tourism morningmy favourite lesson whoooo
 714	0	girl friends #drambarish upcoming movies httptcooxvfdavxl
-715	0	jtomase alexspeier bring back youkilis remember year old youk charged year old porcello dropped #redsox
+715	0	jtomase alexspeier bring back youkilis remember year old youk charged mound year old porcello dropped #redsox
 716	0	amazing love team scrap always find way indeed #dcrising
 717	0	iamgiant would wear #proudly size #nz hahaha
 718	1	san diego amazing never coming home
@@ -1922,7 +1922,7 @@ Tweet index	Label	Tweet text
 1921	1	sums week really #nursinglife #workingdaysandnights httptcoxvnjbissy
 1922	1	kseaboldt pace kcroyals activity winter meetings giving vertigo
 1923	0	says women blacks different species dolphinman rbrnetwork harrythetech timowensby theoldbreed
-1924	0	literally get day tomorrow get cray julia raven bay #whatmorecouldaguyaskfor
+1924	0	literally get pamper day tomorrow get cray julia raven bay #whatmorecouldaguyaskfor
 1925	1	excited spend next hours school
 1926	1	er sucked tonight urgent care tomorrow yay #fml #ugh
 1927	0	blessed stressed hype next year #hailstate httptcofbfgovp
@@ -2084,7 +2084,7 @@ Tweet index	Label	Tweet text
 2083	0	occupy rent free space cranial cavity lol mrnickking
 2084	0	foxwagner fight overtime firefighters dc viewed ruling control board permanent appeals court says #fb
 2085	1	great hours sleep
-2086	0	anamorphosisplacing objects viewed certain angle create image french artist bernard pras httptcoeqoovuw
+2086	0	anamorphosisplacing objects viewed certain angle create image french artist bernard pras
 2087	1	sahelanth queriernew hudds long shes victim shell white knights trying save damsel distress
 2088	0	sororities upset sisters making organizations look bad world sees act #sororitysisters
 2089	1	mid speech christmas lacrosse ball #flattering grand cafe httptcouuyeqdfv

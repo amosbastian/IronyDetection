@@ -272,9 +272,9 @@ def control_percentage():
     plot_control_percentage(result_ironic, result_non_ironic)
 
 if __name__ == "__main__":
-    # frequency_handler()
-    # for n in range(1, 5):
-    #     plot_handler(n)
+    frequency_handler()
+    for n in range(1, 5):
+        plot_handler(n)
 
-    # plot_handler(1, True)
+    plot_handler(1, True)
     control_percentage()

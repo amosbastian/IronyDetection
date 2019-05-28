@@ -1,5 +1,5 @@
 Training Set,Number of Words Removed,Percentage of Words Removed
-CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_vs_non_ironic_19.txt,1647,5.0360812133072415
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_vs_non_ironic_19.txt,1646,5.033023483365952
 CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_vs_non_ironic_17.txt,1384,4.231898238747547
 CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_vs_non_ironic_6.txt,710,2.170988258317024
 CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_vs_non_ironic_9.txt,955,2.9201320939334607
@@ -17,5 +17,5 @@ CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_vs_non_ironic_12.txt,
 CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_vs_non_ironic_16.txt,1350,4.12793542074364
 CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_vs_non_ironic_1.txt,209,0.6390655577299356
 CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_vs_non_ironic_15.txt,1314,4.017857142857139
-CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_vs_non_ironic_20.txt,1698,5.192025440313117
+CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_vs_non_ironic_20.txt,1697,5.188967710371827
 CONTROL-PERCENTAGE-SemEval2018-T3-train-taskA_emoji_ironic_vs_non_ironic_8.txt,851,2.602128180039145

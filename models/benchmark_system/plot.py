@@ -22,21 +22,15 @@ def plot_handler(n, control=False):
     plot_dictionary = {
         "emoji_frequency_ironic_vs_non_ironic_(ratio)": ["Ironic vs. Non-ironic (ratio)"],
         "emoji_frequency_ironic_vs_non_ironic": ["Ironic vs. Non-ironic"],
-<<<<<<< HEAD
         "emoji_frequency_non_ironic_vs_ironic_(ratio)": ["Non-ironic vs. Ironic"],
         "emoji_frequency_non_ironic_vs_ironic": ["Non-ironic vs. Ironic"],
-=======
->>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
         "emoji_frequency_ironic": ["Ironic"],
         "emoji_frequency_non_ironic": ["Non-ironic"],
         "emoji_frequency": ["All"],
         "gram_frequency_ironic_vs_non_ironic_(ratio)": ["Ironic vs. Non-ironic (ratio)"],
         "gram_frequency_ironic_vs_non_ironic": ["Ironic vs. Non-ironic"],
-<<<<<<< HEAD
         "gram_frequency_non_ironic_vs_ironic_(ratio)": ["Non-ironic vs. Ironic (ratio)"],
         "gram_frequency_non_ironic_vs_ironic": ["Non-ironic vs. Ironic"],
-=======
->>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
         "gram_frequency_ironic": ["Ironic"],
         "gram_frequency_non_ironic": ["Non-ironic"],
         "gram_frequency": ["All"],
@@ -202,6 +196,53 @@ def baseline():
 
     return baseline_results
 
+
+def plot_control_percentage(ironic, non_ironic):
+    baseline_results = baseline()
+
+    sorted_ironic = sorted(ironic, key=lambda x: int(x[0]))
+    sorted_non_ironic = sorted(non_ironic, key=lambda x: int(x[0]))
+
+    x_ironic = [result[0] for result in sorted_ironic]
+    y_ironic = [result[1] for result in sorted_ironic]
+
+    x_non_ironic = [result[0] for result in sorted_non_ironic]
+    y_non_ironic = [result[1] for result in sorted_non_ironic]
+
+    fig, ax = plt.subplots()
+    ax.plot(x_ironic, y_ironic, label="Ironic vs. non-ironic")
+    ax.plot(x_non_ironic, y_non_ironic, label="Non-ironic vs. ironic")
+
+    title = "Control percentage"
+    figures_directory = "control_percentage_figures"
+
+    ax.set(ylabel="F1", title="\n".join(wrap(title, 60)))
+    ax.grid()
+
+    ax.plot(x_ironic, [baseline_results[0]] * len(x_ironic), label="Default")
+    ax.plot(x_ironic, [baseline_results[1]] * len(x_ironic), label="Default (tokenised)")
+    matplotlib.pyplot.xticks(x_ironic)
+    plt.legend(loc="best")
+
+    fig.savefig(f"{DIR_PATH}/{figures_directory}/1-grams/1-gram_all.png")
+
+
+def control_percentage():
+    output_file = f"{DIR_PATH}/control_percentage_output/output_1.csv"
+
+    with open(output_file) as f:
+        reader = csv.reader(f)
+        result_list = list(reader)
+
+    ironic = [x for x in result_list if "ironic_vs_non_ironic" in x[0]]
+    non_ironic = [x for x in result_list if "non_ironic_vs_ironic" in x[0]]
+
+    ironic_results = [(int(x[0].split("_")[-1][:-4]), float(x[-1]))
+                      for x in ironic]
+    non_ironic_results = [(int(x[0].split("_")[-1][:-4]), float(x[-1]))
+                          for x in non_ironic]
+    plot_control_percentage(ironic_results, non_ironic_results)
+
 if __name__ == "__main__":
     # For normal plots do 1, 2, 3 and 4-grams / emojis
     for n in range(1, 5):
@@ -209,3 +250,4 @@ if __name__ == "__main__":
 
     # For the control plots, only plot 1-grams
     plot_handler(1, control=True)
+    control_percentage()

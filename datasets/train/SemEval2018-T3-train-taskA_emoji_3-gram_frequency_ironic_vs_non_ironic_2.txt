@@ -52,11 +52,7 @@ Tweet index	Label	Tweet text
 51	1	impossible late start dress right #studing #university #lazy
 52	1	youre already running late car wont start #fantasticfriday
 53	1	decided become boss free time time left whatsoever
-<<<<<<< HEAD
 54	0	loyalty vs self protection loyalty vs self protection loyalty vs self protection loyalty vs self protection
-=======
-54	0	vs self protection vs self protection vs self protection vs self protection
->>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 55	0	american kids starting playing super missing #summerk #kennychesney
 56	0	corporateknight dont know #monsanto among sustainable cos world sure parameters measured #net positive
 57	0	none big disruptive innovations lives come brainstorming bruce nussbaum httptcoituczpusb
@@ -571,11 +567,7 @@ Tweet index	Label	Tweet text
 566	0	jeffersonlake going original plans
 567	1	shaneonair large companies dont pay tax get away itindividuals dont pay get locked fined
 568	0	superaielman parlett upper deck definitely seemed like philly south
-<<<<<<< HEAD
 569	1	getting midterm back start day #badday
-=======
-569	1	getting midterm back great start day #badday
->>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 570	0	moz randfish woot woot whiteboard fridays favorite friday activity
 571	1	life requires one strong different times wear red briefs pants u need lil lust see em #toomuch
 572	0	kelseydpeterson getmerked sign guest
@@ -1949,10 +1941,6 @@ Tweet index	Label	Tweet text
 1940	1	thecheshirekat thelividpatriot ya cause country calm peaceful everyone arming
 1941	0	chriscomben lexpersaud priory contract wear hugely popular priory ultras #does #count #xxx
 1942	1	white people irrelevant point black community needs rise yall control #truth
-<<<<<<< HEAD
-=======
-1943	1	great start day
->>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 1944	1	fricken peachy today
 1945	0	thetweetofgod even think religious freedom restoration act michigan ridiculous
 1946	0	liamwalker term time son :grinning_squinting_face: :smiling_face_with_sunglasses:
@@ -2196,11 +2184,7 @@ Tweet index	Label	Tweet text
 2184	0	sammiecurtis oh man get everyone singing ready :face_with_tears_of_joy:
 2185	0	happy holidays boy carl #lrs #holiday #party :smirking_face: :smiling_face_with_sunglasses: :smiling_face_with_sunglasses: :Christmas_tree: :Christmas_tree: httptcokzvxglwoz
 2186	0	thank angiegalifas amazing candles new series victoriassecret #atmosphere httptcojohwvxvhb
-<<<<<<< HEAD
 2187	1	dissecting rat first period start day :mouse:
-=======
-2187	1	dissecting rat first period great start day :mouse:
->>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 2188	1	buzzing school monday
 2189	1	jamaicavaper hifistud outfrontcnn cnn point along tc proving #ecigs best advertiser teens
 2190	1	katerintree obvi every jesuit heretic :person_tipping_hand:
@@ -2549,10 +2533,6 @@ Tweet index	Label	Tweet text
 2533	1	sure lets go back work day leaving four hours ago #fb
 2534	1	ninjalikescheez python tweeter send
 2535	0	gilmanjames absolutely life shouldnt hard thing haha
-<<<<<<< HEAD
-=======
-2536	1	great start day
->>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 2537	1	richardcarter thanks thatll help loads
 2538	1	russia says ruble crisis reserves dive inflation climbs httptcokxvlkirdb via reuters
 2539	1	richarddawkins accusations twitter shouldnt count though ive heard tales talk replace grad jury sys

@@ -276,7 +276,6 @@ def relative_frequency_ratio(irony, non_irony):
     return sorted(frequency_ratios, key=lambda x: x[1], reverse=True)
 
 
-<<<<<<< HEAD
 def frequency_difference(frequency_1, frequency_2):
     """Returns a list of tuples containing an n-gram and the difference in
     relative frequency between the ironic and non-ironic tweets.
@@ -298,36 +297,11 @@ def frequency_difference(frequency_1, frequency_2):
         # Take the difference
         frequency_difference.append(
             (ngram, float(frequency) - ngram_frequency))
-=======
-def frequency_difference(irony, non_irony):
-    """Returns a list of tuples containing an n-gram and the difference in
-    relative frequency between the ironic and non-ironic tweets.
-
-    :param irony: A list of n-gram, frequency tuples generated from ironic
-        tweets.
-    :param non_irony: A list of n-gram, frequency tuples generated from
-        non-ironic tweets.
-    """
-    frequency_difference = []
-
-    for ngram, frequency in non_irony:
-        # For each n-gram in non-ironic tweets, find its respective frequency
-        # in ironic tweets
-        try:
-            ironic_frequency = float([x for x in irony if x[0] == ngram][-1][-1])
-        except IndexError:
-            ironic_frequency = 0
-
-        # Take the absolute difference
-        frequency_difference.append(
-            (ngram, abs(float(frequency) - ironic_frequency)))
->>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 
     # Sort from high to low
     return sorted(frequency_difference, key=lambda x: x[1], reverse=True)
 
 
-<<<<<<< HEAD
 def create_comparison_file(filename, element, frequency_1, frequency_2):
     with open(f"{DIR_PATH}/../output/{filename}.txt", "w") as f:
         f.write(f"Position\tFrequency\tn-{element}\n")
@@ -346,8 +320,6 @@ def create_comparison_file(filename, element, frequency_1, frequency_2):
             f.write(f"{i + 1}\t{frequency_ratio}\t{element_type}\n")
 
 
-=======
->>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
 def irony_comparison_handler(element):
     """Creates new frequency files for each ironic and non-ironic [1-4]-gram
     frequency file.
@@ -356,7 +328,6 @@ def irony_comparison_handler(element):
         # Get the ironic and non-ironic n-gram frequencies
         irony = get_frequencies(f"relative_{n}-{element}_frequency_ironic.txt")
         non_irony = get_frequencies(f"relative_{n}-{element}_frequency_non_ironic.txt")
-<<<<<<< HEAD
         filename_1 = f"{n}-{element}_frequency_ironic_vs_non_ironic"
         filename_2 = f"{n}-{element}_frequency_non_ironic_vs_ironic"
 
@@ -365,24 +336,3 @@ def irony_comparison_handler(element):
 
         logging.info(f"Creating n-{element} frequency file: {filename_2}.txt")
         create_comparison_file(filename_2, element, non_irony, irony)
-=======
-        filename = f"{n}-{element}_frequency_ironic_vs_non_ironic"
-
-        logging.info(f"Creating n-{element} frequency file: {filename}.txt")
-        with open(f"{DIR_PATH}/../output/{filename}.txt", "w") as f:
-            f.write(f"Position\tFrequency\tn-{element}\n")
-            # Iterate over the n-gram / emoji, relative frequency differences
-            # tuples
-            for i, counter in enumerate(
-                    frequency_difference(irony, non_irony)):
-                element_type, frequency = counter
-                f.write(f"{i + 1}\t{frequency}\t{element_type}\n")
-
-        with open(f"{DIR_PATH}/../output/{filename}_(ratio).txt", "w") as f:
-            f.write(f"Position\tFrequency\tn-{element}\n")
-            # Iterate over the n-gram / emoji, frequency ratio tuples
-            for i, counter in enumerate(
-                    relative_frequency_ratio(irony, non_irony)):
-                element_type, frequency_ratio = counter
-                f.write(f"{i + 1}\t{frequency_ratio}\t{element_type}\n")
->>>>>>> 2815e7afa34cb5f723cd75248646a4c4f0fc65c2
