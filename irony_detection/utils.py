@@ -8,7 +8,6 @@ import emoji
 import numpy as np
 from ekphrasis.classes.preprocessor import TextPreProcessor
 from ekphrasis.classes.tokenizer import SocialTokenizer
-from ekphrasis.dicts.emoticons import emoticons
 from nltk import ngrams
 from nltk.corpus import stopwords
 from nltk.probability import FreqDist
@@ -26,7 +25,7 @@ text_processor = TextPreProcessor(
     unpack_contractions=True,
     spell_correct_elong=False,
     tokenizer=SocialTokenizer(lowercase=True).tokenize,
-    dicts=[emoticons]
+    dicts=[]
 )
 
 
@@ -42,7 +41,6 @@ def count_ngrams(lines, min_length=1, max_length=4):
     :param lines: File object or list of lines.
     :param min_length: Minimum length of n-gram, defaults to 2.
     :param max_length: Maximum length of n-gram, defaults to 4.
-    :return: [description]
     """
     logging.info("Counting n-grams")
 
@@ -73,22 +71,25 @@ def count_ngrams(lines, min_length=1, max_length=4):
 
 
 def tokenise(sentence):
-    """Tokenise the given sentence."""
-    # Remove punctuation, except #
-    punctuation = "!\"$%&'()*+,-./:;<=>?@[\]^_`{|}~"
-    sentence = sentence.translate(str.maketrans("", "", punctuation))
-
-    # Remove numbers
-    sentence = re.sub(r"\d+", "", sentence)
-
-    # Add "im" to stopwords
+    """Process and tokenise the given sentence."""
     stopword_list = stopwords.words("english")
-    stopword_list.append("im")
 
     # Remove stopwords and convert emojis to text
     processed_sentence = text_processor.pre_process_doc(sentence)
-    return [emoji.demojize(word) for word in processed_sentence
-            if word not in stopword_list and word != "#"]
+    processed_sentence = [word for word in processed_sentence
+                          if word not in stopword_list]
+
+    # Remove numbers and punctuation, except for the hash symbol
+    tokenised_sentence = []
+    for word in processed_sentence:
+        if not word.startswith("#"):
+            word = word.translate(str.maketrans("", "", string.punctuation))
+            word = "".join([letter for letter in word if not letter.isdigit()])
+
+        if word:
+            tokenised_sentence.append(emoji.demojize(word.strip()))
+
+    return tokenised_sentence
 
 
 def parse_dataset(training_set):

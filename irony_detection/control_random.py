@@ -20,10 +20,13 @@ def random_ngrams(ngrams, number_of_ngrams):
 
     random_ngrams_list = []
     for _, tag in relevant_tagged:
-        random_pos_tag = next(pos_tag for pos_tag in remaining_tagged
-                              if pos_tag[1] == tag)
-        remaining_tagged.remove(random_pos_tag)
-        random_ngrams_list.append(random_pos_tag[0])
+        try:
+            random_pos_tag = next(pos_tag for pos_tag in remaining_tagged
+                                  if pos_tag[1] == tag)
+            remaining_tagged.remove(random_pos_tag)
+            random_ngrams_list.append(random_pos_tag[0])
+        except StopIteration:
+            continue
 
     return random_ngrams_list
 

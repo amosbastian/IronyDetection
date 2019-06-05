@@ -230,11 +230,11 @@ if __name__ == "__main__":
     # The default, non-parameter optimized linear-kernel SVM
     CLF = LinearSVC()
     training_directory = f"{DIR_PATH}/../../datasets/train/"
-    test_performance(training_directory)
+    # test_performance(training_directory)
     test_control(training_directory)
 
-    groups = group_predictions()
-    create_output(groups)
+    # groups = group_predictions()
+    # create_output(groups)
 
     control_groups = group_predictions(True)
     create_output(control_groups, True)
