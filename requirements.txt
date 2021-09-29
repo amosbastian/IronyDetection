@@ -6,7 +6,7 @@ emoji==0.5.2
 ftfy==5.5.1
 kiwisolver==1.1.0
 matplotlib==3.0.3
-nltk==3.4.1
+nltk==3.6.3
 numpy==1.16.3
 pycodestyle==2.5.0
 pyparsing==2.4.0
